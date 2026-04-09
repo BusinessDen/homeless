@@ -1,0 +1,18 @@
+[
+  {
+    "id": 68,
+    "stream": "encampment_closures",
+    "site_name": "District 6",
+    "site_status": null,
+    "category": "Closure Area",
+    "opening_date": "2025-02-28",
+    "closing_date": null,
+    "posting_date": null,
+    "move_in_date": null,
+    "people_sheltered": null,
+    "police_district": 6,
+    "sqft": null,
+    "city_blocks": null,
+    "first_seen": "2026-04-09"
+  }
+]

@@ -1,5 +1,27 @@
 [
   {
+    "id": "f079e7bad8ee",
+    "stream": "news",
+    "source": "colorado_sun",
+    "source_name": "Colorado Sun",
+    "title": "With cuts coming to Proposition 123, Colorado\u2019s budget crisis is about to make its housing crisis worse",
+    "url": "https://coloradosun.com/2026/04/09/proposition-123-cuts-coming-colorado-budget-crisis-housing-crisis/",
+    "published": "Thu, 09 Apr 2026 10:00:00 +0000",
+    "summary": "<figure><img width=\"1024\" height=\"768\" src=\"https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/12/IMG_3330-scaled.jpg?fit=1024%2C768&amp;quality=85&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" alt=\"A photo of a historic hotel being used ",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "cb3409c5a188",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Rockies improve to .500 on the season following win over Astros",
+    "url": "https://www.9news.com/article/sports/mlb/colorado-rockies/colorado-rockies-sweep-houston-astros-with-9-1-win-in-final-game-of-series/73-01d53bbe-b6cb-4637-aad0-95015f48d4c5",
+    "published": "Thu, 09 Apr 2026 02:03:47 GMT",
+    "summary": "The Rockies swept the Astros with their 9-1 win Wednesday, their first sweep at home since May 2024 against the Rangers.",
+    "first_seen": "2026-04-09"
+  },
+  {
     "id": "9295f2ef09b8",
     "stream": "news",
     "source": "denverite",

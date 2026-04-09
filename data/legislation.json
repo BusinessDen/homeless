@@ -1,1 +1,3009 @@
-[]
+[
+  {
+    "id": "ocd-bill/b789c5fb-8c76-4d81-8495-4920b61f7409",
+    "stream": "legislation",
+    "identifier": "SB 113",
+    "title": "Require Recovery Residences to Obtain Behavioral Health Administration License",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB113/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/0492236f-4840-4733-84c1-bb8e2200d4b9",
+    "stream": "legislation",
+    "identifier": "HB 1202",
+    "title": "Strategy to Reduce & Prevent Homelessness",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Housing",
+      "Local Government",
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1202/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/642d9f17-bf5e-48d0-8a2f-1747d27dec14",
+    "stream": "legislation",
+    "identifier": "HB 1214",
+    "title": "Sunset Substance Abuse Treatment Program Licensing",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Human Services"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1214/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/c0abd992-adf5-4462-a484-dffee13771fd",
+    "stream": "legislation",
+    "identifier": "HB 1192",
+    "title": "Homeless Prevention Activities Program Restructure",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Human Services"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1192/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/81e2da6b-49b9-4d9e-908e-431d7577137e",
+    "stream": "legislation",
+    "identifier": "SB 146",
+    "title": "Restrict Single-Use Food Serviceware Distribution",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Natural Resources & Environment",
+      "Public Health"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB146/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/4baa3b46-b830-4c74-a1a6-c10c9748a094",
+    "stream": "legislation",
+    "identifier": "HB 1269",
+    "title": "Transit Access",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Transportation & Motor Vehicles"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1269/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/42ab74b9-b61c-46ab-970b-ae73de7ef221",
+    "stream": "legislation",
+    "identifier": "HB 1015",
+    "title": "Colorado Homeless Contribution Tax Credit Extension",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1015/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/9fbccdc8-efc3-4570-9909-4ff43738c532",
+    "stream": "legislation",
+    "identifier": "HJR 1007",
+    "title": "Honoring Native American Veterans",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "General Assembly"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HJR1007/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/58cc9fe0-23a4-48f1-b752-bf0b62aa1bae",
+    "stream": "legislation",
+    "identifier": "SB 25-308",
+    "title": "Medicaid Services Related to Federal Authorizations",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-308/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/60905a13-8c8b-4328-ae61-110f24cb705e",
+    "stream": "legislation",
+    "identifier": "SB 25-313",
+    "title": "Proposition 123 Revenue Uses",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-313/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/7b2e185e-4900-432c-8f65-dc8f7cf1691a",
+    "stream": "legislation",
+    "identifier": "SB 25-146",
+    "title": "Fingerprint-Based Criminal History Record Checks",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-146/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/000eb0e3-25ab-4e53-983e-8fda1335857b",
+    "stream": "legislation",
+    "identifier": "SB 25-045",
+    "title": "Health-Care Payment System Analysis",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-045/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/ec3e6d6f-9b78-4fe1-b6c0-9eddac820226",
+    "stream": "legislation",
+    "identifier": "SB 25-312",
+    "title": "American Rescue Plan Act Funds",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-312/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/77928642-7822-43c9-921d-644d3de4d841",
+    "stream": "legislation",
+    "identifier": "HB 25-1032",
+    "title": "Improving Infrastructure to Reduce Homelessness",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/HB25-1032/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/56f7201e-f2ae-4e63-bc17-e8f67978457b",
+    "stream": "legislation",
+    "identifier": "HB 25-1168",
+    "title": "Housing Protections for Victim-Survivors",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/HB25-1168/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/7c8a9559-8dd1-4f43-897c-81ef64d6991e",
+    "stream": "legislation",
+    "identifier": "HB 25-1019",
+    "title": "Third-Party Administration of Division of Housing Programs",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/HB25-1019/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/5dd274b9-41f9-49c3-971f-5c53df8314c1",
+    "stream": "legislation",
+    "identifier": "SB 25-100",
+    "title": "Department of Local Affairs Supplemental",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-100/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/292c731a-ec8f-4d9e-a359-9b6d34bfcdff",
+    "stream": "legislation",
+    "identifier": "SB 25-095",
+    "title": "Department of Human Services Supplemental",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-095/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/498451df-f13f-4a90-883e-288628928a36",
+    "stream": "legislation",
+    "identifier": "HJR 25-1019",
+    "title": "Native American Veterans",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/HJR25-1019/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/35fcb9a0-7043-4d00-87e1-836d269e0f59",
+    "stream": "legislation",
+    "identifier": "HJR 25-1008",
+    "title": "Honoring Co-Responders & Behavioral Professionals",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/HJR25-1008/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/22ad71f4-c4ba-41ed-89c6-4240708da948",
+    "stream": "legislation",
+    "identifier": "HJR 25-1024",
+    "title": "Sand Creek Massacre Memorial",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/HJR25-1024/",
+    "sources": [],
+    "search_term": "encampment",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/667b462f-099a-4d4f-9776-39595fc7d23a",
+    "stream": "legislation",
+    "identifier": "HB 24-1313",
+    "title": "Housing in Transit-Oriented Communities",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/HB24-1313/",
+    "sources": [],
+    "search_term": "unsheltered",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/526890ef-4f2b-4fc6-8600-434bc7600c9e",
+    "stream": "legislation",
+    "identifier": "SB 23-213",
+    "title": "Land Use",
+    "session": "2023A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2023A/SB23-213/",
+    "sources": [],
+    "search_term": "unsheltered",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/70bf70a1-40bc-4978-b209-4e1b08adf6ff",
+    "stream": "legislation",
+    "identifier": "HB 22-1083",
+    "title": "Colorado Homeless Contribution Income Tax Credit",
+    "session": "2022A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2022A/HB22-1083/",
+    "sources": [],
+    "search_term": "unsheltered",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/ce735401-5505-46ac-ad88-0b24ab5c0bd7",
+    "stream": "legislation",
+    "identifier": "SB 22-231",
+    "title": "Programs To Develop Housing Support Services",
+    "session": "2022A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2022A/SB22-231/",
+    "sources": [],
+    "search_term": "unsheltered",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/0436fd87-0331-4064-a9c8-a6f9187dd345",
+    "stream": "legislation",
+    "identifier": "HB 20-1335",
+    "title": "Colorado Homeless Project Contribution Tax Credit",
+    "session": "2020A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2020A/HB20-1335/",
+    "sources": [],
+    "search_term": "unsheltered",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/6c77ee2c-0db6-48ce-bbed-4fff0177ad45",
+    "stream": "legislation",
+    "identifier": "HB 20-1035",
+    "title": "Programs To Develop Housing Support Services",
+    "session": "2020A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2020A/HB20-1035/",
+    "sources": [],
+    "search_term": "unsheltered",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/514d6c62-2c77-4c2f-9e6b-72f0307edcfd",
+    "stream": "legislation",
+    "identifier": "HB 19-1245",
+    "title": "Affordable Housing Funding From Vendor Fee Changes",
+    "session": "2019A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2019A/HB19-1245/",
+    "sources": [],
+    "search_term": "unsheltered",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/fe018bf2-e29b-4ce6-a842-769cd3dcef13",
+    "stream": "legislation",
+    "identifier": "HB 1339",
+    "title": "Change Cesar Chavez Day to Farm Workers Day",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1339/",
+    "sources": [],
+    "search_term": "camping ban",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/0282f514-5aa5-4def-bf3f-88f7e0b69b5a",
+    "stream": "legislation",
+    "identifier": "SB 25-003",
+    "title": "Semiautomatic Firearms & Rapid-Fire Devices",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-003/",
+    "sources": [],
+    "search_term": "camping ban",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/208765fc-1dfb-4fa8-9210-90785cdef76a",
+    "stream": "legislation",
+    "identifier": "HR 25-1004",
+    "title": "Honoring Cesar Chavez & Dolores Huerta",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/HR25-1004/",
+    "sources": [],
+    "search_term": "camping ban",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/8971b926-10d0-42c6-ad19-701d4678572a",
+    "stream": "legislation",
+    "identifier": "SB 21-271",
+    "title": "Misdemeanor Reform",
+    "session": "2021A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2021A/SB21-271/",
+    "sources": [],
+    "search_term": "camping ban",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/ae633fc3-b535-48f0-9953-035daa926eed",
+    "stream": "legislation",
+    "identifier": "SJR 21-007",
+    "title": "Cesar Chavez Day",
+    "session": "2021A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2021A/SJR21-007/",
+    "sources": [],
+    "search_term": "camping ban",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/ecce7ff4-820c-4042-8260-67653b36d7a1",
+    "stream": "legislation",
+    "identifier": "SB 21-059",
+    "title": "Juvenile Justice Code Reorganization",
+    "session": "2021A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2021A/SB21-059/",
+    "sources": [],
+    "search_term": "camping ban",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/9a42e918-1187-40bc-8108-9f04e591b450",
+    "stream": "legislation",
+    "identifier": "HB 1239",
+    "title": "County Enforcement Authority",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Local Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1239/",
+    "sources": [],
+    "search_term": "shelter",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/aa831f08-ba96-44cf-b46f-f3a7cc225c2a",
+    "stream": "legislation",
+    "identifier": "HB 1272",
+    "title": "Extreme Temperatures Worker Protections",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Labor & Employment"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1272/",
+    "sources": [],
+    "search_term": "shelter",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/3b79a535-0477-463c-b89c-34f434ae4420",
+    "stream": "legislation",
+    "identifier": "HB 1198",
+    "title": "Access to Veterinary Care",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Professions & Occupations"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1198/",
+    "sources": [],
+    "search_term": "shelter",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/5fca5ef8-f772-45c8-8d5c-81d2251b43dc",
+    "stream": "legislation",
+    "identifier": "HB 1011",
+    "title": "Transfers of Certain Pet Animals",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Agriculture"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1011/",
+    "sources": [],
+    "search_term": "shelter",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/b6ea9ac6-6285-44b1-b5c3-6185ca625b06",
+    "stream": "legislation",
+    "identifier": "HB 1183",
+    "title": "Sunset Pet Animal Care & Facilities Act",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Agriculture"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1183/",
+    "sources": [],
+    "search_term": "shelter",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/acc44ac6-a686-45c9-86a3-d77a908ffba1",
+    "stream": "legislation",
+    "identifier": "HB 1308",
+    "title": "Lot Splitting Approval by Subject Jurisdictions",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Housing",
+      "Local Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1308/",
+    "sources": [],
+    "search_term": "shelter",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/6b8cd93b-05be-4911-b336-99566ef91851",
+    "stream": "legislation",
+    "identifier": "HB 1256",
+    "title": "Procedures & Data Individual's Release from Department of Corrections",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1256/",
+    "sources": [],
+    "search_term": "shelter",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/8200b00b-5ac7-4315-a9e2-7e4d950b4883",
+    "stream": "legislation",
+    "identifier": "HB 1001",
+    "title": "Housing Developments on Qualifying Properties",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Housing",
+      "Local Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1001/",
+    "sources": [],
+    "search_term": "shelter",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/ffa4d36f-8be3-4c02-b12a-849a83cd8704",
+    "stream": "legislation",
+    "identifier": "HB 1251",
+    "title": "Creating Equal Justice License Plate",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Transportation & Motor Vehicles"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1251/",
+    "sources": [],
+    "search_term": "shelter",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/c11187e5-d98d-4c6b-86e7-507ca9a9c42f",
+    "stream": "legislation",
+    "identifier": "HB 1021",
+    "title": "Second Amendment Protection Act",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Courts & Judicial",
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1021/",
+    "sources": [],
+    "search_term": "shelter",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/5313254c-f5ab-4e79-8e5d-9b7394ffc9b5",
+    "stream": "legislation",
+    "identifier": "SJR 7",
+    "title": "Black History Month February of 2026",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "General Assembly"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SJR7/",
+    "sources": [],
+    "search_term": "shelter",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/dcda619f-deb8-42c7-9765-c24957baa5d7",
+    "stream": "legislation",
+    "identifier": "SB 97",
+    "title": "Decriminalize Adult Commercial Sexual Activity",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB97/",
+    "sources": [],
+    "search_term": "shelter",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/bd765126-d0da-43b1-884b-e171d8783645",
+    "stream": "legislation",
+    "identifier": "SB 109",
+    "title": "Building Code Accessibility",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Housing",
+      "Local Government",
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB109/",
+    "sources": [],
+    "search_term": "shelter",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/56089464-a93f-4b77-bf53-6477c7270e02",
+    "stream": "legislation",
+    "identifier": "SB 15",
+    "title": "Commercial Sexual Activity with a Child Offenses",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB15/",
+    "sources": [],
+    "search_term": "shelter",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/e378a71f-74b9-4533-b66c-ff559abd1f0a",
+    "stream": "legislation",
+    "identifier": "SJR 6",
+    "title": "Coloradans Navigating Complex United States Immigration System",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SJR6/",
+    "sources": [],
+    "search_term": "shelter",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/0a91035b-5d52-4710-a5b4-6cc8074056a2",
+    "stream": "legislation",
+    "identifier": "SB 75",
+    "title": "Trafficking & Commercial Sexual Activity Offenses",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB75/",
+    "sources": [],
+    "search_term": "shelter",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/edd8b964-cfe8-4b7f-a1fe-a4ce6e1da74a",
+    "stream": "legislation",
+    "identifier": "SB 25-085",
+    "title": "Health-Related Research Test Subjects",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-085/",
+    "sources": [],
+    "search_term": "shelter",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/26257325-9d8d-4829-8bf5-66f7b259a0b2",
+    "stream": "legislation",
+    "identifier": "SB 25-235",
+    "title": "Emergency Temporary Care for Children Funding",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-235/",
+    "sources": [],
+    "search_term": "shelter",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/f586d223-c08c-4a4d-a032-da9be4d344ef",
+    "stream": "legislation",
+    "identifier": "SB 80",
+    "title": "Cradle to Career Grant Program Creation",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Human Services"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB80/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/9f46cccc-693a-4f76-89ef-ac16e73c9a00",
+    "stream": "legislation",
+    "identifier": "HB 1081",
+    "title": "Optimize Colorado Electric Transmission System",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Energy"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1081/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/fef428f3-9e5d-4749-850e-ff1016265f0d",
+    "stream": "legislation",
+    "identifier": "SB 39",
+    "title": "Fire and Police Pension Association Disability and Survivor Benefits",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Local Government",
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB39/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/3662abd9-863c-4cf6-9c9f-b3e5c6819186",
+    "stream": "legislation",
+    "identifier": "HB 1271",
+    "title": "Alcohol Impact & Recovery Enterprises",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance",
+      "Liquor, Tobacco, & Marijuana"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1271/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/32f7f7d6-c4a2-43a9-a7cf-16a5164c8b73",
+    "stream": "legislation",
+    "identifier": "HJR 1025",
+    "title": "Sexual Assault Awareness Month Denim Day 2026",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "General Assembly"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HJR1025/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/ad1ea518-f7da-4eb9-9885-27e5a3aa86aa",
+    "stream": "legislation",
+    "identifier": "HB 1314",
+    "title": "Family Stability & Kinship Care",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Children & Domestic Matters"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1314/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/62f9e9a9-c7f6-4bbe-bc85-60c51f5e97b9",
+    "stream": "legislation",
+    "identifier": "SB 149",
+    "title": "Pathways for Individuals with Mental Health Disorder",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Civil Law",
+      "Courts & Judicial",
+      "Crimes, Corrections, & Enforcement",
+      "Human Services"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB149/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/243b28a5-4f95-4716-8038-5ddad983b18e",
+    "stream": "legislation",
+    "identifier": "HB 1206",
+    "title": "Improved Funding to Support Development",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Housing",
+      "Local Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1206/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/bc16a869-d9c0-4607-85eb-dd43542d679e",
+    "stream": "legislation",
+    "identifier": "SB 139",
+    "title": "Local Education Provider Workforce Housing",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Education & School Finance (Pre & K-12)",
+      "Housing"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB139/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/a6ebd1d2-4fd9-4144-90da-469c9b7d7d88",
+    "stream": "legislation",
+    "identifier": "HB 1222",
+    "title": "Modify Tax Expenditures",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1222/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/e3810f9e-eb8b-479c-9d51-e20ac7b01865",
+    "stream": "legislation",
+    "identifier": "SB 102",
+    "title": "Large-Load Data Centers",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Energy"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB102/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/3782385b-e486-4109-8a31-c923229a4ddd",
+    "stream": "legislation",
+    "identifier": "HB 1047",
+    "title": "Protections for Residential Tenants",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Housing"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1047/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/b7465125-9d98-492b-a7ad-6fec4845ebf5",
+    "stream": "legislation",
+    "identifier": "HJR 1019",
+    "title": "Recognize Caregiving Youth Day",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HJR1019/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/996f3606-bbe6-4f8f-8d5e-5b8c97c66081",
+    "stream": "legislation",
+    "identifier": "SB 45",
+    "title": "Nuclear Workforce Development & Education Program",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Higher Education",
+      "Labor & Employment",
+      "Natural Resources & Environment"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB45/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/4244a104-d543-4f7f-b649-36b277b7d4c3",
+    "stream": "legislation",
+    "identifier": "HJR 1004",
+    "title": "Military Appreciation Day",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "General Assembly"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HJR1004/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/9a1b9e05-272d-42da-a2f4-a533f9c6b71f",
+    "stream": "legislation",
+    "identifier": "HB 1030",
+    "title": "Data Center & Utility Modernization",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Business & Economic Development",
+      "Energy"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1030/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/9f084da9-5169-4754-9deb-942cd9dcd658",
+    "stream": "legislation",
+    "identifier": "HB 1357",
+    "title": "Phase-Out of Teacher Recruitment Education and Preparation Program",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Education & School Finance (Pre & K-12)"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1357/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/39a83bb9-ce68-4aec-ac79-1ad8ce3d6b7b",
+    "stream": "legislation",
+    "identifier": "HB 1401",
+    "title": "Transfers from Unclaimed Property Trust Fund",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "State Government",
+      "State Revenue & Budget"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1401/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/c22a8cc4-bdb8-47c0-b69f-42d46900f5db",
+    "stream": "legislation",
+    "identifier": "HB 1411",
+    "title": "Changes to Cover All Coloradans Program",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1411/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/ba1bc91b-2217-48fc-9aad-9ca45c2e72d4",
+    "stream": "legislation",
+    "identifier": "HB 1391",
+    "title": "Safe Drinking Water in Child Care Centers & Schools",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Public Health",
+      "Water"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1391/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/77769305-e5a1-4565-bc0a-f0cd3f0755af",
+    "stream": "legislation",
+    "identifier": "HB 1356",
+    "title": "Repeal Local Accountability System",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Education & School Finance (Pre & K-12)"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1356/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/12d27b01-ad89-4764-b42d-ac948189e5d7",
+    "stream": "legislation",
+    "identifier": "HB 1349",
+    "title": "Funding for Prevention Services Programs Colorado Department of Early Childhood",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Children & Domestic Matters",
+      "General Assembly"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1349/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/56391829-447c-49a6-b1b9-c280253a49b1",
+    "stream": "legislation",
+    "identifier": "HB 1360",
+    "title": "Affordable Housing Financing Fund",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Housing",
+      "State Government",
+      "State Revenue & Budget"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1360/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/e0006200-df52-468e-8ae7-e7ff1af86787",
+    "stream": "legislation",
+    "identifier": "HB 1362",
+    "title": "Repeal Decarbonization Tax Credits Administration Fund",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "State Government",
+      "State Revenue & Budget"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1362/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/b25ce2bf-1ca9-4300-8e53-1207e14ff06a",
+    "stream": "legislation",
+    "identifier": "SB 150",
+    "title": "Modernizing Regional Transportation District",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Transportation & Motor Vehicles"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB150/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/995d9010-debe-42eb-b17d-aa794d71915e",
+    "stream": "legislation",
+    "identifier": "HB 1313",
+    "title": "Adjust Requirements Statewide Affordable Housing Fund",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Housing",
+      "Local Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1313/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/f247ddc4-216f-465d-8703-ae12ab1d59c3",
+    "stream": "legislation",
+    "identifier": "HB 1332",
+    "title": "Legislative Department Cash Fund",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "General Assembly"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1332/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/432bdb77-fc43-4837-b0bb-3c29548744f8",
+    "stream": "legislation",
+    "identifier": "HB 1300",
+    "title": "Health Service District Affordable Housing Service",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Housing",
+      "Local Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1300/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/43d03b11-3506-4e93-953c-8c04b6b221d3",
+    "stream": "legislation",
+    "identifier": "HB 1102",
+    "title": "Funding for Colorado DRIVES Account",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Transportation & Motor Vehicles"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1102/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/6b33c13f-705e-4c6d-a22b-3843672d7f9b",
+    "stream": "legislation",
+    "identifier": "SB 144",
+    "title": "Modify Property Tax Lien Sales Treasurer Deeds & Fees",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes",
+      "Local Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB144/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/5df55e1f-d2f2-407f-8dfb-a781a5cae155",
+    "stream": "legislation",
+    "identifier": "SB 21",
+    "title": "Clean Fleet Enterprise Replace Aging Diesel Trucks",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Transportation & Motor Vehicles"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB21/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/58d4eb44-d9f2-4ae1-b975-0d4939005dcb",
+    "stream": "legislation",
+    "identifier": "SB 142",
+    "title": "Development of Thermal Energy Resources",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Business & Economic Development",
+      "Energy",
+      "Local Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB142/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/7f3cacf3-6597-4ddd-aed8-4c5dbd3d1429",
+    "stream": "legislation",
+    "identifier": "SB 14",
+    "title": "Modification to Defense of Not Guilty by Reason of Insanity",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Courts & Judicial",
+      "Crimes, Corrections, & Enforcement",
+      "Human Services"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB14/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/de91690f-8c89-4b6e-83c1-6a8db050f087",
+    "stream": "legislation",
+    "identifier": "SB 88",
+    "title": "Funding for Memorials on State Capitol Grounds",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB88/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/6649123b-60de-49a6-afc0-2270cb18c45e",
+    "stream": "legislation",
+    "identifier": "HB 1295",
+    "title": "Repeal of Obsolete Statutory Requirements",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "General Assembly",
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1295/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/9d4cee50-f3cb-444e-936f-6249f62328f6",
+    "stream": "legislation",
+    "identifier": "HB 1327",
+    "title": "Large Employer Worker Health-Care Support",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance",
+      "Labor & Employment",
+      "Professions & Occupations"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1327/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/0cf0cf3c-a1a4-4be7-bd84-9d8a58732ab1",
+    "stream": "legislation",
+    "identifier": "HB 1007",
+    "title": "Improve Customer Use Distributed Energy Resources",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Energy"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1007/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/c6cc5664-4779-414c-b7b4-d1463557732b",
+    "stream": "legislation",
+    "identifier": "SB 148",
+    "title": "Financing Utility On-Bill Repayment Program",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Energy"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB148/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/ea72c3b9-116b-4598-b993-225e52dc3c30",
+    "stream": "legislation",
+    "identifier": "SB 20",
+    "title": "Child Care Provider Licensing & Quality",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Children & Domestic Matters",
+      "Education & School Finance (Pre & K-12)"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB20/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/7a657fb5-e13c-42f4-82d0-5672fe2cb568",
+    "stream": "legislation",
+    "identifier": "HB 1061",
+    "title": "Community Integration Housing Tax Credits",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes",
+      "Housing"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1061/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/ee390a92-2ed3-470d-895f-b53e14329099",
+    "stream": "legislation",
+    "identifier": "SB 40",
+    "title": "Affordable Home Ownership Program",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Housing"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB40/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/b8e20849-edfe-48da-ba42-712651a6dc90",
+    "stream": "legislation",
+    "identifier": "SB 53",
+    "title": "Colorado Housing and Finance Authority Mortgage POST Officers First Responders",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Housing"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB53/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/d0df20d1-a24f-44e3-89da-65e91e2d24f4",
+    "stream": "legislation",
+    "identifier": "SB 61",
+    "title": "Publication Counties Without Legal Newspapers",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Local Government",
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB61/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/61fe6b91-eb45-47f3-b5c6-721c320d5d41",
+    "stream": "legislation",
+    "identifier": "HB 1038",
+    "title": "County Commissioner Redistricting",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Elections & Redistricting",
+      "Local Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1038/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/cb16dc01-c7e2-44b3-ac8b-cc07152d8968",
+    "stream": "legislation",
+    "identifier": "HJR 1024",
+    "title": "Designate Educators & Teachers Memorial Highway",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "General Assembly"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HJR1024/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/d458b21b-6624-450a-b14d-169f2d563606",
+    "stream": "legislation",
+    "identifier": "SB 8",
+    "title": "Mental Health Access",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Human Services"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB8/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/f9cbd361-42ed-476d-a044-4b6e949c4657",
+    "stream": "legislation",
+    "identifier": "HB 1237",
+    "title": "Transportation Safety Modifications",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Transportation & Motor Vehicles"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1237/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/c5dba2ca-332d-479a-9b83-dcc66e487962",
+    "stream": "legislation",
+    "identifier": "SB 156",
+    "title": "Change Practices of Work Force Development Council",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Business & Economic Development"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB156/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/fe86fe2d-8afa-4afe-86cb-76393209508e",
+    "stream": "legislation",
+    "identifier": "HB 1312",
+    "title": "Peace Officers Standards & Training Board Changes",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1312/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/6249612e-5d11-4d7e-acbb-9daa63bdac70",
+    "stream": "legislation",
+    "identifier": "HB 1134",
+    "title": "Fairness & Transparency in Municipal Court",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Courts & Judicial"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1134/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/b40c5ec9-ad55-4a89-83b2-b2596fbddf2e",
+    "stream": "legislation",
+    "identifier": "HB 1320",
+    "title": "Accessible Language Statutory Ballot Title Requirements",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Elections & Redistricting",
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1320/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/ea3743b7-1fee-445c-88fc-830a52bb7483",
+    "stream": "legislation",
+    "identifier": "HB 1238",
+    "title": "Designating Emergency Medical Services Essential Services",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1238/",
+    "sources": [],
+    "search_term": "continuum of care",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/a6e0ef70-decc-4270-b2c3-3c45334fbdb6",
+    "stream": "legislation",
+    "identifier": "SJR 13",
+    "title": "Recognize Youth Mental Health Action Day",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Public Health"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SJR13/",
+    "sources": [],
+    "search_term": "continuum of care",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/f90cbe84-9cb0-4ad7-a356-fdd54872a580",
+    "stream": "legislation",
+    "identifier": "SB 25-042",
+    "title": "Behavioral Health Crisis Response Recommendations",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-042/",
+    "sources": [],
+    "search_term": "continuum of care",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/4a5d6518-e8b3-4d88-ad41-9c1c7e2271ff",
+    "stream": "legislation",
+    "identifier": "SB 25-270",
+    "title": "Enterprise Nursing Facility Provider Fees",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-270/",
+    "sources": [],
+    "search_term": "continuum of care",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/56cffe69-1bed-46bf-9793-73771eb3b803",
+    "stream": "legislation",
+    "identifier": "SB 25-236",
+    "title": "Consolidation of Crisis Response Services",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-236/",
+    "sources": [],
+    "search_term": "continuum of care",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/e108e396-2ae1-4896-b43c-9a5365ecf99f",
+    "stream": "legislation",
+    "identifier": "SB 25-151",
+    "title": "Measures to Prevent Youth from Running Away",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-151/",
+    "sources": [],
+    "search_term": "continuum of care",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/e02e461a-fb5d-40ff-9f3b-d4a23301c10f",
+    "stream": "legislation",
+    "identifier": "HB 25-1132",
+    "title": "Military Family Behavioral Health Grant Program",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/HB25-1132/",
+    "sources": [],
+    "search_term": "continuum of care",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/a7b73a92-36e9-48ba-ae7d-d54bfe43df43",
+    "stream": "legislation",
+    "identifier": "HB 24-1176",
+    "title": "Behavioral Health Grant for Capital Project",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/HB24-1176/",
+    "sources": [],
+    "search_term": "continuum of care",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/a261100c-1d44-4150-8e3a-6fbb351ce822",
+    "stream": "legislation",
+    "identifier": "SB 24-059",
+    "title": "Children's Behavioral Health Statewide System of Care",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/SB24-059/",
+    "sources": [],
+    "search_term": "continuum of care",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/f102b7b8-7ed9-4999-abac-ec5e26e9225c",
+    "stream": "legislation",
+    "identifier": "SB 24-200",
+    "title": "Equity, Diversity, & Inclusion in Child Welfare",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/SB24-200/",
+    "sources": [],
+    "search_term": "continuum of care",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/6e50c4f0-3e69-4b65-a577-f82bb85117e7",
+    "stream": "legislation",
+    "identifier": "SB 24-181",
+    "title": "Alcohol Impact & Recovery Enterprise",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/SB24-181/",
+    "sources": [],
+    "search_term": "continuum of care",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/d9a9f0e1-c284-49c5-9343-eaa3a4d2ebcd",
+    "stream": "legislation",
+    "identifier": "HB 24-1450",
+    "title": "Revisor's Bill",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/HB24-1450/",
+    "sources": [],
+    "search_term": "continuum of care",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/e598ec7e-9ca0-47c2-8872-72cab0d5fdc4",
+    "stream": "legislation",
+    "identifier": "SB 24-176",
+    "title": "Update Medicaid Member Terminology",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/SB24-176/",
+    "sources": [],
+    "search_term": "continuum of care",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/b71c5d2a-4be5-419d-9f55-3021b08bfe60",
+    "stream": "legislation",
+    "identifier": "HB 1382",
+    "title": "Support of Coloradans with Disabilities",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1382/",
+    "sources": [],
+    "search_term": "navigation center",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/0c19fcd4-b931-4b5c-aa24-b13f3c20640f",
+    "stream": "legislation",
+    "identifier": "HB 1317",
+    "title": "Unified Postsecondary Talent Development System",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Higher Education",
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1317/",
+    "sources": [],
+    "search_term": "navigation center",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/3b4e2bc1-1fc9-40c8-a436-6c615ce6351b",
+    "stream": "legislation",
+    "identifier": "SB 138",
+    "title": "Reducing Administrative Burdens on Health Care",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance",
+      "Public Health"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB138/",
+    "sources": [],
+    "search_term": "navigation center",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/ef96aaca-2034-479c-b817-d9a28e1eca22",
+    "stream": "legislation",
+    "identifier": "SB 25-097",
+    "title": "Department of Labor & Employment Supplemental",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-097/",
+    "sources": [],
+    "search_term": "navigation center",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/21fecea1-1228-4a75-84f4-8ce102800092",
+    "stream": "legislation",
+    "identifier": "SJR 25-010",
+    "title": "Colorado Aerospace Day",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SJR25-010/",
+    "sources": [],
+    "search_term": "navigation center",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/7c98af43-527b-416b-ae8e-499897a3cb1c",
+    "stream": "legislation",
+    "identifier": "SB 24-174",
+    "title": "Sustainable Affordable Housing Assistance",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/SB24-174/",
+    "sources": [],
+    "search_term": "navigation center",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/82431dfe-7d6d-4c9c-8693-a1b95454d506",
+    "stream": "legislation",
+    "identifier": "SB 24-085",
+    "title": "Sales & Use Tax Rebate for Digital Asset Purchases",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/SB24-085/",
+    "sources": [],
+    "search_term": "navigation center",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/e7b6caf5-1b5f-4ae2-93c1-266e94338a16",
+    "stream": "legislation",
+    "identifier": "HB 24-1262",
+    "title": "Maternal Health Midwives",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/HB24-1262/",
+    "sources": [],
+    "search_term": "navigation center",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/737e124b-bb60-4ad7-b3d5-c9dde5afb38d",
+    "stream": "legislation",
+    "identifier": "HB 24-1447",
+    "title": "Transit Reform",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/HB24-1447/",
+    "sources": [],
+    "search_term": "navigation center",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/9746d063-f318-41cd-b9d1-e331eea3891a",
+    "stream": "legislation",
+    "identifier": "SB 24-048",
+    "title": "Substance Use Disorders Recovery",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/SB24-048/",
+    "sources": [],
+    "search_term": "navigation center",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/7c404791-d49f-49fc-a954-5570344d9924",
+    "stream": "legislation",
+    "identifier": "HB 24-1466",
+    "title": "Refinance Federal Coronavirus Recovery Funds",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/HB24-1466/",
+    "sources": [],
+    "search_term": "navigation center",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/d9129064-5730-425f-b103-0aa4a2cc4317",
+    "stream": "legislation",
+    "identifier": "HB 24-1364",
+    "title": "Education-Based Workforce Readiness",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/HB24-1364/",
+    "sources": [],
+    "search_term": "navigation center",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/f067b211-8ea7-4f89-ad45-b496b35c4eb7",
+    "stream": "legislation",
+    "identifier": "SB 25-002",
+    "title": "Regional Building Codes for Factory-Built Structures",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-002/",
+    "sources": [],
+    "search_term": "tiny home",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/31d405f5-cafa-4760-9245-414f84d102d8",
+    "stream": "legislation",
+    "identifier": "SB 25-156",
+    "title": "Reducing Costs of State Regulation",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-156/",
+    "sources": [],
+    "search_term": "tiny home",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/9c0cfe9b-4298-451a-87a7-ad2f79a5e59a",
+    "stream": "legislation",
+    "identifier": "HB 24-1036",
+    "title": "Adjusting Certain Tax Expenditures",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/HB24-1036/",
+    "sources": [],
+    "search_term": "tiny home",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/d1436607-f7fe-4b1d-95c5-7f4df1ed8420",
+    "stream": "legislation",
+    "identifier": "SB 24-183",
+    "title": "Mobile Home Taxation Task Force",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/SB24-183/",
+    "sources": [],
+    "search_term": "tiny home",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/9aa572dd-a332-4efd-914e-a4fbfb3b96c1",
+    "stream": "legislation",
+    "identifier": "HB 24-1299",
+    "title": "Short-Term Rental Unit Property Tax Classification",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/HB24-1299/",
+    "sources": [],
+    "search_term": "tiny home",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/20e23665-d7bb-4424-806c-9f4fccd7fe98",
+    "stream": "legislation",
+    "identifier": "HB 23-1302",
+    "title": "Housing Accessibility",
+    "session": "2023A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2023A/HB23-1302/",
+    "sources": [],
+    "search_term": "tiny home",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/cd941626-75e1-4372-8371-686b6fbcfc6e",
+    "stream": "legislation",
+    "identifier": "HB 23-1301",
+    "title": "Revisor's Bill",
+    "session": "2023A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2023A/HB23-1301/",
+    "sources": [],
+    "search_term": "tiny home",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/86473017-f265-4236-b280-23f1bca1c316",
+    "stream": "legislation",
+    "identifier": "HB 22-1282",
+    "title": "The Innovative Housing Incentive Program",
+    "session": "2022A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2022A/HB22-1282/",
+    "sources": [],
+    "search_term": "tiny home",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/28123ad1-7f4e-40a5-9070-fc606d1089f9",
+    "stream": "legislation",
+    "identifier": "HB 22-1242",
+    "title": "Regulate Tiny Homes Manufacture Sale And Install",
+    "session": "2022A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2022A/HB22-1242/",
+    "sources": [],
+    "search_term": "tiny home",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/a399a197-197f-405a-b390-a64566989abc",
+    "stream": "legislation",
+    "identifier": "SB 22-086",
+    "title": "Homestead Exemption And Consumer Debt Protection",
+    "session": "2022A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2022A/SB22-086/",
+    "sources": [],
+    "search_term": "tiny home",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/f4bfd4a8-718d-4815-b665-9e23033762a0",
+    "stream": "legislation",
+    "identifier": "HB 21-1019",
+    "title": "Modification To Regulations Of Factory-built Structures",
+    "session": "2021A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2021A/HB21-1019/",
+    "sources": [],
+    "search_term": "tiny home",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/def856e9-f3d4-4fc4-8a2f-4412287dc4e6",
+    "stream": "legislation",
+    "identifier": "SB 25-149",
+    "title": "Local Government Duties Equestrian Protections",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-149/",
+    "sources": [],
+    "search_term": "safe outdoor space",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/50738161-7428-4708-bcb3-db5762f88ed7",
+    "stream": "legislation",
+    "identifier": "SB 24-219",
+    "title": "Colorado Roadside & Outdoor Recreation Industry Enterprise",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/SB24-219/",
+    "sources": [],
+    "search_term": "safe outdoor space",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/dd46175e-bfb4-46b0-b1e7-39a67551d6af",
+    "stream": "legislation",
+    "identifier": "HB 24-1352",
+    "title": "Appliance Requirements & Incentives",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/HB24-1352/",
+    "sources": [],
+    "search_term": "safe outdoor space",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/cbe4a8b1-395e-4bc1-aff7-efb1b8e7ec63",
+    "stream": "legislation",
+    "identifier": "HB 23-1057",
+    "title": "Amenities For All Genders In Public Buildings",
+    "session": "2023A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2023A/HB23-1057/",
+    "sources": [],
+    "search_term": "safe outdoor space",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/993caeb8-1af8-4d04-878a-87e61af5e748",
+    "stream": "legislation",
+    "identifier": "HB 23-1296",
+    "title": "Create Task Force Study Rights Persons Disabilities",
+    "session": "2023A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2023A/HB23-1296/",
+    "sources": [],
+    "search_term": "safe outdoor space",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/9f84475a-dedc-4c33-9763-03731a3d03b8",
+    "stream": "legislation",
+    "identifier": "HB 23-1161",
+    "title": "Environmental Standards For Appliances",
+    "session": "2023A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2023A/HB23-1161/",
+    "sources": [],
+    "search_term": "safe outdoor space",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/1213a83b-6d23-41e4-8114-d96defe3772d",
+    "stream": "legislation",
+    "identifier": "SB 23-171",
+    "title": "Large Entertainment Facility Substance-free Seating Requirement",
+    "session": "2023A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2023A/SB23-171/",
+    "sources": [],
+    "search_term": "safe outdoor space",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/d5656d41-ed0e-4279-949d-918ffa128eee",
+    "stream": "legislation",
+    "identifier": "HB 22-1295",
+    "title": "Department Early Childhood And Universal Preschool Program",
+    "session": "2022A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2022A/HB22-1295/",
+    "sources": [],
+    "search_term": "safe outdoor space",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/98912454-500f-45d7-a8e9-1bc4350ab4d9",
+    "stream": "legislation",
+    "identifier": "SB 22-111",
+    "title": "Infection Prevention Grants To Nursing Facilities",
+    "session": "2022A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2022A/SB22-111/",
+    "sources": [],
+    "search_term": "safe outdoor space",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/a5a55695-5bed-4ca5-a751-d5c8a39d7a05",
+    "stream": "legislation",
+    "identifier": "SB 21-260",
+    "title": "Sustainability Of The Transportation System",
+    "session": "2021A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2021A/SB21-260/",
+    "sources": [],
+    "search_term": "safe outdoor space",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/733ddf5e-099b-477e-90a1-e97f9915771b",
+    "stream": "legislation",
+    "identifier": "SB 21-236",
+    "title": "Increase Capacity Early Childhood Care & Education",
+    "session": "2021A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2021A/SB21-236/",
+    "sources": [],
+    "search_term": "safe outdoor space",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/7396f7ff-c101-4179-8361-0ecc43a1de05",
+    "stream": "legislation",
+    "identifier": "HB 20-1343",
+    "title": "Egg-laying Hen Confinement Standards",
+    "session": "2020A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2020A/HB20-1343/",
+    "sources": [],
+    "search_term": "safe outdoor space",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/30858df9-d2de-4b92-92bc-d2854e343252",
+    "stream": "legislation",
+    "identifier": "HB 20-1233",
+    "title": "Basic Life Functions In Public Spaces",
+    "session": "2020A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2020A/HB20-1233/",
+    "sources": [],
+    "search_term": "safe outdoor space",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/786ae7fe-1694-49e4-b16e-c6099d5c0e86",
+    "stream": "legislation",
+    "identifier": "HB 19-1172",
+    "title": "Title 12 Recodification And Reorganization",
+    "session": "2019A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2019A/HB19-1172/",
+    "sources": [],
+    "search_term": "safe outdoor space",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/0e5b0406-c482-425f-a1ce-7c40dfb97ef7",
+    "stream": "legislation",
+    "identifier": "HB 19-1161",
+    "title": "Comprehensive Physical Education Instruction Pilot",
+    "session": "2019A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2019A/HB19-1161/",
+    "sources": [],
+    "search_term": "safe outdoor space",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/3a774831-4d12-44f9-ae5c-4b219173c2b0",
+    "stream": "legislation",
+    "identifier": "HB 18-1067",
+    "title": "Right To Rest Act",
+    "session": "2018A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2018A/HB18-1067/",
+    "sources": [],
+    "search_term": "safe outdoor space",
+    "first_seen": "2026-04-09"
+  },
+  {
+    "id": "ocd-bill/722ba74d-f28a-47f4-bd0f-d702dfd284ba",
+    "stream": "legislation",
+    "identifier": "HB 17-1314",
+    "title": "Colorado Right To Rest Act",
+    "session": "2017A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2017A/HB17-1314/",
+    "sources": [],
+    "search_term": "safe outdoor space",
+    "first_seen": "2026-04-09"
+  }
+]
