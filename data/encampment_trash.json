@@ -1,0 +1,946 @@
+[
+  {
+    "id": "trash-0",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 1,
+      "globalid": "ac0e46ad-5402-4442-803d-ab30b230550c",
+      "CreationDate": 1692624847545,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1692624847545,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "8th & Logan",
+      "bags": 0,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-1",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 2,
+      "globalid": "27b9bc2e-1638-4981-8a32-c3f7b6a724d5",
+      "CreationDate": 1692625641341,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1692985838379,
+      "Editor": "125984_geospatialDenver",
+      "location_name": "16th & Grant",
+      "bags": 0,
+      "other": 1
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-2",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 3,
+      "globalid": "4a4a024e-af3a-4b86-83c3-c3ed0356517f",
+      "CreationDate": 1692626126510,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1692626126510,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "18th & Logan",
+      "bags": 2,
+      "other": 3
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-3",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 4,
+      "globalid": "dca635c8-621f-40f2-8888-cf8c2ee11468",
+      "CreationDate": 1692626362316,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1692626362316,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "18th & Penn",
+      "bags": 3,
+      "other": 7
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-4",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 5,
+      "globalid": "10b5819b-c98d-4c52-8a7b-5266312aea25",
+      "CreationDate": 1692627000059,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1692627000059,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "20th & Champa",
+      "bags": 1,
+      "other": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-5",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 6,
+      "globalid": "b7452b89-bdcf-4394-8f61-4eabecb5521c",
+      "CreationDate": 1692798193556,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1692798193556,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "8th & Logan",
+      "bags": 14,
+      "other": 3
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-6",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 7,
+      "globalid": "e1fc079e-2617-4527-8ba0-94b8f15a9299",
+      "CreationDate": 1692798970475,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1692985854775,
+      "Editor": "125984_geospatialDenver",
+      "location_name": "16th & Grant",
+      "bags": 3,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-7",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 8,
+      "globalid": "4cfb48f3-1465-495a-88c6-1a00fcfbcd60",
+      "CreationDate": 1692799474021,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1692799474021,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "20th & Champa",
+      "bags": 7,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-8",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 9,
+      "globalid": "72ce6054-1d9d-4e95-8c5c-dc06bacad596",
+      "CreationDate": 1692970348816,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1692970348816,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "8th & Logan",
+      "bags": 0,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-9",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 10,
+      "globalid": "e2afdda5-1e3c-4608-8039-92595fcea123",
+      "CreationDate": 1692970918678,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1692970918678,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "8th & Logan",
+      "bags": 0,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-10",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 11,
+      "globalid": "1f775d94-1fe8-4f05-8e18-a97dbddaba38",
+      "CreationDate": 1692971446019,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1692985832638,
+      "Editor": "125984_geospatialDenver",
+      "location_name": "16th & Grant",
+      "bags": 3,
+      "other": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-11",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 12,
+      "globalid": "268baa24-7172-4f04-882a-2a1f2f15640c",
+      "CreationDate": 1692971902045,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1692971902045,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "20th & Champa",
+      "bags": 1,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-12",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 13,
+      "globalid": "8de71568-d0a9-4714-896e-8468901faa53",
+      "CreationDate": 1693230191526,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1693230191526,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "8th & Logan",
+      "bags": 0,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-13",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 14,
+      "globalid": "36dad006-a65e-4dd4-8869-1811d7171c0d",
+      "CreationDate": 1693230810194,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1693230810194,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "16th & Grant",
+      "bags": 4,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-14",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 15,
+      "globalid": "48c488e7-6ec6-464c-8471-f2847eefc2e8",
+      "CreationDate": 1693231396726,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1693231396726,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "20th & Champa",
+      "bags": 11,
+      "other": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-15",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 16,
+      "globalid": "eb780937-336b-4777-97cb-5c698dbe796f",
+      "CreationDate": 1693575530396,
+      "Creator": "115381_geospatialDenver",
+      "EditDate": 1693575530396,
+      "Editor": "115381_geospatialDenver",
+      "location_name": "8th & Logan",
+      "bags": 9,
+      "other": 3
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-16",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 17,
+      "globalid": "bf3650b2-083c-4bec-a282-839c588fbb50",
+      "CreationDate": 1693578608327,
+      "Creator": "115381_geospatialDenver",
+      "EditDate": 1693578608327,
+      "Editor": "115381_geospatialDenver",
+      "location_name": "16th & Grant",
+      "bags": 0,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-17",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 18,
+      "globalid": "97eb26c8-fbf4-465d-9457-f0cdfda76fb7",
+      "CreationDate": 1693578703049,
+      "Creator": "115381_geospatialDenver",
+      "EditDate": 1693578703049,
+      "Editor": "115381_geospatialDenver",
+      "location_name": "20th & Champa",
+      "bags": 3,
+      "other": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-18",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 19,
+      "globalid": "5bbe07f6-4aa4-47c0-b1e9-6224ed760d1a",
+      "CreationDate": 1693920532362,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1693920532362,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "8th & Logan",
+      "bags": 7,
+      "other": 3
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-19",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 20,
+      "globalid": "3241d1bd-1358-40b2-88ff-9d54cf29887e",
+      "CreationDate": 1693921339632,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1693921339632,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "16th & Grant",
+      "bags": 4,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-20",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 21,
+      "globalid": "3ee2929c-10e5-4da7-9e2f-5bc786dccf00",
+      "CreationDate": 1693922199312,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1693922199312,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "20th & Champa",
+      "bags": 5,
+      "other": 3
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-21",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 22,
+      "globalid": "d1c36f06-28f4-46a0-9841-793eb4e65fcf",
+      "CreationDate": 1694004857109,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1694004857109,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "8th & Logan",
+      "bags": 0,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-22",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 23,
+      "globalid": "68824b3f-6193-4fa4-b998-b7cef94c4551",
+      "CreationDate": 1694005495666,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1694005495666,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "16th & Grant",
+      "bags": 0,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-23",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 24,
+      "globalid": "f34e727d-6596-4e56-b89c-1ba2047265bb",
+      "CreationDate": 1694006007923,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1694006007923,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "20th & Champa",
+      "bags": 0,
+      "other": 1
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-24",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 25,
+      "globalid": "8d7509c8-15ad-4ff1-ae72-2985f9fb6121",
+      "CreationDate": 1694178425549,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1694178425549,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "8th & Logan",
+      "bags": 11,
+      "other": 4
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-25",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 26,
+      "globalid": "e79e9319-510c-4add-8c07-e4c82301b174",
+      "CreationDate": 1694179219675,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1694179219675,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "16th & Grant",
+      "bags": 2,
+      "other": 3
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-26",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 27,
+      "globalid": "615f4eae-fc49-4081-bc07-f5cbc3a205bb",
+      "CreationDate": 1694180279318,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1694180279318,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "20th & Champa",
+      "bags": 7,
+      "other": 7
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-27",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 28,
+      "globalid": "b35aa18c-897d-4467-bb5c-23d4e48684ae",
+      "CreationDate": 1694441149542,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1694441149542,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "8th & Logan",
+      "bags": 2,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-28",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 29,
+      "globalid": "c799557f-63c0-4359-b963-52596c83bcbb",
+      "CreationDate": 1694442236523,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1694442236523,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "16th & Grant",
+      "bags": 0,
+      "other": 1
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-29",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 30,
+      "globalid": "e0d9fce6-9781-4b60-a02e-fcf944bf844c",
+      "CreationDate": 1694442795902,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1694442795902,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "20th & Champa",
+      "bags": 20,
+      "other": 4
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-30",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 31,
+      "globalid": "491c610e-c9db-4067-aa28-5afec0d6011b",
+      "CreationDate": 1694611445481,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1694611445481,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "8th & Logan",
+      "bags": 3,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-31",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 32,
+      "globalid": "b41659a4-7905-4fbb-8a2c-e91919d4be48",
+      "CreationDate": 1694611944555,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1694611944555,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "16th & Grant",
+      "bags": 0,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-32",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 33,
+      "globalid": "25ae52d2-4fe3-4fb1-9da2-8cf8aa8f58b2",
+      "CreationDate": 1694612499561,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1694612499561,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "20th & Champa",
+      "bags": 2,
+      "other": 3
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-33",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 34,
+      "globalid": "9e6db96c-c044-4898-b0ed-66b0615c1f9f",
+      "CreationDate": 1694784602602,
+      "Creator": "126315_geospatialDenver",
+      "EditDate": 1694784602602,
+      "Editor": "126315_geospatialDenver",
+      "location_name": "8th & Logan",
+      "bags": 0,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-34",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 35,
+      "globalid": "9483d47a-ee59-4ec9-b867-5ab4b3cbe0f0",
+      "CreationDate": 1694786909536,
+      "Creator": "126315_geospatialDenver",
+      "EditDate": 1694786909536,
+      "Editor": "126315_geospatialDenver",
+      "location_name": "16th & Grant",
+      "bags": 2,
+      "other": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-35",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 36,
+      "globalid": "8acc9fdc-afb9-4bf7-9d6b-037aa7c2e8c5",
+      "CreationDate": 1694788832437,
+      "Creator": "126315_geospatialDenver",
+      "EditDate": 1694788832437,
+      "Editor": "126315_geospatialDenver",
+      "location_name": "20th & Champa",
+      "bags": 9,
+      "other": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-36",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 37,
+      "globalid": "19a53586-e232-4609-848e-0445895baf59",
+      "CreationDate": 1695043815268,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1695043815268,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "8th & Logan",
+      "bags": 0,
+      "other": 1
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-37",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 38,
+      "globalid": "9a9c2426-d1f0-4f4f-8574-5fdd094958b8",
+      "CreationDate": 1695044288212,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1695044288212,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "16th & Grant",
+      "bags": 0,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-38",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 39,
+      "globalid": "b9bfe29a-2df2-416e-ac29-5a93ff5228ca",
+      "CreationDate": 1695044857752,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1695044857752,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "20th & Champa",
+      "bags": 4,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-39",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 40,
+      "globalid": "47a32bfa-2aca-4dad-a0ac-61f511e17138",
+      "CreationDate": 1695218724178,
+      "Creator": "126315_geospatialDenver",
+      "EditDate": 1695218724178,
+      "Editor": "126315_geospatialDenver",
+      "location_name": "8th & Logan",
+      "bags": 0,
+      "other": 1
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-40",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 41,
+      "globalid": "04655549-8d14-4707-8df1-ca5256831eb3",
+      "CreationDate": 1695224110887,
+      "Creator": "126315_geospatialDenver",
+      "EditDate": 1695224110887,
+      "Editor": "126315_geospatialDenver",
+      "location_name": "16th & Grant",
+      "bags": 7,
+      "other": 1
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-41",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 42,
+      "globalid": "ef00ca00-f7f6-4533-8cdd-ac4704f36fb9",
+      "CreationDate": 1695224157305,
+      "Creator": "126315_geospatialDenver",
+      "EditDate": 1695224157305,
+      "Editor": "126315_geospatialDenver",
+      "location_name": "20th & Champa",
+      "bags": 1,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-42",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 43,
+      "globalid": "c4ae4750-8e8f-497d-8069-a81c0df91f53",
+      "CreationDate": 1695393222572,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1695393222572,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "20th & Champa",
+      "bags": 9,
+      "other": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-43",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 44,
+      "globalid": "97242b44-ec8f-4a39-aa63-08fa224884a4",
+      "CreationDate": 1695394330689,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1695394330689,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "16th & Grant",
+      "bags": 1,
+      "other": 1
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-44",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 45,
+      "globalid": "d24e5a0e-039d-46bb-8d9f-c2305145c754",
+      "CreationDate": 1695470027933,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1695470027933,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "8th & Logan",
+      "bags": 2,
+      "other": 1
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-45",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 46,
+      "globalid": "8dd990e1-e3c1-4f95-b5db-ce47d16dcb98",
+      "CreationDate": 1695652433092,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1695652433092,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "20th & Champa",
+      "bags": 7,
+      "other": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-46",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 47,
+      "globalid": "bd4d7ab3-878d-4772-8cf9-e0995ec15544",
+      "CreationDate": 1695652999452,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1695652999452,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "16th & Grant",
+      "bags": 0,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-47",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 48,
+      "globalid": "72994325-689b-4ddc-a364-78bc0174cc2f",
+      "CreationDate": 1695822248822,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1695822248822,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "16th & Grant",
+      "bags": 2,
+      "other": 3
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-48",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 49,
+      "globalid": "31d60cb6-a3af-4235-88d8-4faae76e540b",
+      "CreationDate": 1695823027003,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1695823027003,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "20th & Champa",
+      "bags": 9,
+      "other": 1
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-49",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 50,
+      "globalid": "bc734122-52cd-4691-b69b-19a74b2c801b",
+      "CreationDate": 1695994582702,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1695994582702,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "16th & Grant",
+      "bags": 1,
+      "other": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-50",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 51,
+      "globalid": "28ce71d9-a8d7-40df-b246-4e72d11a877e",
+      "CreationDate": 1695995418649,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1695995418649,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "20th & Champa",
+      "bags": 5,
+      "other": 1
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-51",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 52,
+      "globalid": "0d825da8-b4b5-4170-bf1f-abb371fc782d",
+      "CreationDate": 1696252575743,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1696252575743,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "16th & Grant",
+      "bags": 0,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-52",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 53,
+      "globalid": "a4db70e0-a79a-4303-85d4-456aad0567fa",
+      "CreationDate": 1696253627322,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1696253627322,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "20th & Champa",
+      "bags": 5,
+      "other": 1
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-53",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 54,
+      "globalid": "d473c2d8-c493-4194-83cc-6a519f275f2a",
+      "CreationDate": 1696428140128,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1696428140128,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "20th & Champa",
+      "bags": 0,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-54",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 55,
+      "globalid": "64c54de5-71f4-4b21-979c-79db4d741bc9",
+      "CreationDate": 1696607915536,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1696607915536,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "20th & Champa",
+      "bags": 0,
+      "other": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-55",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 56,
+      "globalid": "74ef21ac-12e1-46a1-9316-f919c6cff8cd",
+      "CreationDate": 1696858530070,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1696858530070,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "20th & Champa",
+      "bags": 4,
+      "other": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-56",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 57,
+      "globalid": "6de2520d-42d7-4c6f-841d-965feaad9490",
+      "CreationDate": 1697040177728,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1697040177728,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "20th & Champa",
+      "bags": 12,
+      "other": 4
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-57",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 58,
+      "globalid": "b302ae82-defd-4a4c-a508-b8de27ead55d",
+      "CreationDate": 1697045801330,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1697045801330,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "48th & Colorado (West",
+      "bags": 4,
+      "other": 1
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "trash-58",
+    "stream": "encampment_trash",
+    "raw": {
+      "objectid": 59,
+      "globalid": "fd3944aa-edab-46d3-9fe5-478c0e70cd39",
+      "CreationDate": 1697046142959,
+      "Creator": "134873_geospatialDenver",
+      "EditDate": 1697046142959,
+      "Editor": "134873_geospatialDenver",
+      "location_name": "48th & Colorado (East)",
+      "bags": 23,
+      "other": 5
+    },
+    "first_seen": "2026-04-08"
+  }
+]

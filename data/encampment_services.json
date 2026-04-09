@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "stream": "encampment_services",
+    "location": "8th & Logan",
+    "trash": "YES",
+    "portolets": null,
+    "hand_washing": null,
+    "sharps": null,
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": 2,
+    "stream": "encampment_services",
+    "location": "16th & Grant",
+    "trash": "YES",
+    "portolets": null,
+    "hand_washing": null,
+    "sharps": null,
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": 3,
+    "stream": "encampment_services",
+    "location": "18th & Logan",
+    "trash": "YES",
+    "portolets": null,
+    "hand_washing": null,
+    "sharps": null,
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": 4,
+    "stream": "encampment_services",
+    "location": "18th & Penn",
+    "trash": "YES",
+    "portolets": null,
+    "hand_washing": null,
+    "sharps": null,
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": 5,
+    "stream": "encampment_services",
+    "location": "20th & Champa",
+    "trash": "YES",
+    "portolets": 1,
+    "hand_washing": null,
+    "sharps": null,
+    "first_seen": "2026-04-08"
+  }
+]

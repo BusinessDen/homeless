@@ -1,0 +1,268 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  background: #0a0a0a;
+  color: #ccc;
+  font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+a { color: #e74c3c; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Header */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 24px;
+  border-bottom: 1px solid #222;
+  background: #0d0d0d;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.logo {
+  color: #e74c3c;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+
+.subtitle {
+  color: #555;
+  margin-left: 16px;
+  font-size: 12px;
+}
+
+.header-right {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  color: #555;
+  font-size: 12px;
+}
+
+#user-badge {
+  background: #1a1a1a;
+  border: 1px solid #333;
+  padding: 4px 10px;
+  font-size: 11px;
+  color: #888;
+}
+
+/* Main */
+main {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+/* Stats bar */
+.stats-bar {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.stat-card {
+  background: #111;
+  border: 1px solid #222;
+  padding: 16px;
+  text-align: center;
+  transition: border-color 0.2s;
+}
+
+.stat-card:hover {
+  border-color: #e74c3c;
+}
+
+.stat-value {
+  font-size: 28px;
+  font-weight: bold;
+  color: #fff;
+  margin-bottom: 4px;
+}
+
+.stat-label {
+  font-size: 11px;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Sections */
+.section {
+  background: #111;
+  border: 1px solid #222;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.section h2 {
+  font-size: 13px;
+  color: #e74c3c;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 16px;
+  font-weight: normal;
+}
+
+.section h3 {
+  font-size: 12px;
+  color: #888;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+  font-weight: normal;
+}
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.map-controls {
+  display: flex;
+  gap: 16px;
+  font-size: 12px;
+  color: #888;
+}
+
+.map-controls label {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+/* Map */
+#map {
+  height: 500px;
+  background: #0a0a0a;
+  border: 1px solid #222;
+  margin-top: 12px;
+}
+
+.leaflet-popup-content-wrapper {
+  background: #1a1a1a;
+  color: #ccc;
+  border: 1px solid #333;
+  border-radius: 0;
+  font-family: monospace;
+  font-size: 12px;
+}
+
+.leaflet-popup-tip { background: #1a1a1a; }
+
+/* Two column */
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+@media (max-width: 900px) {
+  .two-col { grid-template-columns: 1fr; }
+}
+
+/* Feed */
+.feed {
+  max-height: 500px;
+  overflow-y: auto;
+}
+
+.feed-item {
+  padding: 10px 0;
+  border-bottom: 1px solid #1a1a1a;
+}
+
+.feed-item:last-child { border-bottom: none; }
+
+.feed-meta {
+  font-size: 11px;
+  color: #666;
+  margin-bottom: 4px;
+}
+
+.feed-title a {
+  color: #ddd;
+  font-size: 13px;
+}
+
+.feed-title a:hover { color: #e74c3c; }
+
+.feed-detail {
+  font-size: 12px;
+  color: #888;
+}
+
+.feed-empty {
+  color: #444;
+  font-style: italic;
+  padding: 20px 0;
+}
+
+.status-open { color: #e74c3c; }
+.status-closed { color: #555; }
+
+/* Tables */
+.table-wrap {
+  overflow-x: auto;
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+}
+
+.data-table th {
+  text-align: left;
+  padding: 8px 12px;
+  border-bottom: 1px solid #333;
+  color: #888;
+  font-weight: normal;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 11px;
+}
+
+.data-table td {
+  padding: 8px 12px;
+  border-bottom: 1px solid #1a1a1a;
+  color: #aaa;
+}
+
+.data-table tr:hover td {
+  background: #1a1a1a;
+}
+
+/* Mini table (crime summary) */
+.mini-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 4px 0;
+  border-bottom: 1px solid #1a1a1a;
+  font-size: 12px;
+}
+
+.mini-row span:first-child {
+  color: #aaa;
+  text-transform: capitalize;
+}
+
+.mini-row span:last-child {
+  color: #fff;
+  font-weight: bold;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #111; }
+::-webkit-scrollbar-thumb { background: #333; }
+::-webkit-scrollbar-thumb:hover { background: #555; }

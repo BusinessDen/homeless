@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Homeless Tracker</title>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="auth.js"></script>
+</head>
+<body>
+
+<header>
+  <div class="header-left">
+    <span class="logo">HOMELESS TRACKER</span>
+    <span class="subtitle">Denver Homelessness Intelligence</span>
+  </div>
+  <div class="header-right">
+    <span id="last-updated"></span>
+    <span id="user-badge"></span>
+  </div>
+</header>
+
+<main>
+  <!-- Stats bar -->
+  <div id="stats-bar" class="stats-bar">
+    <div class="stat-card" data-stream="encampment_reports">
+      <div class="stat-value" id="stat-encampment-reports">—</div>
+      <div class="stat-label">Encampment Reports</div>
+    </div>
+    <div class="stat-card" data-stream="crime">
+      <div class="stat-value" id="stat-crime">—</div>
+      <div class="stat-label">Crime (90d)</div>
+    </div>
+    <div class="stat-card" data-stream="shelters">
+      <div class="stat-value" id="stat-shelters">—</div>
+      <div class="stat-label">Shelters</div>
+    </div>
+    <div class="stat-card" data-stream="housing">
+      <div class="stat-value" id="stat-housing">—</div>
+      <div class="stat-label">Housing Projects</div>
+    </div>
+    <div class="stat-card" data-stream="news">
+      <div class="stat-value" id="stat-news">—</div>
+      <div class="stat-label">News Articles</div>
+    </div>
+    <div class="stat-card" data-stream="legislation">
+      <div class="stat-value" id="stat-legislation">—</div>
+      <div class="stat-label">Bills Tracked</div>
+    </div>
+    <div class="stat-card" data-stream="spending">
+      <div class="stat-value" id="stat-spending">—</div>
+      <div class="stat-label">Spending Records</div>
+    </div>
+    <div class="stat-card" data-stream="nonprofits">
+      <div class="stat-value" id="stat-nonprofits">—</div>
+      <div class="stat-label">Nonprofits</div>
+    </div>
+  </div>
+
+  <!-- Map -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Encampment Reports Map</h2>
+      <div class="map-controls">
+        <label><input type="checkbox" id="layer-reports" checked> Reports</label>
+        <label><input type="checkbox" id="layer-shelters" checked> Shelters</label>
+        <label><input type="checkbox" id="layer-closures" checked> Closures</label>
+      </div>
+    </div>
+    <div id="map"></div>
+  </div>
+
+  <!-- Two-column layout -->
+  <div class="two-col">
+    <!-- Recent News -->
+    <div class="section">
+      <h2>Recent Coverage</h2>
+      <div id="news-feed" class="feed"></div>
+    </div>
+
+    <!-- Recent Encampment Reports -->
+    <div class="section">
+      <h2>Recent Encampment Reports</h2>
+      <div id="reports-feed" class="feed"></div>
+    </div>
+  </div>
+
+  <!-- Shelter Inventory -->
+  <div class="section">
+    <h2>Active Shelters</h2>
+    <div id="shelter-table-wrap" class="table-wrap"></div>
+  </div>
+
+  <!-- Crime Summary -->
+  <div class="section">
+    <h2>Crime Summary (90 Days)</h2>
+    <div class="two-col">
+      <div>
+        <h3>By Neighborhood</h3>
+        <div id="crime-by-hood" class="mini-table"></div>
+      </div>
+      <div>
+        <h3>By Offense Type</h3>
+        <div id="crime-by-type" class="mini-table"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Run History -->
+  <div class="section">
+    <h2>Scraper Status</h2>
+    <div id="run-history" class="feed"></div>
+  </div>
+</main>
+
+<script>
+const DATA_BASE = 'data/';
+
+async function loadJSON(file) {
+  try {
+    const resp = await fetch(DATA_BASE + file + '?t=' + Date.now());
+    if (!resp.ok) return null;
+    return await resp.json();
+  } catch { return null; }
+}
+
+function formatDate(d) {
+  if (!d) return '—';
+  const dt = new Date(d);
+  if (isNaN(dt)) return d;
+  return dt.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+}
+
+function formatNum(n) {
+  if (n == null || isNaN(n)) return '—';
+  return Number(n).toLocaleString();
+}
+
+// Stats
+async function loadStats() {
+  const stats = await loadJSON('stats.json');
+  if (!stats) return;
+  const s = stats.streams || {};
+  document.getElementById('stat-encampment-reports').textContent = formatNum(s.encampment_reports);
+  document.getElementById('stat-crime').textContent = formatNum(s.crime);
+  document.getElementById('stat-shelters').textContent = formatNum(s.shelters);
+  document.getElementById('stat-housing').textContent = formatNum(s.housing);
+  document.getElementById('stat-news').textContent = formatNum(s.news);
+  document.getElementById('stat-legislation').textContent = formatNum(s.legislation);
+  document.getElementById('stat-spending').textContent = formatNum(s.spending);
+  document.getElementById('stat-nonprofits').textContent = formatNum(s.nonprofits);
+  document.getElementById('last-updated').textContent = 'Updated: ' + (stats.date || '—');
+}
+
+// Map
+let map, reportLayer, shelterLayer, closureLayer;
+
+function initMap() {
+  map = L.map('map').setView([39.7392, -104.9903], 12);
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; CARTO',
+    maxZoom: 19
+  }).addTo(map);
+
+  reportLayer = L.layerGroup().addTo(map);
+  shelterLayer = L.layerGroup().addTo(map);
+  closureLayer = L.layerGroup().addTo(map);
+
+  document.getElementById('layer-reports').addEventListener('change', e => {
+    e.target.checked ? map.addLayer(reportLayer) : map.removeLayer(reportLayer);
+  });
+  document.getElementById('layer-shelters').addEventListener('change', e => {
+    e.target.checked ? map.addLayer(shelterLayer) : map.removeLayer(shelterLayer);
+  });
+  document.getElementById('layer-closures').addEventListener('change', e => {
+    e.target.checked ? map.addLayer(closureLayer) : map.removeLayer(closureLayer);
+  });
+}
+
+async function loadMapData() {
+  // Reports
+  const reports = await loadJSON('encampment_reports.json');
+  if (reports) {
+    reports.forEach(r => {
+      if (!r.lat || !r.lng) return;
+      const color = r.status && r.status.includes('Closed') ? '#666' : '#e74c3c';
+      L.circleMarker([r.lat, r.lng], {
+        radius: 4, fillColor: color, color: color, weight: 1, fillOpacity: 0.7
+      }).bindPopup(`
+        <b>${r.id || 'Report'}</b><br>
+        Status: ${r.status || '—'}<br>
+        Date: ${formatDate(r.date)}<br>
+        Agency: ${r.agency || '—'}<br>
+        ${r.site_name ? 'Site: ' + r.site_name : ''}
+      `).addTo(reportLayer);
+    });
+  }
+
+  // Shelters
+  const shelters = await loadJSON('shelters.json');
+  if (shelters) {
+    shelters.filter(s => s.subtype === 'active' && s.lat && s.lng).forEach(s => {
+      L.circleMarker([s.lat, s.lng], {
+        radius: 7, fillColor: '#2ecc71', color: '#27ae60', weight: 2, fillOpacity: 0.9
+      }).bindPopup(`
+        <b>${s.name || 'Shelter'}</b><br>
+        ${s.address || ''}<br>
+        Status: ${s.status || '—'}<br>
+        ${s.display_info || ''}
+      `).addTo(shelterLayer);
+    });
+  }
+}
+
+// News feed
+async function loadNews() {
+  const news = await loadJSON('news.json');
+  const feed = document.getElementById('news-feed');
+  if (!news || !news.length) { feed.innerHTML = '<div class="feed-empty">No data yet</div>'; return; }
+
+  feed.innerHTML = news.slice(0, 20).map(a => `
+    <div class="feed-item">
+      <div class="feed-meta">${a.source_name || a.source} · ${formatDate(a.published || a.first_seen)}</div>
+      <div class="feed-title"><a href="${a.url}" target="_blank">${a.title}</a></div>
+    </div>
+  `).join('');
+}
+
+// Reports feed
+async function loadReports() {
+  const reports = await loadJSON('encampment_reports.json');
+  const feed = document.getElementById('reports-feed');
+  if (!reports || !reports.length) { feed.innerHTML = '<div class="feed-empty">No data yet</div>'; return; }
+
+  // Sort by date descending
+  const sorted = [...reports].sort((a, b) => (b.created || '').localeCompare(a.created || ''));
+  feed.innerHTML = sorted.slice(0, 20).map(r => {
+    const statusClass = r.status && r.status.includes('Closed') ? 'status-closed' : 'status-open';
+    return `
+      <div class="feed-item">
+        <div class="feed-meta">${r.id} · ${formatDate(r.date)} · <span class="${statusClass}">${r.status || '—'}</span></div>
+        <div class="feed-detail">Agency: ${r.agency || '—'} · District: ${r.council_district || r.police_district || '—'}</div>
+        ${r.site_name ? `<div class="feed-detail">Site: ${r.site_name}</div>` : ''}
+      </div>
+    `;
+  }).join('');
+}
+
+// Shelter table
+async function loadShelterTable() {
+  const shelters = await loadJSON('shelters.json');
+  const wrap = document.getElementById('shelter-table-wrap');
+  if (!shelters || !shelters.length) { wrap.innerHTML = '<div class="feed-empty">No data yet</div>'; return; }
+
+  const active = shelters.filter(s => s.subtype === 'active');
+  wrap.innerHTML = `<table class="data-table">
+    <thead><tr><th>Name</th><th>Address</th><th>Neighborhood</th><th>Status</th><th>Type</th></tr></thead>
+    <tbody>${active.map(s => `
+      <tr>
+        <td>${s.name || '—'}</td>
+        <td>${s.address || '—'}</td>
+        <td>${s.neighborhood || '—'}</td>
+        <td>${s.status || '—'}</td>
+        <td>${s.display_info || '—'}</td>
+      </tr>
+    `).join('')}</tbody>
+  </table>`;
+}
+
+// Crime summary
+async function loadCrimeSummary() {
+  const summary = await loadJSON('crime_summary.json');
+  if (!summary) return;
+
+  const hoodDiv = document.getElementById('crime-by-hood');
+  const typeDiv = document.getElementById('crime-by-type');
+
+  if (summary.by_neighborhood) {
+    hoodDiv.innerHTML = Object.entries(summary.by_neighborhood).slice(0, 15).map(([k, v]) =>
+      `<div class="mini-row"><span>${k}</span><span>${v}</span></div>`
+    ).join('');
+  }
+  if (summary.by_offense_type) {
+    typeDiv.innerHTML = Object.entries(summary.by_offense_type).slice(0, 15).map(([k, v]) =>
+      `<div class="mini-row"><span>${k.replace(/-/g, ' ')}</span><span>${v}</span></div>`
+    ).join('');
+  }
+}
+
+// Run history
+async function loadRunHistory() {
+  const history = await loadJSON('run_history.json');
+  const div = document.getElementById('run-history');
+  if (!history || !history.length) { div.innerHTML = '<div class="feed-empty">No runs yet</div>'; return; }
+
+  div.innerHTML = history.slice(0, 7).map(r => {
+    const statusColor = r.failed === 0 ? '#2ecc71' : '#e74c3c';
+    return `
+      <div class="feed-item">
+        <div class="feed-meta" style="color:${statusColor}">
+          ${r.date} · ${r.successful}/${r.total_scrapers} OK
+          ${r.failed > 0 ? ' · Errors: ' + r.errors.map(e => e.scraper).join(', ') : ''}
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+// Init
+document.addEventListener('DOMContentLoaded', async () => {
+  if (!window.DRECK_USER) return;
+  document.getElementById('user-badge').textContent = window.DRECK_USER;
+
+  initMap();
+  await Promise.all([
+    loadStats(),
+    loadMapData(),
+    loadNews(),
+    loadReports(),
+    loadShelterTable(),
+    loadCrimeSummary(),
+    loadRunHistory(),
+  ]);
+});
+</script>
+</body>
+</html>

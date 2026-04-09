@@ -1,0 +1,5668 @@
+[
+  {
+    "id": "usa-H8000040",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "H8000040",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 67271652.0,
+    "description": "HEALTH CENTER CLUSTER",
+    "start_date": "2001-11-01",
+    "end_date": "2026-12-31",
+    "agency": "Department of Health and Human Services",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-AA385192255A8",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "AA385192255A8",
+    "recipient": "COLORADO DEPARTMENT OF LABOR AND EMPLOYMENT",
+    "amount": 42199874.0,
+    "description": "AWARD PURPOSE\nTHE PURPOSE OF THE WIOA YOUTH GRANTS IS TO PROVIDE RESOURCES FOR LOCAL WORKFORCE DEVELOPMENT AREAS TO DELIVER COMPREHENSIVE YOUTH SERVICES THAT FOCUS ON ASSISTING OUT-OF- SCHOOL YOUTH AND IN-SCHOOL YOUTH, WITH ONE OR MORE BARRIERS TO EMPLOYMENT, PREPARE FOR EMPLOYMENT AND POSTSECONDARY",
+    "start_date": "2022-04-01",
+    "end_date": "2025-06-30",
+    "agency": "Department of Labor",
+    "award_type": "FORMULA GRANT (A)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-E-20-DW-08-0001",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "E-20-DW-08-0001",
+    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
+    "amount": 33435476.96,
+    "description": "EMERGENCY SOLUTIONS GRANT PROGRAM",
+    "start_date": "2020-06-08",
+    "end_date": "2022-06-08",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "FORMULA GRANT (A)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-2020-ZZ-092-25",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "2020-ZZ-092-25",
+    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
+    "amount": 11611102.0,
+    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
+    "start_date": null,
+    "end_date": "2025-09-30",
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-20-ZZ-092-26",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "20-ZZ-092-26",
+    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
+    "amount": 11611102.0,
+    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
+    "start_date": "2025-09-30",
+    "end_date": "2026-09-30",
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-E-20-MW-08-0005",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "E-20-MW-08-0005",
+    "recipient": "DENVER, CITY & COUNTY OF",
+    "amount": 11101623.0,
+    "description": "EMERGENCY SOLUTIONS GRANT PROGRAM",
+    "start_date": "2020-06-10",
+    "end_date": "2022-06-10",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "FORMULA GRANT (A)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0043L8T032417",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0043L8T032417",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 9728112.0,
+    "description": "PURPOSE: THE CONTINUUM OF CARE (COC) PROGRAM IS DESIGNED TO PROMOTE COMMUNITY-WIDE COMMITMENT TO THE GOAL OF ENDING HOMELESSNESS; PROVIDE FUNDING FOR EFFORTS BY NONPROFIT PROVIDERS, STATES, AND LOCAL GOVERNMENTS TO QUICKLY HOUSE HOMELESS INDIVIDUALS AND FAMILIES WHILE MINIMIZING THE TRAUMA AND DISLO",
+    "start_date": "2025-05-01",
+    "end_date": "2026-04-30",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-2020-CO-020-26",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "2020-CO-020-26",
+    "recipient": "ROCKY MOUNTAIN HUMAN SERVICES",
+    "amount": 9625268.0,
+    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
+    "start_date": "2025-10-01",
+    "end_date": "2026-09-30",
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-2020-CO-020-25",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "2020-CO-020-25",
+    "recipient": "ROCKY MOUNTAIN HUMAN SERVICES",
+    "amount": 9625268.0,
+    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
+    "start_date": null,
+    "end_date": null,
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0042L8T032417",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0042L8T032417",
+    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
+    "amount": 9125802.0,
+    "description": "PURPOSE: THE CONTINUUM OF CARE (COC) PROGRAM IS DESIGNED TO PROMOTE COMMUNITY-WIDE COMMITMENT TO THE GOAL OF ENDING HOMELESSNESS; PROVIDE FUNDING FOR EFFORTS BY NONPROFIT PROVIDERS, STATES, AND LOCAL GOVERNMENTS TO QUICKLY HOUSE HOMELESS INDIVIDUALS AND FAMILIES WHILE MINIMIZING THE TRAUMA AND DISLO",
+    "start_date": "2025-08-01",
+    "end_date": "2026-07-31",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-20-ZZ-092-22",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "20-ZZ-092-22",
+    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
+    "amount": 9112869.46,
+    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
+    "start_date": null,
+    "end_date": null,
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-20-ZZ-092-24",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "20-ZZ-092-24",
+    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
+    "amount": 9091102.0,
+    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
+    "start_date": null,
+    "end_date": "2025-09-30",
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0043L8T032316",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0043L8T032316",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 8690668.0,
+    "description": "CONTINUUM OF CARE PROGRAM",
+    "start_date": "2024-05-01",
+    "end_date": "2025-04-30",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-20-CO-020-24",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "20-CO-020-24",
+    "recipient": "ROCKY MOUNTAIN HUMAN SERVICES",
+    "amount": 8275268.0,
+    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
+    "start_date": null,
+    "end_date": null,
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-20-ZZ-092-21",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "20-ZZ-092-21",
+    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
+    "amount": 8200063.0,
+    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
+    "start_date": "2020-10-01",
+    "end_date": null,
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0043L8T032215",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0043L8T032215",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 8130844.0,
+    "description": "CONTINUUM OF CARE PROGRAM",
+    "start_date": "2023-05-01",
+    "end_date": "2024-04-30",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0043L8T032114",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0043L8T032114",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 8116915.62,
+    "description": "CONTINUUM OF CARE PROGRAM",
+    "start_date": "2022-05-01",
+    "end_date": "2023-04-30",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0043L8T032013",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0043L8T032013",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 8081986.0,
+    "description": "CONTINUUM OF CARE PROGRAM",
+    "start_date": "2021-05-01",
+    "end_date": "2022-04-30",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0042L8T032316",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0042L8T032316",
+    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
+    "amount": 8081007.0,
+    "description": "CONTINUUM OF CARE PROGRAM",
+    "start_date": "2024-08-01",
+    "end_date": "2025-07-31",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-S425W210006",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "S425W210006",
+    "recipient": "BOARD OF EDUCATION COLORADO",
+    "amount": 7643776.0,
+    "description": "AMERICAN RESCUE PLAN ELEMENTARY AND SECONDARY SCHOOLS EMERGENCY RELIEF FUND \u2013 HOMELESS CHILDREN AND YOUTH (ARP-HCY)",
+    "start_date": "2021-04-23",
+    "end_date": "2023-09-30",
+    "agency": "Department of Education",
+    "award_type": "FORMULA GRANT (A)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0043L8T031912",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0043L8T031912",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 7624956.0,
+    "description": "CONTINUUM OF CARE PROGRAM",
+    "start_date": "2020-04-01",
+    "end_date": "2021-04-30",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0042L8T032215",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0042L8T032215",
+    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
+    "amount": 7384983.0,
+    "description": "CONTINUUM OF CARE PROGRAM",
+    "start_date": "2023-08-01",
+    "end_date": "2024-07-31",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-20-CO-020-21",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "20-CO-020-21",
+    "recipient": "ROCKY MOUNTAIN HUMAN SERVICES",
+    "amount": 7304992.0,
+    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
+    "start_date": "2020-10-01",
+    "end_date": null,
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0042L8T032114",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0042L8T032114",
+    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
+    "amount": 7174573.08,
+    "description": "CONTINUUM OF CARE PROGRAM",
+    "start_date": "2022-08-01",
+    "end_date": "2023-07-31",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0042L8T032013",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0042L8T032013",
+    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
+    "amount": 7113249.54,
+    "description": "CONTINUUM OF CARE PROGRAM",
+    "start_date": "2021-08-01",
+    "end_date": "2022-07-31",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0042L8T031912",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0042L8T031912",
+    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
+    "amount": 6864962.42,
+    "description": "CONTINUUM OF CARE PROGRAM",
+    "start_date": "2020-08-01",
+    "end_date": "2021-07-31",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0042L8T031811",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0042L8T031811",
+    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
+    "amount": 6603081.93,
+    "description": "CONTINUUM OF CARE PROGRAM",
+    "start_date": "2019-07-01",
+    "end_date": "2020-07-31",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-20-ZZ-092-23",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "20-ZZ-092-23",
+    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
+    "amount": 6318967.0,
+    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
+    "start_date": null,
+    "end_date": null,
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-20-ZZ-092-C2",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "20-ZZ-092-C2",
+    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
+    "amount": 6088816.0,
+    "description": "CARES 2.0 FUNDING FOR COVID19.  THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELES",
+    "start_date": "2020-04-01",
+    "end_date": "2021-09-30",
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0165L8T032405",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0165L8T032405",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 6051250.0,
+    "description": "PURPOSE: THE CONTINUUM OF CARE (COC) PROGRAM IS DESIGNED TO PROMOTE COMMUNITY-WIDE COMMITMENT TO THE GOAL OF ENDING HOMELESSNESS; PROVIDE FUNDING FOR EFFORTS BY NONPROFIT PROVIDERS, STATES, AND LOCAL GOVERNMENTS TO QUICKLY HOUSE HOMELESS INDIVIDUALS AND FAMILIES WHILE MINIMIZING THE TRAUMA AND DISLO",
+    "start_date": "2025-04-01",
+    "end_date": "2026-03-31",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-E-20-MW-08-0004",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "E-20-MW-08-0004",
+    "recipient": "COLORADO SPRINGS CITY GOVERNMENT",
+    "amount": 5984403.0,
+    "description": "EMERGENCY SOLUTIONS GRANT PROGRAM",
+    "start_date": "2020-10-30",
+    "end_date": "2022-10-30",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "FORMULA GRANT (A)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-20-ZZ-092-20",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "20-ZZ-092-20",
+    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
+    "amount": 5937959.36,
+    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
+    "start_date": "2019-10-01",
+    "end_date": "2020-09-30",
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-20-CO-020-23",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "20-CO-020-23",
+    "recipient": "ROCKY MOUNTAIN HUMAN SERVICES",
+    "amount": 5503547.0,
+    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
+    "start_date": null,
+    "end_date": null,
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0165L8T032304",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0165L8T032304",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 5385223.0,
+    "description": "CONTINUUM OF CARE PROGRAM",
+    "start_date": "2024-04-01",
+    "end_date": "2025-03-31",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-20-ZZ-092-SS",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "20-ZZ-092-SS",
+    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
+    "amount": 5140431.0,
+    "description": "THE SSVF PROGRAM\u2019S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
+    "start_date": "2021-09-01",
+    "end_date": "2023-09-30",
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-E-20-MW-08-0002",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "E-20-MW-08-0002",
+    "recipient": "CITY OF AURORA COLORADO",
+    "amount": 5036194.0,
+    "description": "EMERGENCY SOLUTIONS GRANT PROGRAM",
+    "start_date": "2020-07-08",
+    "end_date": "2022-07-08",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "FORMULA GRANT (A)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0165L8T032203",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0165L8T032203",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 5002075.0,
+    "description": "CONTINUUM OF CARE PROGRAM",
+    "start_date": "2023-04-01",
+    "end_date": "2024-03-31",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0165L8T032102",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0165L8T032102",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 5002075.0,
+    "description": "CONTINUUM OF CARE PROGRAM",
+    "start_date": "2022-04-01",
+    "end_date": "2023-03-31",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-H79SM084877",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "H79SM084877",
+    "recipient": "DENVER DEPT. OF PUBLIC HEALTH AND ENVIRO",
+    "amount": 5000000.0,
+    "description": "THE DENVER RECAST (RESILIENCY IN COMMUNITIES AFTER STRESS AND TRAUMA) PROGRAM - THE DENVER RECAST PROGRAM WILL SERVE 13,170 AT-RISK YOUTH AND THEIR FAMILIES OVER THE 5-YEAR GRANT PERIOD. THE PROGRAM BUILDS ON DENVER'S ASSETS TO INTEGRATE BEHAVIORAL HEALTH SERVICES WITH EFFORTS TO ADDRESS SOCIAL DETE",
+    "start_date": "2021-09-30",
+    "end_date": "2026-09-29",
+    "agency": "Department of Health and Human Services",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-20-CO-020-20",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "20-CO-020-20",
+    "recipient": "ROCKY MOUNTAIN HUMAN SERVICES",
+    "amount": 4916709.0,
+    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
+    "start_date": "2019-10-01",
+    "end_date": "2020-09-30",
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0165L8T032001",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0165L8T032001",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 4875266.0,
+    "description": "CONTINUUM OF CARE PROGRAM",
+    "start_date": "2021-04-01",
+    "end_date": "2022-03-31",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-20-ZZ-113-SS",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "20-ZZ-113-SS",
+    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
+    "amount": 4833558.0,
+    "description": "THE SSVF PROGRAM\u2019S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
+    "start_date": "2021-09-01",
+    "end_date": "2023-09-30",
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0165T8T031900",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0165T8T031900",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 4704830.0,
+    "description": "CONTINUUM OF CARE PROGRAM",
+    "start_date": "2020-04-01",
+    "end_date": "2021-03-31",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-20-CO-020-C2",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "20-CO-020-C2",
+    "recipient": "ROCKY MOUNTAIN HUMAN SERVICES",
+    "amount": 4339517.0,
+    "description": "CARES 2.0 FUNDING FOR COVID19.  THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELES",
+    "start_date": "2020-04-01",
+    "end_date": "2021-09-30",
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-COCH575-1483-554-PD-21",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "COCH575-1483-554-PD-21",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 4304549.09,
+    "description": "VA IS PROVIDING PER DIEM FUNDING TO ASSIST WITH THE OPERATIONAL COSTS ASSOCIATED WITH TRANSITIONAL HOUSING BEDS FOR HOMELESS VETERANS.",
+    "start_date": null,
+    "end_date": null,
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0031L8T031710",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0031L8T031710",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 4253732.0,
+    "description": "CONTINUUM OF CARE PROGRAM",
+    "start_date": "2018-04-01",
+    "end_date": "2019-03-31",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-B-24-CP-CO-0430",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "B-24-CP-CO-0430",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 4116279.0,
+    "description": "PURPOSE: ECONOMIC DEVELOPMENT INITIATIVE, COMMUNITY PROJECT FUNDING/CONGRESSIONAL DIRECTED SPENDING AWARDS ARE AUTHORIZED UNDER THE CONSOLIDATED APPROPRIATIONS ACT, 2022 PUBLIC LAW 117-328 AND THE EXPLANATORY STATEMENT FOR DIVISION L OF THAT ACT. PROJECTS SELECTED FOR COMMUNITY PROJECT FUNDING/CONGR",
+    "start_date": "2024-08-13",
+    "end_date": "2032-08-31",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-COH25F001",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "COH25F001",
+    "recipient": "DENVER, CITY & COUNTY OF",
+    "amount": 4056107.0,
+    "description": "PURPOSE: THE HOUSING OPPORTUNITIES FOR PERSONS WITH AIDS (HOPWA) PROGRAM WAS AUTHORIZED THROUGH THE AIDS HOUSING OPPORTUNITY ACT (42 USC CH. 131) AND CREATED TO ADDRESS THE HOUSING NEEDS OF LOW-INCOME INDIVIDUALS WITH HIV/AIDS AND THEIR FAMILIES. THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HUD)",
+    "start_date": "2026-01-29",
+    "end_date": "2029-01-28",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "FORMULA GRANT (A)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-COH24F001",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "COH24F001",
+    "recipient": "DENVER, CITY & COUNTY OF",
+    "amount": 4053292.0,
+    "description": "PURPOSE: THE HOUSING OPPORTUNITIES FOR PERSONS WITH AIDS (HOPWA) PROGRAM WAS AUTHORIZED THROUGH THE AIDS HOUSING OPPORTUNITY ACT (42 USC CH. 131) AND CREATED TO ADDRESS THE HOUSING NEEDS OF LOW-INCOME INDIVIDUALS WITH HIV/AIDS AND THEIR FAMILIES. THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HUD)",
+    "start_date": "2024-12-09",
+    "end_date": "2027-12-08",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "FORMULA GRANT (A)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-COH23F001",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "COH23F001",
+    "recipient": "DENVER, CITY & COUNTY OF",
+    "amount": 4036662.0,
+    "description": "PURPOSE: THE HOUSING OPPORTUNITIES FOR PERSONS WITH AIDS (HOPWA) PROGRAM WAS AUTHORIZED THROUGH THE AIDS HOUSING OPPORTUNITY ACT (42 USC CH. 131) AND CREATED TO ADDRESS THE HOUSING NEEDS OF LOW-INCOME INDIVIDUALS WITH HIV/AIDS AND THEIR FAMILIES. THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HUD)",
+    "start_date": "2023-11-01",
+    "end_date": "2026-10-31",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "FORMULA GRANT (A)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-B-23-CP-CO-0291",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "B-23-CP-CO-0291",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 4000000.0,
+    "description": "ECONOMIC DEVELOPMENT INITIATIVE, COMMUNITY PROJECT FUNDING, AND MISCELLANEOUS GRANTS",
+    "start_date": "2023-02-17",
+    "end_date": "2031-08-31",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-H79SM087004",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "H79SM087004",
+    "recipient": "AURORA COMPREHENSIVE COMMUNITY MENTAL HEALTH CENTER, INC.",
+    "amount": 3999866.0,
+    "description": "AUMHC CCBHC-IA - PROJECT NAME AND SUMMARY: AURORA COMPREHENSIVE COMMUNITY MENTAL HEALTH CENTER, D/B/A AURORA MENTAL HEALTH CENTER (AUMHC) WILL IMPROVE AND ADVANCE OUR CERTIFIED COMMUNITY BEHAVIORAL HEALTH CLINIC THROUGH ENHANCING CLIENT EXPERIENCE OF CARE, DEVELOPING CLINICAL CAPACITY IN TRAUMA-FOCU",
+    "start_date": "2022-09-30",
+    "end_date": "2026-09-29",
+    "agency": "Department of Health and Human Services",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-NU51PS005144",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "NU51PS005144",
+    "recipient": "COLORADO DEPARTMENT OF PUBLIC HEALTH & ENVIRONMENT",
+    "amount": 3734644.0,
+    "description": "INTEGRATED VIRAL HEPATITIS SURVEILLANCE AND PREVENTION FUNDING FOR HEALTH DEPARTMENTS - INTRODUCTION - THE COLORADO DEPARTMENT OF PUBLIC HEALTH AND ENVIRONMENT (CDPHE) HAS ALONGSTANDING HISTORY OF COLLABORATING WITH THE CENTERS FOR DISEASE CONTROL AND PREVENTION (CDC)AND OTHER FUNDERS TO PROVIDE VIR",
+    "start_date": "2021-05-01",
+    "end_date": "2026-04-30",
+    "agency": "Department of Health and Human Services",
+    "award_type": "COOPERATIVE AGREEMENT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0042L8T031710",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0042L8T031710",
+    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
+    "amount": 3668138.17,
+    "description": "CONTINUUM OF CARE PROGRAM",
+    "start_date": "2018-07-01",
+    "end_date": "2019-06-30",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-20-CO-020-SS",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "20-CO-020-SS",
+    "recipient": "ROCKY MOUNTAIN HUMAN SERVICES",
+    "amount": 3663600.0,
+    "description": "THE SSVF PROGRAM\u2019S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
+    "start_date": "2021-09-01",
+    "end_date": "2023-09-30",
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-25555DV000141",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "25555DV000141",
+    "recipient": "COLORADO DEPARTMENT OF LABOR AND EMPLOYMENT",
+    "amount": 3569968.0,
+    "description": "THE JVSG PROGRAM SUPPORTS THE DISABLED VETERANS OUTREACH PROGRAM (DVOP) SPECIALIST POSITION, LOCAL VETERANS EMPLOYMENT REPRESENTATIVE (LVER) STAFF, AND CONSOLIDATED POSITION STAFF IN AMERICAN JOB CENTERS (AJCS) ACROSS THE COUNTRY.DVOP SPECIALISTS PROVIDE INDIVIDUALIZED CAREER SERVICES TO VETERANS WI",
+    "start_date": "2024-10-01",
+    "end_date": "2026-12-31",
+    "agency": "Department of Labor",
+    "award_type": "FORMULA GRANT (A)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-24555DV000073",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "24555DV000073",
+    "recipient": "COLORADO DEPARTMENT OF LABOR AND EMPLOYMENT",
+    "amount": 3530605.0,
+    "description": "THE JVSG PROGRAM SUPPORTS THE DISABLED VETERANS OUTREACH PROGRAM (DVOP) SPECIALIST POSITION, LOCAL VETERANS EMPLOYMENT REPRESENTATIVE (LVER) STAFF, AND CONSOLIDATED POSITION STAFF IN AMERICAN JOB CENTERS (AJCS) ACROSS THE COUNTRY.DVOP SPECIALISTS PROVIDE INDIVIDUALIZED CAREER SERVICES TO VETERANS WI",
+    "start_date": "2023-10-01",
+    "end_date": "2025-12-31",
+    "agency": "Department of Labor",
+    "award_type": "FORMULA GRANT (A)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-H79SM080915",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "H79SM080915",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 3428707.0,
+    "description": "CCH ACT PROJECT",
+    "start_date": "2018-09-30",
+    "end_date": "2023-09-29",
+    "agency": "Department of Health and Human Services",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-23555DV000011",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "23555DV000011",
+    "recipient": "COLORADO DEPARTMENT OF LABOR AND EMPLOYMENT",
+    "amount": 3304715.0,
+    "description": "THE   JVSG PROGRAM SUPPORTS THE DISABLED VETERANS  OUTREACH PROGRAM (DVOP)   SPECIALIST POSITION, LOCAL VETERANS  EMPLOYMENT REPRESENTATIVE (LVER) STAFF,   AND CONSOLIDATED POSITION STAFF IN AMERICAN JOB CENTERS (AJCS) ACROSS THE   COUNTRY.  DVOP SPECIALISTS PROVIDE INDIVIDUALIZED CAREER SERVICES TO",
+    "start_date": "2022-10-01",
+    "end_date": "2024-12-31",
+    "agency": "Department of Labor",
+    "award_type": "FORMULA GRANT (A)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-COCH575-3384-554-PD-24",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "COCH575-3384-554-PD-24",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 3286113.71,
+    "description": "VA IS PROVIDING PER DIEM FUNDING TO ASSIST WITH THE OPERATIONAL COSTS ASSOCIATED WITH TRANSITIONAL HOUSING BEDS FOR HOMELESS VETERANS.",
+    "start_date": null,
+    "end_date": "2025-09-30",
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-H8F40618",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "H8F40618",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 3254500.0,
+    "description": "AMERICAN RESCUE PLAN ACT FUNDING FOR HEALTH CENTERS",
+    "start_date": "2021-04-01",
+    "end_date": "2023-03-31",
+    "agency": "Department of Health and Human Services",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-H79SM086737",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "H79SM086737",
+    "recipient": "WEST CENTRAL MENTAL HEALTH CENTER INC",
+    "amount": 2990252.0,
+    "description": "JOURNEY TO CCBHC: INCREASING YOUTH BEHAVIORAL HEALTH ACCESS - SOLVISTA HEALTH WILL ADDRESS BEHAVIORAL HEALTH DISPARITIES FOR YOUTHS AGES 12-21 LIVING IN OUR RURAL AND FRONTIER CATCHMENT AREA WHOSE FAMILY INCOMES ARE AT OR BELOW 265% OF THE FEDERAL POVERTY LEVEL. BY FULLY IMPLEMENTING CCBHC, SOLVISTA",
+    "start_date": "2022-09-30",
+    "end_date": "2026-09-29",
+    "agency": "Department of Health and Human Services",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-U8645859",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "U8645859",
+    "recipient": "COLORADO COMMUNITY MANAGED CARE NETWORK",
+    "amount": 2952451.0,
+    "description": "HEALTH CENTER CONTROLLED NETWORK - PROJECT TITLE: INTEGRATING COMMUNITY RESOURCES AND HEALTH INFORMATION TECHNOLOGY FOR IMPROVED PATIENT OUTCOMES APPLICANT ORGANIZATION NAME: COLORADO COMMUNITY MANAGED CARE NETWORK (CCMCN) ADDRESS: 1212 S BROADWAY, SUITE 200, DENVER, CO 80210-1583 PROJECT DIRECTOR N",
+    "start_date": "2022-08-01",
+    "end_date": "2028-07-31",
+    "agency": "Department of Health and Human Services",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-20-CO-020-22",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "20-CO-020-22",
+    "recipient": "ROCKY MOUNTAIN HUMAN SERVICES",
+    "amount": 2911431.0,
+    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
+    "start_date": null,
+    "end_date": null,
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-23A60MI000006",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "23A60MI000006",
+    "recipient": "COLORADO DEPARTMENT OF LABOR AND EMPLOYMENT",
+    "amount": 2900000.0,
+    "description": "APPLICANT: COLORADO DEPARTMENT OF LABOR AND EMPLOYMENT (CDLE)PROJECT TITLE: COLORADO WDQI PROJECT - PHASE 2PROJECT PURPOSE: EXPAND COLORADOS STATE WORKFORCE LONGITUDINAL ADMINISTRATIVE DATABASE ANDDEVELOP ROBUST TOOLS FOR ACCESSING AND VISUALIZING DATA TO IMPROVE WORKFORCE AND EDUCATIONSERVICE DELIV",
+    "start_date": "2023-07-01",
+    "end_date": "2026-06-30",
+    "agency": "Department of Labor",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-H79TI085331",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "H79TI085331",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 2875000.0,
+    "description": "CCH MAT-PDOA - THE CCH MAT-PDOA PROJECT WILL SERVE PEOPLE WITH OPIOID USE DISORDER (OUD) WHO ARE EXPERIENCING OR AT-RISK OF HOMELESSNESS IN THE CITY & COUNTY OF DENVER, COLORADO. THE PEOPLE SERVED BY THE PROJECT ARE ANTICIPATED TO BE NEARLY 25% HISPANIC, PREDOMINATELY MALE, BETWEEN THE AGES OF 25 AN",
+    "start_date": "2022-09-30",
+    "end_date": "2027-09-29",
+    "agency": "Department of Health and Human Services",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-20-ZZ-092-CA",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "20-ZZ-092-CA",
+    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
+    "amount": 2702090.0,
+    "description": "CARES FUNDING FOR COVID19.  THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AN",
+    "start_date": "2020-04-01",
+    "end_date": "2021-09-30",
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-SACA347-3575-554-PD-24",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "SACA347-3575-554-PD-24",
+    "recipient": "THE SALVATION ARMY",
+    "amount": 2532449.33,
+    "description": "VA IS PROVIDING PER DIEM FUNDING TO ASSIST WITH THE OPERATIONAL COSTS ASSOCIATED WITH TRANSITIONAL HOUSING BEDS FOR HOMELESS VETERANS.",
+    "start_date": null,
+    "end_date": "2025-09-30",
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0109L8T031706",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0109L8T031706",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 2334570.0,
+    "description": "CONTINUUM OF CARE PROGRAM",
+    "start_date": "2018-07-01",
+    "end_date": "2019-06-30",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-H79SM080793",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "H79SM080793",
+    "recipient": "COUNTY OF BOULDER",
+    "amount": 2253931.14,
+    "description": "BOULDER COUNTY PATHWAYS TO SUSTAINABLE HOUSING - A HOUSING FIRST, PERMANENT SUPPORTIVE HOUSING WITH TREATMENT PROJECT FOR INDIVIDUAL ADULTS EXPERIENCING CHRONIC HOMELESSNESS.",
+    "start_date": "2018-11-30",
+    "end_date": "2024-05-29",
+    "agency": "Department of Health and Human Services",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-20-CO-020-CA",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "20-CO-020-CA",
+    "recipient": "ROCKY MOUNTAIN HUMAN SERVICES",
+    "amount": 2209356.0,
+    "description": "CARES FUNDING FOR COVID19.  THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AN",
+    "start_date": "2020-04-01",
+    "end_date": "2021-09-30",
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-NH75OT000003",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "NH75OT000003",
+    "recipient": "EL PASO COUNTY PUBLIC HEALTH",
+    "amount": 2196235.0,
+    "description": "EL PASO COUNTY PUBLIC HEALTH NATIONAL INITIATIVE TO ADDRESS COVID-19 HEALTH DISPARITIES AMONG POPULATIONS AT HIGH-RISK AND UNDERSERVED, INCLUDING RACIAL AND ETHNIC MINORITY POPULATIONS - EL PASO COUNTY PUBLIC HEALTH (EPCPH) SERVES EL PASO COUNTY WITH A TOTAL POPULATION OF APPROXIMATELY 720,00 WHICH ",
+    "start_date": "2021-06-01",
+    "end_date": "2024-05-31",
+    "agency": "Department of Health and Human Services",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-SACA347-1485-554-PD-21",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "SACA347-1485-554-PD-21",
+    "recipient": "THE SALVATION ARMY",
+    "amount": 2188269.55,
+    "description": "VA IS PROVIDING PER DIEM FUNDING TO ASSIST WITH THE OPERATIONAL COSTS ASSOCIATED WITH TRANSITIONAL HOUSING BEDS FOR HOMELESS VETERANS.",
+    "start_date": null,
+    "end_date": null,
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-E-23-DC-08-0001",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "E-23-DC-08-0001",
+    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
+    "amount": 2151676.0,
+    "description": "PURPOSE: THE EMERGENCY SOLUTIONS GRANT (ESG) AUTHORIZES THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HUD) TO MAKE GRANTS TO STATES, UNITS OF GENERAL-PURPOSE LOCAL GOVERNMENT, AND TERRITORIES FOR THE REHABILITATION OR CONVERSION OF BUILDINGS FOR USE AS EMERGENCY SHELTER FOR THE HOMELESS, FOR THE ",
+    "start_date": "2023-08-30",
+    "end_date": "2025-08-29",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "FORMULA GRANT (A)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-E-25-DC-08-0001",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "E-25-DC-08-0001",
+    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
+    "amount": 2146737.0,
+    "description": "PURPOSE: THE EMERGENCY SOLUTIONS GRANT (ESG) AUTHORIZES THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HUD) TO MAKE GRANTS TO STATES, UNITS OF GENERAL-PURPOSE LOCAL GOVERNMENT, AND TERRITORIES FOR THE REHABILITATION OR CONVERSION OF BUILDINGS FOR USE AS EMERGENCY SHELTER FOR THE HOMELESS, FOR THE ",
+    "start_date": "2026-03-20",
+    "end_date": "2028-03-19",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "FORMULA GRANT (A)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-E-24-DC-08-0001",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "E-24-DC-08-0001",
+    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
+    "amount": 2141767.0,
+    "description": "PURPOSE: THE EMERGENCY SOLUTIONS GRANT (ESG) AUTHORIZES THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HUD) TO MAKE GRANTS TO STATES, UNITS OF GENERAL-PURPOSE LOCAL GOVERNMENT, AND TERRITORIES FOR THE REHABILITATION OR CONVERSION OF BUILDINGS FOR USE AS EMERGENCY SHELTER FOR THE HOMELESS, FOR THE ",
+    "start_date": "2024-11-04",
+    "end_date": "2026-11-03",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "FORMULA GRANT (A)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-UK131723",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "UK131723",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 2090809.18,
+    "description": "NURSE, EDUCATION, PRACTICE, QUALITY AND RETENTION - REGISTERED NURSES IN PRIMARY CARE",
+    "start_date": "2018-07-01",
+    "end_date": "2022-06-30",
+    "agency": "Department of Health and Human Services",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CE146564",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CE146564",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 2000000.0,
+    "description": "COMMUNITY PROJECT FUNDING/CONGRESSIONALLY DIRECTED SPENDING - CONSTRUCTION - ADDRESS: 2175 CALIFORNIA STREET, DENVER, CO  80205 PROJECT DIRECTOR NAME:  JOHN PARVENSKY CONTACT INFO:  303.285.5204  JP@COLORADOCOALITION.ORG.  THE COLORADO COALITION FOR THE HOMELESS (CCH) IS DEVELOPING THE STOUT STREET ",
+    "start_date": "2022-08-01",
+    "end_date": "2023-05-31",
+    "agency": "Department of Health and Human Services",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-H79TI085607",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "H79TI085607",
+    "recipient": "WESTERN INTERSTATE COMMISSION FOR HIGHER EDUCATION",
+    "amount": 1948527.0,
+    "description": "REGION 8 RURAL OPIOID TECHNICAL ASSISTANCE CENTER OF EXCELLENCE - THE WESTERN INTERSTATE COMMISSION ON HIGHER EDUCATION (WICHE) BEHAVIORAL HEALTH PROGRAM (BHP) WILL PARTNER WITH UTAH STATE UNIVERSITY (USU) TO CREATE THE REGION 8 REGIONAL OPIOID TECHNICAL ASSISTANCE - RURAL (ROTA-R) CENTER OF EXCELLE",
+    "start_date": "2022-09-30",
+    "end_date": "2026-09-29",
+    "agency": "Department of Health and Human Services",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CCCO679-1482-554-PD-21",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CCCO679-1482-554-PD-21",
+    "recipient": "CATHOLIC CHARITIES AND COMMUNITY SERVICES OF THE ARCHDIOCESE OF DENVER, INC",
+    "amount": 1931882.14,
+    "description": "VA IS PROVIDING PER DIEM FUNDING TO ASSIST WITH THE OPERATIONAL COSTS ASSOCIATED WITH TRANSITIONAL HOUSING BEDS FOR HOMELESS VETERANS.",
+    "start_date": null,
+    "end_date": null,
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-H79TI080506",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "H79TI080506",
+    "recipient": "SPRINGS RESCUE MISSION",
+    "amount": 1926967.61,
+    "description": "PATHWAY OUT OF CHRONIC HOMELESSNESS:BRIDGES-2-BRIDGES PROJECT",
+    "start_date": "2018-09-30",
+    "end_date": "2023-09-29",
+    "agency": "Department of Health and Human Services",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-2020-ZZ-092-LT",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "2020-ZZ-092-LT",
+    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
+    "amount": 1881594.5,
+    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
+    "start_date": null,
+    "end_date": null,
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CCCO679-0346-554-SI-18-0",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CCCO679-0346-554-SI-18-0",
+    "recipient": "CATHOLIC CHARITIES AND COMMUNITY SERVICES OF THE ARCHDIOCESE OF DENVER, INC",
+    "amount": 1874532.0,
+    "description": "VA IS PROVIDING PER DIEM FUNDING TO ASSIST WITH THE OPERATIONAL COSTS ASSOCIATED WITH TRANSITIONAL HOUSING BEDS FOR HOMELESS VETERANS.",
+    "start_date": null,
+    "end_date": null,
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0203Y8T002100",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0203Y8T002100",
+    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
+    "amount": 1798050.0,
+    "description": "PURPOSE: THE YOUTH HOMELESSNESS DEMONSTRATION PROGRAM (YHDP) AIMS TO SUPPORT SELECTED COMMUNITIES IN DEVELOPING AND IMPLEMENTING A COORDINATED COMMUNITY APPROACH TO PREVENTING AND ENDING YOUTH HOMELESSNESS. THE POPULATION TO BE SERVED BY THIS DEMONSTRATION PROGRAM IS YOUTH EXPERIENCING HOMELESSNESS,",
+    "start_date": "2023-10-01",
+    "end_date": "2026-09-30",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0126L8T031703",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0126L8T031703",
+    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
+    "amount": 1760325.17,
+    "description": "CONTINUUM OF CARE PROGRAM",
+    "start_date": "2018-08-01",
+    "end_date": "2019-07-31",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-H79TI080560",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "H79TI080560",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 1640000.0,
+    "description": "CCH GBHI SERVICES",
+    "start_date": "2017-09-30",
+    "end_date": "2022-09-29",
+    "agency": "Department of Health and Human Services",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-20-ZZ-092-C3",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "20-ZZ-092-C3",
+    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
+    "amount": 1522204.0,
+    "description": "CARES FUNDING FOR COVID19.  THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AN",
+    "start_date": "2020-04-01",
+    "end_date": "2021-09-30",
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0226L8T032400",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0226L8T032400",
+    "recipient": "METROPOLITAN DENVER HOMELESS INITIATIVE, INC.",
+    "amount": 1500000.0,
+    "description": "PURPOSE: THE CONTINUUM OF CARE (COC) PROGRAM IS DESIGNED TO PROMOTE COMMUNITY-WIDE COMMITMENT TO THE GOAL OF ENDING HOMELESSNESS; PROVIDE FUNDING FOR EFFORTS BY NONPROFIT PROVIDERS, STATES, AND LOCAL GOVERNMENTS TO QUICKLY HOUSE HOMELESS INDIVIDUALS AND FAMILIES WHILE MINIMIZING THE TRAUMA AND DISLO",
+    "start_date": "2025-11-01",
+    "end_date": "2026-10-31",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-23560HV000025",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "23560HV000025",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 1500000.0,
+    "description": "COLORADO COALITION FOR THE HOMELESS (CCH) PROPOSES A PROJECT WITH THE PURPOSE OF ENABLING VETERANS EXPERIENCING HOMELESSNESS IN METRO DENVER TO REACH THEIR FULL EMPLOYMENT POTENTIAL AND OBTAIN HIGH-QUALITY CAREER OUTCOMES.PROPOSED STAFF ACTIVITIES INCLUDE, OUTREACH, INTAKE, ASSESSMENT, TRAINING, CAS",
+    "start_date": "2023-07-01",
+    "end_date": "2026-06-30",
+    "agency": "Department of Labor",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CO0209L8T032300",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CO0209L8T032300",
+    "recipient": "METROPOLITAN DENVER HOMELESS INITIATIVE, INC.",
+    "amount": 1491902.0,
+    "description": "PURPOSE: THE CONTINUUM OF CARE (COC) PROGRAM IS DESIGNED TO PROMOTE COMMUNITY-WIDE COMMITMENT TO THE GOAL OF ENDING HOMELESSNESS; PROVIDE FUNDING FOR EFFORTS BY NONPROFIT PROVIDERS, STATES, AND LOCAL GOVERNMENTS TO QUICKLY HOUSE HOMELESS INDIVIDUALS AND FAMILIES WHILE MINIMIZING THE TRAUMA AND DISLO",
+    "start_date": "2024-11-01",
+    "end_date": "2025-10-31",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-R01DA061228",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "R01DA061228",
+    "recipient": "THE REGENTS OF THE UNIVERSITY OF COLORADO",
+    "amount": 1473601.0,
+    "description": "IMPROVING HEALTH AND HOUSING OUTCOMES THROUGH A SIMULATION AND ECONOMIC MODEL (IHOUSE MODEL) - PROJECT SUMMARY HOMELESSNESS INCREASED BY 45% FROM 2020 TO 2021, LARGELY FROM ECONOMIC HARDSHIP CAUSED BY THE COVID-19 PANDEMIC AND HAS REACHED ALL-TIME HIGHS ACROSS THE US. MORE THAN 1.25 MILLION PEOPLE E",
+    "start_date": "2024-09-01",
+    "end_date": "2029-05-31",
+    "agency": "Department of Health and Human Services",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-COCH575-0696-554-SI-18-0",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "COCH575-0696-554-SI-18-0",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 1457528.19,
+    "description": "VA IS PROVIDING PER DIEM FUNDING TO ASSIST WITH THE OPERATIONAL COSTS ASSOCIATED WITH TRANSITIONAL HOUSING BEDS FOR HOMELESS VETERANS.",
+    "start_date": null,
+    "end_date": null,
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-VOAC995-1486-554-PD-21",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "VOAC995-1486-554-PD-21",
+    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
+    "amount": 1384255.38,
+    "description": "VA IS PROVIDING PER DIEM FUNDING TO ASSIST WITH THE OPERATIONAL COSTS ASSOCIATED WITH TRANSITIONAL HOUSING BEDS FOR HOMELESS VETERANS.",
+    "start_date": null,
+    "end_date": null,
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-CCCO679-4822-554-PD-24",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "CCCO679-4822-554-PD-24",
+    "recipient": "CATHOLIC CHARITIES AND COMMUNITY SERVICES OF THE ARCHDIOCESE OF DENVER, INC",
+    "amount": 1374398.76,
+    "description": "VA IS PROVIDING PER DIEM FUNDING TO ASSIST WITH THE OPERATIONAL COSTS ASSOCIATED WITH TRANSITIONAL HOUSING BEDS FOR HOMELESS VETERANS.",
+    "start_date": null,
+    "end_date": "2025-09-30",
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-S196A230006",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "S196A230006",
+    "recipient": "BOARD OF EDUCATION COLORADO",
+    "amount": 1286249.0,
+    "description": "EDUCATION FOR HOMELESS CHILDREN AND YOUTH",
+    "start_date": "2023-07-01",
+    "end_date": "2024-09-30",
+    "agency": "Department of Education",
+    "award_type": "FORMULA GRANT (A)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-COCH575-0695-554-LD-18-0",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "COCH575-0695-554-LD-18-0",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 1282834.1,
+    "description": "VA IS PROVIDING PER DIEM FUNDING TO ASSIST WITH THE OPERATIONAL COSTS ASSOCIATED WITH TRANSITIONAL HOUSING BEDS FOR HOMELESS VETERANS.",
+    "start_date": null,
+    "end_date": null,
+    "agency": "Department of Veterans Affairs",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-S196A240006",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "S196A240006",
+    "recipient": "BOARD OF EDUCATION COLORADO",
+    "amount": 1271406.0,
+    "description": "EDUCATION FOR HOMELESS CHILDREN AND YOUTH",
+    "start_date": "2024-07-01",
+    "end_date": "2025-09-30",
+    "agency": "Department of Education",
+    "award_type": "FORMULA GRANT (A)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-COH25F999",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "COH25F999",
+    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
+    "amount": 1269977.0,
+    "description": "PURPOSE: THE HOUSING OPPORTUNITIES FOR PERSONS WITH AIDS (HOPWA) PROGRAM WAS AUTHORIZED THROUGH THE AIDS HOUSING OPPORTUNITY ACT (42 USC CH. 131) AND CREATED TO ADDRESS THE HOUSING NEEDS OF LOW-INCOME INDIVIDUALS WITH HIV/AIDS AND THEIR FAMILIES. THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HUD)",
+    "start_date": "2026-03-20",
+    "end_date": "2029-03-19",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "FORMULA GRANT (A)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-COH24F999",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "COH24F999",
+    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
+    "amount": 1258643.0,
+    "description": "PURPOSE: THE HOUSING OPPORTUNITIES FOR PERSONS WITH AIDS (HOPWA) PROGRAM WAS AUTHORIZED THROUGH THE AIDS HOUSING OPPORTUNITY ACT (42 USC CH. 131) AND CREATED TO ADDRESS THE HOUSING NEEDS OF LOW-INCOME INDIVIDUALS WITH HIV/AIDS AND THEIR FAMILIES. THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HUD)",
+    "start_date": "2024-11-18",
+    "end_date": "2027-11-17",
+    "agency": "Department of Housing and Urban Development",
+    "award_type": "FORMULA GRANT (A)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "usa-HV35302206058",
+    "stream": "spending",
+    "subtype": "federal_award",
+    "award_id": "HV35302206058",
+    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
+    "amount": 1256000.24,
+    "description": "HOMELESS VETERANS (HVRP)",
+    "start_date": "2020-07-01",
+    "end_date": "2023-06-30",
+    "agency": "Department of Labor",
+    "award_type": "PROJECT GRANT (B)",
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-1",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 1,
+      "Unique_Id": 58765494,
+      "BusinessName": "11th Avenue Corporation Inc",
+      "BusinessAddress": "1112 North Broadway",
+      "Point_Count": 3,
+      "Point_Count_1": 1,
+      "Point_Count_12": 5,
+      "Point_Count_12_13": 11,
+      "Point_Count_12_13_14": 16,
+      "Point_Count_12_13_14_15": 22
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-2",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 2,
+      "Unique_Id": 58761846,
+      "BusinessName": "2GW Enterprises LLC",
+      "BusinessAddress": "7520 E Colfax Ave",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 6
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-3",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 3,
+      "Unique_Id": 57892265,
+      "BusinessName": "3 Little Birds Salon",
+      "BusinessAddress": "837 E 17th Ave",
+      "Point_Count": 2,
+      "Point_Count_1": 13,
+      "Point_Count_12": 2,
+      "Point_Count_12_13": 13,
+      "Point_Count_12_13_14": 10,
+      "Point_Count_12_13_14_15": 37
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-4",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 4,
+      "Unique_Id": 57705158,
+      "BusinessName": "3602 E Colfax Ave LLC",
+      "BusinessAddress": "3602 E Colfax Ave",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 5,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 10
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-5",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 5,
+      "Unique_Id": 58542650,
+      "BusinessName": "3rd Bird Collective, LLC",
+      "BusinessAddress": "4036 MORRISON RD",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 3
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-6",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 6,
+      "Unique_Id": 57779644,
+      "BusinessName": "Actall Corporation Inc",
+      "BusinessAddress": "2017 Curtis Street",
+      "Point_Count": 33,
+      "Point_Count_1": 118,
+      "Point_Count_12": 95,
+      "Point_Count_12_13": 179,
+      "Point_Count_12_13_14": 161,
+      "Point_Count_12_13_14_15": 235
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-7",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 7,
+      "Unique_Id": 58047669,
+      "BusinessName": "Aim High Health LLC",
+      "BusinessAddress": "50 S Federal Blvd",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 3,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 4
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-8",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 8,
+      "Unique_Id": 58661871,
+      "BusinessName": "Angel Aesthetics LLC",
+      "BusinessAddress": "3400 E Bayaud Ave",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-9",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 9,
+      "Unique_Id": 58433079,
+      "BusinessName": "Artken Invest LLC",
+      "BusinessAddress": "1485 Osceola Street",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 9,
+      "Point_Count_12_13_14": 5,
+      "Point_Count_12_13_14_15": 21
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-10",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 10,
+      "Unique_Id": 57828075,
+      "BusinessName": "Asterisk Denver LLC",
+      "BusinessAddress": "1075 Park Avenue West",
+      "Point_Count": 6,
+      "Point_Count_1": 25,
+      "Point_Count_12": 40,
+      "Point_Count_12_13": 88,
+      "Point_Count_12_13_14": 128,
+      "Point_Count_12_13_14_15": 167
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-11",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 11,
+      "Unique_Id": 58745212,
+      "BusinessName": "Austin Grady Builders LLC, DBA Veteran Roofing",
+      "BusinessAddress": "7808 Cherry Creek Drive South",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-12",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 12,
+      "Unique_Id": 58623269,
+      "BusinessName": "AUTO HUB",
+      "BusinessAddress": "4600 Glencoe St",
+      "Point_Count": 0,
+      "Point_Count_1": 7,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 10,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 21
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-13",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 13,
+      "Unique_Id": 57752062,
+      "BusinessName": "Bakerline LLC",
+      "BusinessAddress": "1 S Broadway",
+      "Point_Count": 2,
+      "Point_Count_1": 17,
+      "Point_Count_12": 5,
+      "Point_Count_12_13": 27,
+      "Point_Count_12_13_14": 13,
+      "Point_Count_12_13_14_15": 65
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-14",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 14,
+      "Unique_Id": 57606186,
+      "BusinessName": "Balanced Root Apothecary",
+      "BusinessAddress": "1405 n ogden st",
+      "Point_Count": 1,
+      "Point_Count_1": 3,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 5,
+      "Point_Count_12_13_14": 3,
+      "Point_Count_12_13_14_15": 15
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-15",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 15,
+      "Unique_Id": 58760108,
+      "BusinessName": "Baldaco Enterprises LLC",
+      "BusinessAddress": "2120 W 7th St",
+      "Point_Count": 4,
+      "Point_Count_1": 1,
+      "Point_Count_12": 17,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 25,
+      "Point_Count_12_13_14_15": 7
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-16",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 16,
+      "Unique_Id": 57700952,
+      "BusinessName": "Bandspaces LLC",
+      "BusinessAddress": "2711 Larimer St",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 9
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-17",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 17,
+      "Unique_Id": 58387056,
+      "BusinessName": "Baron von Ruzi LLC",
+      "BusinessAddress": "2191 Arapahoe St",
+      "Point_Count": 9,
+      "Point_Count_1": 9,
+      "Point_Count_12": 15,
+      "Point_Count_12_13": 17,
+      "Point_Count_12_13_14": 126,
+      "Point_Count_12_13_14_15": 249
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-18",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 18,
+      "Unique_Id": 58521725,
+      "BusinessName": "bernwood custom design llc",
+      "BusinessAddress": "1257 S Huron St",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-19",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 19,
+      "Unique_Id": 57662458,
+      "BusinessName": "Beth Barta, LCSW, CAC III, LLC",
+      "BusinessAddress": "1750  Lafayette St",
+      "Point_Count": 15,
+      "Point_Count_1": 26,
+      "Point_Count_12": 32,
+      "Point_Count_12_13": 198,
+      "Point_Count_12_13_14": 34,
+      "Point_Count_12_13_14_15": 304
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-20",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 20,
+      "Unique_Id": 57652705,
+      "BusinessName": "Blue Bridal LLC",
+      "BusinessAddress": "685 South Broadway",
+      "Point_Count": 1,
+      "Point_Count_1": 0,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 3
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-21",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 21,
+      "Unique_Id": 57802360,
+      "BusinessName": "Blue Ocean of Colorado Inc.",
+      "BusinessAddress": "3870 Paris St.",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 3,
+      "Point_Count_12_13_14": 10,
+      "Point_Count_12_13_14_15": 5
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-22",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 22,
+      "Unique_Id": 58591589,
+      "BusinessName": "BLUEDIA LLC",
+      "BusinessAddress": "1690 Champa St",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 4,
+      "Point_Count_12_13_14_15": 12
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-23",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 23,
+      "Unique_Id": 57918280,
+      "BusinessName": "Bond Advisors, Inc.",
+      "BusinessAddress": "1114 W. 7th Ave.",
+      "Point_Count": 15,
+      "Point_Count_1": 20,
+      "Point_Count_12": 25,
+      "Point_Count_12_13": 36,
+      "Point_Count_12_13_14": 38,
+      "Point_Count_12_13_14_15": 68
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-24",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 24,
+      "Unique_Id": 58004334,
+      "BusinessName": "Britt Tshering and Wang LLC",
+      "BusinessAddress": "1600 Broadway",
+      "Point_Count": 2,
+      "Point_Count_1": 1,
+      "Point_Count_12": 3,
+      "Point_Count_12_13": 3,
+      "Point_Count_12_13_14": 5,
+      "Point_Count_12_13_14_15": 36
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-25",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 25,
+      "Unique_Id": 57698548,
+      "BusinessName": "Broncobuffs LLC",
+      "BusinessAddress": "8960 E. Hampden Ave.",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 1
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-26",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 26,
+      "Unique_Id": 58461564,
+      "BusinessName": "Busby Baker LLC",
+      "BusinessAddress": "2795 N Speer Blvd",
+      "Point_Count": 45,
+      "Point_Count_1": 34,
+      "Point_Count_12": 81,
+      "Point_Count_12_13": 102,
+      "Point_Count_12_13_14": 127,
+      "Point_Count_12_13_14_15": 419
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-27",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 27,
+      "Unique_Id": 57719808,
+      "BusinessName": "By The Way Management",
+      "BusinessAddress": "3401 E Colfax Ave",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 6,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 14
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-28",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 28,
+      "Unique_Id": 58550213,
+      "BusinessName": "CFK Consulting Services, LLC",
+      "BusinessAddress": "1680 Champa St",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 4,
+      "Point_Count_12_13_14_15": 12
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-29",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 29,
+      "Unique_Id": 58047532,
+      "BusinessName": "Chain Lightning LLC",
+      "BusinessAddress": "1215 20th St.",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 5,
+      "Point_Count_12_13_14": 49,
+      "Point_Count_12_13_14_15": 118
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-30",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 30,
+      "Unique_Id": 57553580,
+      "BusinessName": "Cheese Meat Board, LLC",
+      "BusinessAddress": "2054 N Broadway",
+      "Point_Count": 19,
+      "Point_Count_1": 23,
+      "Point_Count_12": 69,
+      "Point_Count_12_13": 90,
+      "Point_Count_12_13_14": 212,
+      "Point_Count_12_13_14_15": 292
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-31",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 31,
+      "Unique_Id": 57570307,
+      "BusinessName": "Christina Dooley Photography LLC",
+      "BusinessAddress": "1550 S. Acoma St.",
+      "Point_Count": 0,
+      "Point_Count_1": 3,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 8,
+      "Point_Count_12_13_14": 3,
+      "Point_Count_12_13_14_15": 12
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-32",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 32,
+      "Unique_Id": 58139973,
+      "BusinessName": "Ciabiatta 32, LLC",
+      "BusinessAddress": "3000 Zuni st",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-33",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 33,
+      "Unique_Id": 58543900,
+      "BusinessName": "CJDM Inc",
+      "BusinessAddress": "5145 Chambers Rd",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 6
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-34",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 34,
+      "Unique_Id": 58424041,
+      "BusinessName": "Classic Eats delicatessen",
+      "BusinessAddress": "1485 Osceola Street",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 9,
+      "Point_Count_12_13_14": 5,
+      "Point_Count_12_13_14_15": 21
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-35",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 35,
+      "Unique_Id": 57563603,
+      "BusinessName": "Classy Nails",
+      "BusinessAddress": "2510 15th St",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 6
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-36",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 36,
+      "Unique_Id": 57551244,
+      "BusinessName": "Coco Rose Enterprises LLC",
+      "BusinessAddress": "1654 N Grant St",
+      "Point_Count": 3,
+      "Point_Count_1": 16,
+      "Point_Count_12": 5,
+      "Point_Count_12_13": 25,
+      "Point_Count_12_13_14": 22,
+      "Point_Count_12_13_14_15": 69
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-37",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 37,
+      "Unique_Id": 58337766,
+      "BusinessName": "Command Consulting",
+      "BusinessAddress": "2890 Brighton Blvd",
+      "Point_Count": 1,
+      "Point_Count_1": 22,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 24,
+      "Point_Count_12_13_14": 6,
+      "Point_Count_12_13_14_15": 69
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-38",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 38,
+      "Unique_Id": 58014706,
+      "BusinessName": "Community Concept, Inc",
+      "BusinessAddress": "2190 S Platte River Dr",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 10
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-39",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 39,
+      "Unique_Id": 58767326,
+      "BusinessName": "Culture Meat and Cheese Shop LLC",
+      "BusinessAddress": "2669 Larimer St",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 4,
+      "Point_Count_12_13_14_15": 37
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-40",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 40,
+      "Unique_Id": 57576187,
+      "BusinessName": "cushionworld.com",
+      "BusinessAddress": "2625 S SANTA FE DR",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 3
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-41",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 41,
+      "Unique_Id": 58617226,
+      "BusinessName": "Custom P. T. LLC",
+      "BusinessAddress": "38 East 5th Ave",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 5,
+      "Point_Count_12_13_14_15": 11
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-42",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 42,
+      "Unique_Id": 57824698,
+      "BusinessName": "Dark Horse Denim Co. LLC",
+      "BusinessAddress": "12445 E 39th Ave",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-43",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 43,
+      "Unique_Id": 57564361,
+      "BusinessName": "DazzleJazz Inc.",
+      "BusinessAddress": "1080 14th Street",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 4
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-44",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 44,
+      "Unique_Id": 57907027,
+      "BusinessName": "DenCo Foods, LLC",
+      "BusinessAddress": "1147 N. Broadway",
+      "Point_Count": 1,
+      "Point_Count_1": 0,
+      "Point_Count_12": 2,
+      "Point_Count_12_13": 4,
+      "Point_Count_12_13_14": 15,
+      "Point_Count_12_13_14_15": 21
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-45",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 45,
+      "Unique_Id": 57862169,
+      "BusinessName": "Denny Fitness LLC",
+      "BusinessAddress": "2360 Lawrence Street",
+      "Point_Count": 13,
+      "Point_Count_1": 24,
+      "Point_Count_12": 48,
+      "Point_Count_12_13": 49,
+      "Point_Count_12_13_14": 91,
+      "Point_Count_12_13_14_15": 142
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-46",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 46,
+      "Unique_Id": 57551664,
+      "BusinessName": "Denver Aerobics Center",
+      "BusinessAddress": "2538 S COLORADO BLVD",
+      "Point_Count": 0,
+      "Point_Count_1": 6,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 6,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 10
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-47",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 47,
+      "Unique_Id": 58767147,
+      "BusinessName": "Denver Crystals and gems wholesale",
+      "BusinessAddress": "220 S Broadway",
+      "Point_Count": 4,
+      "Point_Count_1": 7,
+      "Point_Count_12": 6,
+      "Point_Count_12_13": 17,
+      "Point_Count_12_13_14": 15,
+      "Point_Count_12_13_14_15": 93
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-48",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 48,
+      "Unique_Id": 58279775,
+      "BusinessName": "Denver Hair Design, LLC",
+      "BusinessAddress": "55 East 1st Avenue",
+      "Point_Count": 0,
+      "Point_Count_1": 5,
+      "Point_Count_12": 2,
+      "Point_Count_12_13": 7,
+      "Point_Count_12_13_14": 4,
+      "Point_Count_12_13_14_15": 25
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-49",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 49,
+      "Unique_Id": 58672385,
+      "BusinessName": "Denver Pub Crawl LLC",
+      "BusinessAddress": "110 16th St Mall",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 2,
+      "Point_Count_12_13": 5,
+      "Point_Count_12_13_14": 5,
+      "Point_Count_12_13_14_15": 20
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-50",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 50,
+      "Unique_Id": 58132680,
+      "BusinessName": "Desibl LLC",
+      "BusinessAddress": "955 24th St",
+      "Point_Count": 2,
+      "Point_Count_1": 3,
+      "Point_Count_12": 9,
+      "Point_Count_12_13": 27,
+      "Point_Count_12_13_14": 78,
+      "Point_Count_12_13_14_15": 111
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-51",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 51,
+      "Unique_Id": 57585466,
+      "BusinessName": "DHJY corporation",
+      "BusinessAddress": "999 18th st",
+      "Point_Count": 2,
+      "Point_Count_1": 3,
+      "Point_Count_12": 8,
+      "Point_Count_12_13": 12,
+      "Point_Count_12_13_14": 127,
+      "Point_Count_12_13_14_15": 131
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-52",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 52,
+      "Unique_Id": 57639938,
+      "BusinessName": "DiFranco's LLC",
+      "BusinessAddress": "955 N Lincoln St",
+      "Point_Count": 2,
+      "Point_Count_1": 9,
+      "Point_Count_12": 7,
+      "Point_Count_12_13": 11,
+      "Point_Count_12_13_14": 27,
+      "Point_Count_12_13_14_15": 16
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-53",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 53,
+      "Unique_Id": 58760971,
+      "BusinessName": "Discover Health and Wellness Uptown",
+      "BusinessAddress": "1747 N Marion St",
+      "Point_Count": 1,
+      "Point_Count_1": 219,
+      "Point_Count_12": 28,
+      "Point_Count_12_13": 260,
+      "Point_Count_12_13_14": 34,
+      "Point_Count_12_13_14_15": 311
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-54",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 54,
+      "Unique_Id": 58279497,
+      "BusinessName": "Dosher Delivery LLC",
+      "BusinessAddress": "1531 Stout Street",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 3
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-55",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 55,
+      "Unique_Id": 57552295,
+      "BusinessName": "Dr. Glenn, Inc",
+      "BusinessAddress": "1780 South Bellaire Street",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 4,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 8
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-56",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 56,
+      "Unique_Id": 57675401,
+      "BusinessName": "DT Investments Inc",
+      "BusinessAddress": "2161 S. Platte River Dr",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 3,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 5
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-57",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 57,
+      "Unique_Id": 58646238,
+      "BusinessName": "Duke's Apron LLC",
+      "BusinessAddress": "2748 Welton St",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-58",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 58,
+      "Unique_Id": 57749563,
+      "BusinessName": "DULCE Body Bar, LLC",
+      "BusinessAddress": "955 Lincoln Street",
+      "Point_Count": 2,
+      "Point_Count_1": 9,
+      "Point_Count_12": 7,
+      "Point_Count_12_13": 11,
+      "Point_Count_12_13_14": 27,
+      "Point_Count_12_13_14_15": 16
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-59",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 59,
+      "Unique_Id": 58176486,
+      "BusinessName": "EDIFICE2120",
+      "BusinessAddress": "2120 W 7th Ave",
+      "Point_Count": 4,
+      "Point_Count_1": 1,
+      "Point_Count_12": 17,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 25,
+      "Point_Count_12_13_14_15": 7
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-60",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 60,
+      "Unique_Id": 58040081,
+      "BusinessName": "Eiskaffee Broadway LLC",
+      "BusinessAddress": "15 E 11th Avenue",
+      "Point_Count": 3,
+      "Point_Count_1": 1,
+      "Point_Count_12": 5,
+      "Point_Count_12_13": 11,
+      "Point_Count_12_13_14": 16,
+      "Point_Count_12_13_14_15": 22
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-61",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 61,
+      "Unique_Id": 58748247,
+      "BusinessName": "Elevated State of Design LLC",
+      "BusinessAddress": "1321 S. Cherokee St.",
+      "Point_Count": 1,
+      "Point_Count_1": 0,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 5,
+      "Point_Count_12_13_14": 3,
+      "Point_Count_12_13_14_15": 10
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-62",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 62,
+      "Unique_Id": 57781589,
+      "BusinessName": "Elite Drilling Services",
+      "BusinessAddress": "3978 Ulster Street",
+      "Point_Count": 1,
+      "Point_Count_1": 2,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 4,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 23
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-63",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 63,
+      "Unique_Id": 57783562,
+      "BusinessName": "En Routt Barber CO LLC",
+      "BusinessAddress": "2111 Larimer",
+      "Point_Count": 2,
+      "Point_Count_1": 1,
+      "Point_Count_12": 4,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 51,
+      "Point_Count_12_13_14_15": 73
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-64",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 64,
+      "Unique_Id": 58175922,
+      "BusinessName": "Environmental Consulting Services LLC",
+      "BusinessAddress": "2120 West 7th Avenue",
+      "Point_Count": 4,
+      "Point_Count_1": 1,
+      "Point_Count_12": 17,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 25,
+      "Point_Count_12_13_14_15": 7
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-65",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 65,
+      "Unique_Id": 57622626,
+      "BusinessName": "Ethan Herrold Photography, Inc.",
+      "BusinessAddress": "910 Santa Fe Drive",
+      "Point_Count": 1,
+      "Point_Count_1": 4,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 6,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 9
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-66",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 66,
+      "Unique_Id": 58243589,
+      "BusinessName": "Family hair cuts",
+      "BusinessAddress": "1501 west alameda ave",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 5
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-67",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 67,
+      "Unique_Id": 57554678,
+      "BusinessName": "Famous Buffalo wings and things llc",
+      "BusinessAddress": "8208 E Colfax Ave",
+      "Point_Count": 0,
+      "Point_Count_1": 6,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 23,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 42
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-68",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 68,
+      "Unique_Id": 57926531,
+      "BusinessName": "FattE PBC",
+      "BusinessAddress": "2596 W Barberry Pl",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 3
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-69",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 69,
+      "Unique_Id": 58750100,
+      "BusinessName": "FIT FREAKS llc",
+      "BusinessAddress": "2110 market st",
+      "Point_Count": 2,
+      "Point_Count_1": 1,
+      "Point_Count_12": 4,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 52,
+      "Point_Count_12_13_14_15": 66
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-70",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 70,
+      "Unique_Id": 58680991,
+      "BusinessName": "FITC 5 Points LLC",
+      "BusinessAddress": "2590 Welton St",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 3,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 5,
+      "Point_Count_12_13_14_15": 5
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-71",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 71,
+      "Unique_Id": 58683866,
+      "BusinessName": "Fluent Fitness LLC",
+      "BusinessAddress": "1212 Delaware St.",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 5,
+      "Point_Count_12_13_14_15": 4
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-72",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 72,
+      "Unique_Id": 58695990,
+      "BusinessName": "Francisco Estevez Photography LLC",
+      "BusinessAddress": "910 Santa Fe Drive",
+      "Point_Count": 1,
+      "Point_Count_1": 4,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 6,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 9
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-73",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 73,
+      "Unique_Id": 58194067,
+      "BusinessName": "FreeStyle Group, LLC",
+      "BusinessAddress": "2185 N. Broadway",
+      "Point_Count": 14,
+      "Point_Count_1": 72,
+      "Point_Count_12": 81,
+      "Point_Count_12_13": 136,
+      "Point_Count_12_13_14": 259,
+      "Point_Count_12_13_14_15": 336
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-74",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 74,
+      "Unique_Id": 57750646,
+      "BusinessName": "Frozen Matter, LLC",
+      "BusinessAddress": "2851 W 25th Ave",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 13
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-75",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 75,
+      "Unique_Id": 57747922,
+      "BusinessName": "Frozen Matter, LLC",
+      "BusinessAddress": "1131 W Custer Pl",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 5
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-76",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 76,
+      "Unique_Id": 57747284,
+      "BusinessName": "Frozen Matter, LLC",
+      "BusinessAddress": "530 E 19th Ave",
+      "Point_Count": 3,
+      "Point_Count_1": 1,
+      "Point_Count_12": 8,
+      "Point_Count_12_13": 22,
+      "Point_Count_12_13_14": 15,
+      "Point_Count_12_13_14_15": 52
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-77",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 77,
+      "Unique_Id": 57745927,
+      "BusinessName": "Frozen Matter, LLC",
+      "BusinessAddress": "52 Broadway",
+      "Point_Count": 2,
+      "Point_Count_1": 4,
+      "Point_Count_12": 4,
+      "Point_Count_12_13": 20,
+      "Point_Count_12_13_14": 7,
+      "Point_Count_12_13_14_15": 46
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-78",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 78,
+      "Unique_Id": 58763859,
+      "BusinessName": "FTF Knox Inc",
+      "BusinessAddress": "530 Knox Ct",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-79",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 79,
+      "Unique_Id": 57576418,
+      "BusinessName": "G2G Activations LLC",
+      "BusinessAddress": "931 W 5th Ave",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 5
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-80",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 80,
+      "Unique_Id": 57614005,
+      "BusinessName": "gb fish & chips 3, inc",
+      "BusinessAddress": "5325 e colfax ave",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 1
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-81",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 81,
+      "Unique_Id": 57753365,
+      "BusinessName": "Gotham Coffee LLP",
+      "BusinessAddress": "1661 Central Street",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 4,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 12
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-82",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 82,
+      "Unique_Id": 57816899,
+      "BusinessName": "Great Divide Brewing Co.",
+      "BusinessAddress": "2201 Arapahoe St",
+      "Point_Count": 9,
+      "Point_Count_1": 14,
+      "Point_Count_12": 26,
+      "Point_Count_12_13": 27,
+      "Point_Count_12_13_14": 126,
+      "Point_Count_12_13_14_15": 229
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-83",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 83,
+      "Unique_Id": 57841732,
+      "BusinessName": "Grip It, LLC",
+      "BusinessAddress": "2134 Curtis Street",
+      "Point_Count": 14,
+      "Point_Count_1": 72,
+      "Point_Count_12": 81,
+      "Point_Count_12_13": 136,
+      "Point_Count_12_13_14": 259,
+      "Point_Count_12_13_14_15": 336
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-84",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 84,
+      "Unique_Id": 58670210,
+      "BusinessName": "Guthrie LLC",
+      "BusinessAddress": "321 E. 45th Ave",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 4,
+      "Point_Count_12_13_14": 3,
+      "Point_Count_12_13_14_15": 16
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-85",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 85,
+      "Unique_Id": 57571006,
+      "BusinessName": "HairLove Studio",
+      "BusinessAddress": "910 16th street mall",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 5
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-86",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 86,
+      "Unique_Id": 58285412,
+      "BusinessName": "Handcraft Bakery LLC",
+      "BusinessAddress": "1999 Broadway",
+      "Point_Count": 2,
+      "Point_Count_1": 1,
+      "Point_Count_12": 13,
+      "Point_Count_12_13": 45,
+      "Point_Count_12_13_14": 75,
+      "Point_Count_12_13_14_15": 175
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-87",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 87,
+      "Unique_Id": 57585268,
+      "BusinessName": "Happy4Us RiNo, LLC",
+      "BusinessAddress": "2134 Curtis Street",
+      "Point_Count": 14,
+      "Point_Count_1": 72,
+      "Point_Count_12": 81,
+      "Point_Count_12_13": 136,
+      "Point_Count_12_13_14": 259,
+      "Point_Count_12_13_14_15": 336
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-88",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 88,
+      "Unique_Id": 58033491,
+      "BusinessName": "High Point RiNo LLC",
+      "BusinessAddress": "2669 Larimer Street",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 4,
+      "Point_Count_12_13_14_15": 37
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-89",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 89,
+      "Unique_Id": 58317375,
+      "BusinessName": "HJB Convenience",
+      "BusinessAddress": "303 16th St.",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 4,
+      "Point_Count_12_13_14_15": 9
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-90",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 90,
+      "Unique_Id": 57889734,
+      "BusinessName": "HJB Convenience Corporation",
+      "BusinessAddress": "201 W Colfax",
+      "Point_Count": 0,
+      "Point_Count_1": 3,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 7,
+      "Point_Count_12_13_14": 6,
+      "Point_Count_12_13_14_15": 11
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-91",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 91,
+      "Unique_Id": 58295406,
+      "BusinessName": "HN Investments, LLC",
+      "BusinessAddress": "2701 W. Alameda Ave.",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 1
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-92",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 92,
+      "Unique_Id": 58764742,
+      "BusinessName": "Hope Lincoln Enterprises Inc.",
+      "BusinessAddress": "5001 Lowell Blvd",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 11
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-93",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 93,
+      "Unique_Id": 58627016,
+      "BusinessName": "Imported Innovations Trades & Services, Inc.",
+      "BusinessAddress": "3511 E 41st Ave",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 11,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 24
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-94",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 94,
+      "Unique_Id": 57563618,
+      "BusinessName": "Ink Monstr LLC",
+      "BusinessAddress": "2721 W. Holden Pl",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 4
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-95",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 95,
+      "Unique_Id": 58259390,
+      "BusinessName": "Inward Motion LTD",
+      "BusinessAddress": "1601 19th Street",
+      "Point_Count": 1,
+      "Point_Count_1": 1,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 6,
+      "Point_Count_12_13_14_15": 5
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-96",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 96,
+      "Unique_Id": 57576373,
+      "BusinessName": "J&J FOOD ENTERPRISE",
+      "BusinessAddress": "4640 PECOS ST",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-97",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 97,
+      "Unique_Id": 58744561,
+      "BusinessName": "Jackson Enterprises Corporation",
+      "BusinessAddress": "3333 N Colorado Blvd",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 3,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 4
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-98",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 98,
+      "Unique_Id": 57758133,
+      "BusinessName": "Jet City Coffee Inc.",
+      "BusinessAddress": "300 W 11th Ave",
+      "Point_Count": 2,
+      "Point_Count_1": 3,
+      "Point_Count_12": 2,
+      "Point_Count_12_13": 3,
+      "Point_Count_12_13_14": 4,
+      "Point_Count_12_13_14_15": 7
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-99",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 99,
+      "Unique_Id": 57580110,
+      "BusinessName": "Jimmy Crazy Asian Inc",
+      "BusinessAddress": "4701 Peoria St",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 7
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-100",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 100,
+      "Unique_Id": 57645817,
+      "BusinessName": "JJ's Bistro Inc",
+      "BusinessAddress": "1255 19th St",
+      "Point_Count": 0,
+      "Point_Count_1": 2,
+      "Point_Count_12": 3,
+      "Point_Count_12_13": 5,
+      "Point_Count_12_13_14": 46,
+      "Point_Count_12_13_14_15": 122
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-101",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 101,
+      "Unique_Id": 58421066,
+      "BusinessName": "J-K-B ENTERPRISES LLC",
+      "BusinessAddress": "327 14th st",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 4,
+      "Point_Count_12_13_14_15": 6
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-102",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 102,
+      "Unique_Id": 58119875,
+      "BusinessName": "Jonni's Automotive Repair INC",
+      "BusinessAddress": "4444 W Colfax Ave",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 3,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 21
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-103",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 103,
+      "Unique_Id": 57749674,
+      "BusinessName": "JTN Inc.",
+      "BusinessAddress": "4635 W. Colfax Ave",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 5,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 8
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-104",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 104,
+      "Unique_Id": 57847320,
+      "BusinessName": "Jupiter/Pluto Company",
+      "BusinessAddress": "2199 CALIFORNIA ST",
+      "Point_Count": 23,
+      "Point_Count_1": 26,
+      "Point_Count_12": 101,
+      "Point_Count_12_13": 85,
+      "Point_Count_12_13_14": 251,
+      "Point_Count_12_13_14_15": 323
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-105",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 105,
+      "Unique_Id": 57550734,
+      "BusinessName": "Just BE Kitchen LLC",
+      "BusinessAddress": "2364 15th st",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-106",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 106,
+      "Unique_Id": 58757202,
+      "BusinessName": "KalRaye kleaning krew",
+      "BusinessAddress": "403 16th street mall",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 4
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-107",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 107,
+      "Unique_Id": 58436430,
+      "BusinessName": "Keep Smoking Wood LLC",
+      "BusinessAddress": "1644 Platte St.",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 3,
+      "Point_Count_12_13_14_15": 1
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-108",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 108,
+      "Unique_Id": 58487586,
+      "BusinessName": "Ken's Reproductions LLC",
+      "BusinessAddress": "2220 Curtis Street",
+      "Point_Count": 24,
+      "Point_Count_1": 46,
+      "Point_Count_12": 49,
+      "Point_Count_12_13": 69,
+      "Point_Count_12_13_14": 182,
+      "Point_Count_12_13_14_15": 264
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-109",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 109,
+      "Unique_Id": 58623556,
+      "BusinessName": "Kin Woodcraft LLC",
+      "BusinessAddress": "3505 E 41st Ave",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 11,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 24
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-110",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 110,
+      "Unique_Id": 57697027,
+      "BusinessName": "Kroese Chiropractic PC",
+      "BusinessAddress": "535 16th St Mall",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-111",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 111,
+      "Unique_Id": 57679802,
+      "BusinessName": "Ku Cha House of Tea",
+      "BusinessAddress": "500 16th Street",
+      "Point_Count": 1,
+      "Point_Count_1": 1,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 5
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-112",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 112,
+      "Unique_Id": 58759805,
+      "BusinessName": "Las Monas Panaderia Y Pizzeria Corp",
+      "BusinessAddress": "3137 W Kentucky Ave",
+      "Point_Count": 1,
+      "Point_Count_1": 0,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 1
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-113",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 113,
+      "Unique_Id": 57649306,
+      "BusinessName": "Lazo Foods Llc",
+      "BusinessAddress": "1319 22nd St",
+      "Point_Count": 2,
+      "Point_Count_1": 0,
+      "Point_Count_12": 23,
+      "Point_Count_12_13": 32,
+      "Point_Count_12_13_14": 64,
+      "Point_Count_12_13_14_15": 82
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-114",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 114,
+      "Unique_Id": 57619998,
+      "BusinessName": "LFCF LLC",
+      "BusinessAddress": "2171 S Grape St",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-115",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 115,
+      "Unique_Id": 58767149,
+      "BusinessName": "Lightware, Inc.",
+      "BusinessAddress": "1329 West Byers Place",
+      "Point_Count": 1,
+      "Point_Count_1": 4,
+      "Point_Count_12": 3,
+      "Point_Count_12_13": 9,
+      "Point_Count_12_13_14": 6,
+      "Point_Count_12_13_14_15": 12
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-116",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 116,
+      "Unique_Id": 58705270,
+      "BusinessName": "Little Pig LLC DBA the Fifth string",
+      "BusinessAddress": "3316 Tejon st",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 5
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-117",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 117,
+      "Unique_Id": 58362964,
+      "BusinessName": "LMIC Creamery LLC",
+      "BusinessAddress": "4411 W Colfax Ave",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 4,
+      "Point_Count_12_13_14": 5,
+      "Point_Count_12_13_14_15": 20
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-118",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 118,
+      "Unique_Id": 58142992,
+      "BusinessName": "Lodo Liquor & Wine LLC",
+      "BusinessAddress": "2101 Market Street",
+      "Point_Count": 1,
+      "Point_Count_1": 2,
+      "Point_Count_12": 3,
+      "Point_Count_12_13": 3,
+      "Point_Count_12_13_14": 46,
+      "Point_Count_12_13_14_15": 48
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-119",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 119,
+      "Unique_Id": 58167212,
+      "BusinessName": "Lodo Liquor and Wine",
+      "BusinessAddress": "360 W. 13th Ave",
+      "Point_Count": 1,
+      "Point_Count_1": 0,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 8,
+      "Point_Count_12_13_14_15": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-120",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 120,
+      "Unique_Id": 57902973,
+      "BusinessName": "M.S. Clark Enterprises",
+      "BusinessAddress": "2061 Arapahoe Street",
+      "Point_Count": 22,
+      "Point_Count_1": 80,
+      "Point_Count_12": 48,
+      "Point_Count_12_13": 145,
+      "Point_Count_12_13_14": 164,
+      "Point_Count_12_13_14_15": 218
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-121",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 121,
+      "Unique_Id": 58729647,
+      "BusinessName": "Machetes Gourmet LLC",
+      "BusinessAddress": "12050 E. 47th Avenue",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-122",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 122,
+      "Unique_Id": 57554664,
+      "BusinessName": "MAINSPRING Construction, LLC",
+      "BusinessAddress": "4500 Broadway",
+      "Point_Count": 1,
+      "Point_Count_1": 3,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 3,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 5
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-123",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 123,
+      "Unique_Id": 58753555,
+      "BusinessName": "MAINSPRING Hospitality, LLC",
+      "BusinessAddress": "1615 Platte Street",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 5
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-124",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 124,
+      "Unique_Id": 58704354,
+      "BusinessName": "MAINSPRING Hospitality, LLC",
+      "BusinessAddress": "3603 Walnut Street",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 3
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-125",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 125,
+      "Unique_Id": 58135688,
+      "BusinessName": "Management and Training Resources LLC",
+      "BusinessAddress": "2127 Larimer St",
+      "Point_Count": 2,
+      "Point_Count_1": 1,
+      "Point_Count_12": 4,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 51,
+      "Point_Count_12_13_14_15": 73
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-126",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 126,
+      "Unique_Id": 58760960,
+      "BusinessName": "Mary Vasquez",
+      "BusinessAddress": "4757 Vasquez Blvd E",
+      "Point_Count": 1,
+      "Point_Count_1": 2,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 5
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-127",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 127,
+      "Unique_Id": 57705147,
+      "BusinessName": "Matt Silton Media LLC",
+      "BusinessAddress": "1340 W Byers Pl",
+      "Point_Count": 1,
+      "Point_Count_1": 1,
+      "Point_Count_12": 2,
+      "Point_Count_12_13": 7,
+      "Point_Count_12_13_14": 6,
+      "Point_Count_12_13_14_15": 12
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-128",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 128,
+      "Unique_Id": 57551321,
+      "BusinessName": "Matthew Morris Salon and Skincare",
+      "BusinessAddress": "13 South Broadway",
+      "Point_Count": 2,
+      "Point_Count_1": 14,
+      "Point_Count_12": 5,
+      "Point_Count_12_13": 27,
+      "Point_Count_12_13_14": 13,
+      "Point_Count_12_13_14_15": 62
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-129",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 129,
+      "Unique_Id": 57563769,
+      "BusinessName": "Meridian Climate Ltd",
+      "BusinessAddress": "2000 Arapahoe St",
+      "Point_Count": 17,
+      "Point_Count_1": 34,
+      "Point_Count_12": 51,
+      "Point_Count_12_13": 139,
+      "Point_Count_12_13_14": 156,
+      "Point_Count_12_13_14_15": 213
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-130",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 130,
+      "Unique_Id": 57995718,
+      "BusinessName": "MGM Enterprises LTD",
+      "BusinessAddress": "5002 Washington st",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 5
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-131",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 131,
+      "Unique_Id": 58003635,
+      "BusinessName": "Michael V. Ladwig MD PC",
+      "BusinessAddress": "6900 E 47th Avenue Drive",
+      "Point_Count": 1,
+      "Point_Count_1": 0,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-132",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 132,
+      "Unique_Id": 58753522,
+      "BusinessName": "Michel Employee Associates Corporation",
+      "BusinessAddress": "1701 38th st",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 3
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-133",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 133,
+      "Unique_Id": 57895397,
+      "BusinessName": "Midtown Automotive",
+      "BusinessAddress": "1590 Williams st.",
+      "Point_Count": 1,
+      "Point_Count_1": 4,
+      "Point_Count_12": 11,
+      "Point_Count_12_13": 15,
+      "Point_Count_12_13_14": 14,
+      "Point_Count_12_13_14_15": 54
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-134",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 134,
+      "Unique_Id": 57717938,
+      "BusinessName": "Mika Sushi III Inc",
+      "BusinessAddress": "2730 S Colorado Blvd",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 10
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-135",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 135,
+      "Unique_Id": 57749782,
+      "BusinessName": "Mile High Spirits",
+      "BusinessAddress": "2201 Lawrence Street",
+      "Point_Count": 8,
+      "Point_Count_1": 2,
+      "Point_Count_12": 40,
+      "Point_Count_12_13": 41,
+      "Point_Count_12_13_14": 98,
+      "Point_Count_12_13_14_15": 201
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-136",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 136,
+      "Unique_Id": 57550896,
+      "BusinessName": "Milk Tea People",
+      "BusinessAddress": "1641 Market Street",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 4
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-137",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 137,
+      "Unique_Id": 58191535,
+      "BusinessName": "Miracle Enterprises Inc.",
+      "BusinessAddress": "76 North Broadway",
+      "Point_Count": 2,
+      "Point_Count_1": 4,
+      "Point_Count_12": 4,
+      "Point_Count_12_13": 20,
+      "Point_Count_12_13_14": 7,
+      "Point_Count_12_13_14_15": 46
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-138",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 138,
+      "Unique_Id": 57687204,
+      "BusinessName": "MNS Worldwide, LLC",
+      "BusinessAddress": "3001 Brighton Blvd",
+      "Point_Count": 3,
+      "Point_Count_1": 16,
+      "Point_Count_12": 5,
+      "Point_Count_12_13": 20,
+      "Point_Count_12_13_14": 5,
+      "Point_Count_12_13_14_15": 34
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-139",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 139,
+      "Unique_Id": 57564104,
+      "BusinessName": "Moda Body, LLC",
+      "BusinessAddress": "800 West 8th Avenue",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 3,
+      "Point_Count_12_13_14_15": 3
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-140",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 140,
+      "Unique_Id": 57570247,
+      "BusinessName": "Morrow ventures LLC",
+      "BusinessAddress": "2080 Lawrence Street",
+      "Point_Count": 1,
+      "Point_Count_1": 8,
+      "Point_Count_12": 9,
+      "Point_Count_12_13": 35,
+      "Point_Count_12_13_14": 111,
+      "Point_Count_12_13_14_15": 202
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-141",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 141,
+      "Unique_Id": 58763378,
+      "BusinessName": "MS Coffee, LLC",
+      "BusinessAddress": "3070 Blake Street",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-142",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 142,
+      "Unique_Id": 58762815,
+      "BusinessName": "MS Coffee, LLC",
+      "BusinessAddress": "1615 Platte Street",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 5
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-143",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 143,
+      "Unique_Id": 58679037,
+      "BusinessName": "My Thai Cafe Inc.",
+      "BusinessAddress": "2524 Federal Blvd",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 5,
+      "Point_Count_12_13_14": 4,
+      "Point_Count_12_13_14_15": 15
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-144",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 144,
+      "Unique_Id": 57642598,
+      "BusinessName": "NAVA LLC",
+      "BusinessAddress": "709 16th",
+      "Point_Count": 1,
+      "Point_Count_1": 0,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 5,
+      "Point_Count_12_13_14_15": 11
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-145",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 145,
+      "Unique_Id": 58690954,
+      "BusinessName": "Nelly Bernal LLC",
+      "BusinessAddress": "1307 22nd St.",
+      "Point_Count": 2,
+      "Point_Count_1": 0,
+      "Point_Count_12": 23,
+      "Point_Count_12_13": 32,
+      "Point_Count_12_13_14": 64,
+      "Point_Count_12_13_14_15": 82
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-146",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 146,
+      "Unique_Id": 58004185,
+      "BusinessName": "Nine Realms, LLC",
+      "BusinessAddress": "2020 Arapahoe St.",
+      "Point_Count": 17,
+      "Point_Count_1": 34,
+      "Point_Count_12": 51,
+      "Point_Count_12_13": 139,
+      "Point_Count_12_13_14": 156,
+      "Point_Count_12_13_14_15": 213
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-147",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 147,
+      "Unique_Id": 58151089,
+      "BusinessName": "No 38 Tenant, LLC",
+      "BusinessAddress": "3560 Chestnut Pl",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 13,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 21
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-148",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 148,
+      "Unique_Id": 58296300,
+      "BusinessName": "Noble Beast Canine Companion Services, LLC",
+      "BusinessAddress": "4335 Vine Street",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 3,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 3
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-149",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 149,
+      "Unique_Id": 58606369,
+      "BusinessName": "Okinawa Karate LLC",
+      "BusinessAddress": "3425 S OLEANDER CT",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 5,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 17
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-150",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 150,
+      "Unique_Id": 57899626,
+      "BusinessName": "Old Western Paint Co Inc",
+      "BusinessAddress": "2001 W Barberry Place",
+      "Point_Count": 0,
+      "Point_Count_1": 2,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 11,
+      "Point_Count_12_13_14": 7,
+      "Point_Count_12_13_14_15": 18
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-151",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 151,
+      "Unique_Id": 57585036,
+      "BusinessName": "Om II Management Inc",
+      "BusinessAddress": "6300 E Hampden Ave",
+      "Point_Count": 1,
+      "Point_Count_1": 9,
+      "Point_Count_12": 3,
+      "Point_Count_12_13": 22,
+      "Point_Count_12_13_14": 5,
+      "Point_Count_12_13_14_15": 66
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-152",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 152,
+      "Unique_Id": 58704842,
+      "BusinessName": "OMON SALON & BEAUTY SUPPLY LLC",
+      "BusinessAddress": "3409 S Oleander Ct",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 5,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 17
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-153",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 153,
+      "Unique_Id": 57556302,
+      "BusinessName": "Our Three Initials LLC",
+      "BusinessAddress": "2100 Curtis St.",
+      "Point_Count": 21,
+      "Point_Count_1": 83,
+      "Point_Count_12": 86,
+      "Point_Count_12_13": 130,
+      "Point_Count_12_13_14": 238,
+      "Point_Count_12_13_14_15": 262
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-154",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 154,
+      "Unique_Id": 57564438,
+      "BusinessName": "Paired LLC",
+      "BusinessAddress": "2843 Larimer Street",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 5
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-155",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 155,
+      "Unique_Id": 58764658,
+      "BusinessName": "Pearl Street Hospitality LLC",
+      "BusinessAddress": "619 E. 13th Avenue",
+      "Point_Count": 3,
+      "Point_Count_1": 18,
+      "Point_Count_12": 8,
+      "Point_Count_12_13": 36,
+      "Point_Count_12_13_14": 26,
+      "Point_Count_12_13_14_15": 101
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-156",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 156,
+      "Unique_Id": 58765675,
+      "BusinessName": "Pearl Street LoDo LLC",
+      "BusinessAddress": "1660 Wynkoop St",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 3
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-157",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 157,
+      "Unique_Id": 57697545,
+      "BusinessName": "Pho -Natic LLC",
+      "BusinessAddress": "229 E Colfax Ave",
+      "Point_Count": 1,
+      "Point_Count_1": 0,
+      "Point_Count_12": 6,
+      "Point_Count_12_13": 13,
+      "Point_Count_12_13_14": 11,
+      "Point_Count_12_13_14_15": 52
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-158",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 158,
+      "Unique_Id": 58492308,
+      "BusinessName": "Pink Adobe, Inc.",
+      "BusinessAddress": "2340 Champa Street",
+      "Point_Count": 1,
+      "Point_Count_1": 5,
+      "Point_Count_12": 30,
+      "Point_Count_12_13": 61,
+      "Point_Count_12_13_14": 107,
+      "Point_Count_12_13_14_15": 119
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-159",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 159,
+      "Unique_Id": 57781453,
+      "BusinessName": "PISCIS UN",
+      "BusinessAddress": "1217 20th Street",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 5,
+      "Point_Count_12_13_14": 49,
+      "Point_Count_12_13_14_15": 118
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-160",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 160,
+      "Unique_Id": 57600879,
+      "BusinessName": "Port Side LLC",
+      "BusinessAddress": "2500 Larimer St",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 2,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 30,
+      "Point_Count_12_13_14_15": 63
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-161",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 161,
+      "Unique_Id": 57584665,
+      "BusinessName": "Precision Kutz and Stylze",
+      "BusinessAddress": "7233 E Colfax ave",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 9
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-162",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 162,
+      "Unique_Id": 58437912,
+      "BusinessName": "Preferred Auto Paint & Supply, LLC",
+      "BusinessAddress": "377 Federal Blvd.",
+      "Point_Count": 1,
+      "Point_Count_1": 8,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 14,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 14
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-163",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 163,
+      "Unique_Id": 58323940,
+      "BusinessName": "PSA Subway #1, Inc.",
+      "BusinessAddress": "757 E. 20th Ave.",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 16
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-164",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 164,
+      "Unique_Id": 58759334,
+      "BusinessName": "Queen of Sheba",
+      "BusinessAddress": "7225 E. Colfax Ave.",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 9
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-165",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 165,
+      "Unique_Id": 58622282,
+      "BusinessName": "Rad Life Incorporated",
+      "BusinessAddress": "3109 E. Colfax Ave.",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 7,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 16
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-166",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 166,
+      "Unique_Id": 58191715,
+      "BusinessName": "Rad Rides of Denver, LLC",
+      "BusinessAddress": "2301 Champa street",
+      "Point_Count": 13,
+      "Point_Count_1": 44,
+      "Point_Count_12": 48,
+      "Point_Count_12_13": 71,
+      "Point_Count_12_13_14": 111,
+      "Point_Count_12_13_14_15": 137
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-167",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 167,
+      "Unique_Id": 57572285,
+      "BusinessName": "Real Ideal LLC",
+      "BusinessAddress": "1312 17th Street",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 3,
+      "Point_Count_12_13_14_15": 3
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-168",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 168,
+      "Unique_Id": 58491481,
+      "BusinessName": "Reality Technology, Inc.",
+      "BusinessAddress": "2444 N Washington Street",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 3,
+      "Point_Count_12_13_14_15": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-169",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 169,
+      "Unique_Id": 57842730,
+      "BusinessName": "Rent-A-Theme Entertainment",
+      "BusinessAddress": "6900 E 47th Ave Dr.",
+      "Point_Count": 1,
+      "Point_Count_1": 0,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-170",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 170,
+      "Unique_Id": 58741109,
+      "BusinessName": "River Five Points LLC",
+      "BusinessAddress": "2950 Welton St",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 1
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-171",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 171,
+      "Unique_Id": 57954740,
+      "BusinessName": "River LTD.",
+      "BusinessAddress": "3759 Chestnut Pl.",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 4
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-172",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 172,
+      "Unique_Id": 58699515,
+      "BusinessName": "River North Investment Co. LLC",
+      "BusinessAddress": "3040 Blake Street",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-173",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 173,
+      "Unique_Id": 58327803,
+      "BusinessName": "Rocky Mountain Retro Foam",
+      "BusinessAddress": "677 Alcott St",
+      "Point_Count": 0,
+      "Point_Count_1": 10,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 11,
+      "Point_Count_12_13_14": 3,
+      "Point_Count_12_13_14_15": 15
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-174",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 174,
+      "Unique_Id": 57996847,
+      "BusinessName": "RONDER HOLDINGS INC",
+      "BusinessAddress": "2220 CALIFORNIA STREET",
+      "Point_Count": 3,
+      "Point_Count_1": 6,
+      "Point_Count_12": 49,
+      "Point_Count_12_13": 16,
+      "Point_Count_12_13_14": 99,
+      "Point_Count_12_13_14_15": 108
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-175",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 175,
+      "Unique_Id": 58769039,
+      "BusinessName": "Royal Grey Creative",
+      "BusinessAddress": "2186 S Holly St",
+      "Point_Count": 0,
+      "Point_Count_1": 2,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 4,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 7
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-176",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 176,
+      "Unique_Id": 58644765,
+      "BusinessName": "Sacred arts llc",
+      "BusinessAddress": "3047 Larimer St",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 5,
+      "Point_Count_12_13_14_15": 1
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-177",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 177,
+      "Unique_Id": 58624614,
+      "BusinessName": "Salon De Nobelle LLC",
+      "BusinessAddress": "3415 S Oleander Ct",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 5,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 17
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-178",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 178,
+      "Unique_Id": 57575353,
+      "BusinessName": "Satellite Bar LLC",
+      "BusinessAddress": "308 E. Colfax Ave.",
+      "Point_Count": 2,
+      "Point_Count_1": 1,
+      "Point_Count_12": 3,
+      "Point_Count_12_13": 11,
+      "Point_Count_12_13_14": 15,
+      "Point_Count_12_13_14_15": 66
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-179",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 179,
+      "Unique_Id": 57683750,
+      "BusinessName": "SCG LLC",
+      "BusinessAddress": "518 17th st",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 4
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-180",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 180,
+      "Unique_Id": 57580035,
+      "BusinessName": "Sesen Skin Care LLC",
+      "BusinessAddress": "1220 E. 17th Ave",
+      "Point_Count": 0,
+      "Point_Count_1": 34,
+      "Point_Count_12": 2,
+      "Point_Count_12_13": 46,
+      "Point_Count_12_13_14": 40,
+      "Point_Count_12_13_14_15": 316
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-181",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 181,
+      "Unique_Id": 57550558,
+      "BusinessName": "Shape Plus LLC",
+      "BusinessAddress": "1140 Yuma Court",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 3,
+      "Point_Count_12_13_14_15": 6
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-182",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 182,
+      "Unique_Id": 57571894,
+      "BusinessName": "Shish Kabob Grill, INC.",
+      "BusinessAddress": "1503 Grant St.",
+      "Point_Count": 1,
+      "Point_Count_1": 0,
+      "Point_Count_12": 6,
+      "Point_Count_12_13": 13,
+      "Point_Count_12_13_14": 11,
+      "Point_Count_12_13_14_15": 52
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-183",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 183,
+      "Unique_Id": 58439547,
+      "BusinessName": "Simone Says Music, LLC",
+      "BusinessAddress": "3515 Ringsby Ct",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 8
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-184",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 184,
+      "Unique_Id": 58550730,
+      "BusinessName": "Sipping N Painting Colorado LLC",
+      "BusinessAddress": "6461 E. Hampden Ave.",
+      "Point_Count": 0,
+      "Point_Count_1": 18,
+      "Point_Count_12": 3,
+      "Point_Count_12_13": 57,
+      "Point_Count_12_13_14": 3,
+      "Point_Count_12_13_14_15": 68
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-185",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 185,
+      "Unique_Id": 58707762,
+      "BusinessName": "SKJ LLC",
+      "BusinessAddress": "4930 W Colfax",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 14
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-186",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 186,
+      "Unique_Id": 57843266,
+      "BusinessName": "Sky Tea LLP",
+      "BusinessAddress": "955 Lincoln st",
+      "Point_Count": 2,
+      "Point_Count_1": 9,
+      "Point_Count_12": 7,
+      "Point_Count_12_13": 11,
+      "Point_Count_12_13_14": 27,
+      "Point_Count_12_13_14_15": 16
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-187",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 187,
+      "Unique_Id": 57584286,
+      "BusinessName": "Smat Home Pros, LLC.",
+      "BusinessAddress": "890 Navajo St",
+      "Point_Count": 13,
+      "Point_Count_1": 32,
+      "Point_Count_12": 14,
+      "Point_Count_12_13": 34,
+      "Point_Count_12_13_14": 22,
+      "Point_Count_12_13_14_15": 46
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-188",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 188,
+      "Unique_Id": 57781844,
+      "BusinessName": "Snooze, LLC",
+      "BusinessAddress": "2262 Larimer St",
+      "Point_Count": 31,
+      "Point_Count_1": 37,
+      "Point_Count_12": 47,
+      "Point_Count_12_13": 46,
+      "Point_Count_12_13_14": 73,
+      "Point_Count_12_13_14_15": 108
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-189",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 189,
+      "Unique_Id": 58706434,
+      "BusinessName": "SnoozeTown, LLC",
+      "BusinessAddress": "101 North Broadway",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 2,
+      "Point_Count_12_13": 3,
+      "Point_Count_12_13_14": 7,
+      "Point_Count_12_13_14_15": 27
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-190",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 190,
+      "Unique_Id": 58694098,
+      "BusinessName": "SnoozeTown, LLC",
+      "BusinessAddress": "1701 Wynkoop St",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 4
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-191",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 191,
+      "Unique_Id": 57781028,
+      "BusinessName": "Soneff's Master Garage",
+      "BusinessAddress": "2140 Arapahoe St",
+      "Point_Count": 3,
+      "Point_Count_1": 6,
+      "Point_Count_12": 33,
+      "Point_Count_12_13": 92,
+      "Point_Count_12_13_14": 194,
+      "Point_Count_12_13_14_15": 276
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-192",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 192,
+      "Unique_Id": 57593699,
+      "BusinessName": "Soup 4 HIM LLC",
+      "BusinessAddress": "1550 Court Place",
+      "Point_Count": 0,
+      "Point_Count_1": 3,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 7,
+      "Point_Count_12_13_14": 4,
+      "Point_Count_12_13_14_15": 22
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-193",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 193,
+      "Unique_Id": 58658418,
+      "BusinessName": "SR Brothers LLC",
+      "BusinessAddress": "507 LIncoln St.",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 4,
+      "Point_Count_12_13_14_15": 9
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-194",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 194,
+      "Unique_Id": 58708777,
+      "BusinessName": "Statewide Angel Learning Center",
+      "BusinessAddress": "10890 E Dartmouth Ave",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-195",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 195,
+      "Unique_Id": 57692040,
+      "BusinessName": "Stay Relaxed LLC",
+      "BusinessAddress": "910 16th St Mall",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 5
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-196",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 196,
+      "Unique_Id": 58761416,
+      "BusinessName": "Strange Brewing Company LLC",
+      "BusinessAddress": "1330 Zuni St",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 4
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-197",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 197,
+      "Unique_Id": 58323406,
+      "BusinessName": "Subway 11017, Inc.",
+      "BusinessAddress": "4100 E. Colfax Ave.",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 3,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 33
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-198",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 198,
+      "Unique_Id": 58323581,
+      "BusinessName": "Subway 12145, Inc.",
+      "BusinessAddress": "7327 E. Colfax Ave.",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 1
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-199",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 199,
+      "Unique_Id": 58321770,
+      "BusinessName": "Subway 7014, LLC.",
+      "BusinessAddress": "2340 E. Colfax Ave.",
+      "Point_Count": 0,
+      "Point_Count_1": 12,
+      "Point_Count_12": 2,
+      "Point_Count_12_13": 21,
+      "Point_Count_12_13_14": 15,
+      "Point_Count_12_13_14_15": 108
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-200",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 200,
+      "Unique_Id": 58618436,
+      "BusinessName": "Sugar Skincare LLC",
+      "BusinessAddress": "3415 S Oleander Ct",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 5,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 17
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-201",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 201,
+      "Unique_Id": 57961036,
+      "BusinessName": "Sullivan Scrap Sandwiches LLC",
+      "BusinessAddress": "1740 e 17th ave",
+      "Point_Count": 2,
+      "Point_Count_1": 1,
+      "Point_Count_12": 4,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 13,
+      "Point_Count_12_13_14_15": 58
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-202",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 202,
+      "Unique_Id": 58205924,
+      "BusinessName": "Summit Strong llc",
+      "BusinessAddress": "800 lincoln st",
+      "Point_Count": 0,
+      "Point_Count_1": 2,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 5,
+      "Point_Count_12_13_14": 36,
+      "Point_Count_12_13_14_15": 20
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-203",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 203,
+      "Unique_Id": 58761237,
+      "BusinessName": "Sweeetthangz19@gmail.com",
+      "BusinessAddress": "600 17th St",
+      "Point_Count": 1,
+      "Point_Count_1": 0,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 5,
+      "Point_Count_12_13_14_15": 10
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-204",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 204,
+      "Unique_Id": 58141885,
+      "BusinessName": "T Doyle, LLC",
+      "BusinessAddress": "2243 Curtis Street",
+      "Point_Count": 22,
+      "Point_Count_1": 50,
+      "Point_Count_12": 36,
+      "Point_Count_12_13": 75,
+      "Point_Count_12_13_14": 173,
+      "Point_Count_12_13_14_15": 227
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-205",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 205,
+      "Unique_Id": 57566197,
+      "BusinessName": "Table M Lamp Restoration, LLC",
+      "BusinessAddress": "1305 S. Inca St",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-206",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 206,
+      "Unique_Id": 57661751,
+      "BusinessName": "Taco House Enterprises LLC",
+      "BusinessAddress": "581 S. Federal Blvd",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-207",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 207,
+      "Unique_Id": 58663757,
+      "BusinessName": "Taxes Unidos",
+      "BusinessAddress": "5175 W Alameda Ave",
+      "Point_Count": 2,
+      "Point_Count_1": 1,
+      "Point_Count_12": 2,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-208",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 208,
+      "Unique_Id": 58238611,
+      "BusinessName": "TeaLee's LLC",
+      "BusinessAddress": "611 22nd Street",
+      "Point_Count": 1,
+      "Point_Count_1": 2,
+      "Point_Count_12": 6,
+      "Point_Count_12_13": 7,
+      "Point_Count_12_13_14": 79,
+      "Point_Count_12_13_14_15": 101
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-209",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 209,
+      "Unique_Id": 58675125,
+      "BusinessName": "TGH G2 LLC",
+      "BusinessAddress": "1433 N Ogden St",
+      "Point_Count": 1,
+      "Point_Count_1": 1,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 6,
+      "Point_Count_12_13_14": 4,
+      "Point_Count_12_13_14_15": 15
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-210",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 210,
+      "Unique_Id": 58490555,
+      "BusinessName": "Thai nails house by ann",
+      "BusinessAddress": "4902 W 38TH AVE",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-211",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 211,
+      "Unique_Id": 57550602,
+      "BusinessName": "The Ethiopian Restaurant Inc.",
+      "BusinessAddress": "2816 E. Colfax Ave",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 10
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-212",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 212,
+      "Unique_Id": 58006938,
+      "BusinessName": "The Fainting Goat, LLC",
+      "BusinessAddress": "846 N. Broadway",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 9,
+      "Point_Count_12_13_14_15": 12
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-213",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 213,
+      "Unique_Id": 57569076,
+      "BusinessName": "the L LLC",
+      "BusinessAddress": "46 Broadway",
+      "Point_Count": 2,
+      "Point_Count_1": 4,
+      "Point_Count_12": 4,
+      "Point_Count_12_13": 20,
+      "Point_Count_12_13_14": 7,
+      "Point_Count_12_13_14_15": 46
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-214",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 214,
+      "Unique_Id": 58586036,
+      "BusinessName": "The Metlo Salon",
+      "BusinessAddress": "1111 Broadway",
+      "Point_Count": 1,
+      "Point_Count_1": 0,
+      "Point_Count_12": 2,
+      "Point_Count_12_13": 4,
+      "Point_Count_12_13_14": 15,
+      "Point_Count_12_13_14_15": 21
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-215",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 215,
+      "Unique_Id": 58463269,
+      "BusinessName": "The Pinecone Project",
+      "BusinessAddress": "3636 Jason St",
+      "Point_Count": 2,
+      "Point_Count_1": 3,
+      "Point_Count_12": 3,
+      "Point_Count_12_13": 18,
+      "Point_Count_12_13_14": 6,
+      "Point_Count_12_13_14_15": 32
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-216",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 216,
+      "Unique_Id": 58695753,
+      "BusinessName": "The River LTD",
+      "BusinessAddress": "1212 DELAWARE STREET",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 5,
+      "Point_Count_12_13_14_15": 4
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-217",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 217,
+      "Unique_Id": 57674193,
+      "BusinessName": "The Sojourners Coffee & Tea",
+      "BusinessAddress": "1501 S Holly St",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-218",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 218,
+      "Unique_Id": 58046901,
+      "BusinessName": "The Witherspoon Group, Inc. DBA The Seasoned Chef Cooking School",
+      "BusinessAddress": "1456 FILLMORE ST",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 5,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 13
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-219",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 219,
+      "Unique_Id": 58762878,
+      "BusinessName": "THE WORD BIBLES BOOKS & MUSIC INC",
+      "BusinessAddress": "8710 E. Colfax Ave.",
+      "Point_Count": 0,
+      "Point_Count_1": 3,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 3,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 11
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-220",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 220,
+      "Unique_Id": 57597826,
+      "BusinessName": "TL Front Range LLC",
+      "BusinessAddress": "3970 Buchtel Blvd S",
+      "Point_Count": 3,
+      "Point_Count_1": 0,
+      "Point_Count_12": 4,
+      "Point_Count_12_13": 9,
+      "Point_Count_12_13_14": 4,
+      "Point_Count_12_13_14_15": 10
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-221",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 221,
+      "Unique_Id": 57566246,
+      "BusinessName": "TL Front Range LLC",
+      "BusinessAddress": "8100 W. Crestline Ave",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 1
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-222",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 222,
+      "Unique_Id": 57554633,
+      "BusinessName": "TNGO LLC",
+      "BusinessAddress": "2700 E 6th Ave",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-223",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 223,
+      "Unique_Id": 57576791,
+      "BusinessName": "Track Architecture",
+      "BusinessAddress": "2255 Lawrence",
+      "Point_Count": 25,
+      "Point_Count_1": 11,
+      "Point_Count_12": 51,
+      "Point_Count_12_13": 57,
+      "Point_Count_12_13_14": 89,
+      "Point_Count_12_13_14_15": 140
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-224",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 224,
+      "Unique_Id": 58708301,
+      "BusinessName": "Tremilo LLC",
+      "BusinessAddress": "2246 Larimer St",
+      "Point_Count": 24,
+      "Point_Count_1": 30,
+      "Point_Count_12": 43,
+      "Point_Count_12_13": 46,
+      "Point_Count_12_13_14": 80,
+      "Point_Count_12_13_14_15": 111
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-225",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 225,
+      "Unique_Id": 57579143,
+      "BusinessName": "Truce Media Collective",
+      "BusinessAddress": "621 Kalamath St",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 12,
+      "Point_Count_12_13": 19,
+      "Point_Count_12_13_14": 26,
+      "Point_Count_12_13_14_15": 47
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-226",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 226,
+      "Unique_Id": 58618401,
+      "BusinessName": "Valoure Inc.",
+      "BusinessAddress": "3660 Tejon Street",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 0
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-227",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 227,
+      "Unique_Id": 57766078,
+      "BusinessName": "Venture Business Strategies Corp",
+      "BusinessAddress": "209 Kalamath St",
+      "Point_Count": 2,
+      "Point_Count_1": 6,
+      "Point_Count_12": 6,
+      "Point_Count_12_13": 6,
+      "Point_Count_12_13_14": 15,
+      "Point_Count_12_13_14_15": 24
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-228",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 228,
+      "Unique_Id": 57597898,
+      "BusinessName": "W&M Dawgs LLC",
+      "BusinessAddress": "2445 Larimer St",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 8,
+      "Point_Count_12_13": 7,
+      "Point_Count_12_13_14": 56,
+      "Point_Count_12_13_14_15": 94
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-229",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 229,
+      "Unique_Id": 57857099,
+      "BusinessName": "Wash Park Vintners LLC",
+      "BusinessAddress": "3563 WAZEE ST",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 0,
+      "Point_Count_12_13_14_15": 2
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-230",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 230,
+      "Unique_Id": 57946890,
+      "BusinessName": "We Dream Big LLC",
+      "BusinessAddress": "2115 Larimer St.",
+      "Point_Count": 2,
+      "Point_Count_1": 1,
+      "Point_Count_12": 4,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 51,
+      "Point_Count_12_13_14_15": 73
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-231",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 231,
+      "Unique_Id": 57564243,
+      "BusinessName": "Wheelman LLC",
+      "BusinessAddress": "8 W. Ellsworth Ave",
+      "Point_Count": 2,
+      "Point_Count_1": 17,
+      "Point_Count_12": 5,
+      "Point_Count_12_13": 27,
+      "Point_Count_12_13_14": 13,
+      "Point_Count_12_13_14_15": 65
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-232",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 232,
+      "Unique_Id": 57551395,
+      "BusinessName": "Wild corgi inc",
+      "BusinessAddress": "1223 e 13th Avenue",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 2,
+      "Point_Count_12_13_14_15": 18
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-233",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 233,
+      "Unique_Id": 57569680,
+      "BusinessName": "Wise Choice Tattoo Removal",
+      "BusinessAddress": "190 E 9th Ave",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 2,
+      "Point_Count_12_13": 2,
+      "Point_Count_12_13_14": 35,
+      "Point_Count_12_13_14_15": 20
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-234",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 234,
+      "Unique_Id": 58522586,
+      "BusinessName": "WMLAF, LLC",
+      "BusinessAddress": "1717 Tremont Pl.",
+      "Point_Count": 0,
+      "Point_Count_1": 1,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 4,
+      "Point_Count_12_13_14_15": 9
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-235",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 235,
+      "Unique_Id": 57578906,
+      "BusinessName": "Woods Boss Brewing Company LLC",
+      "BusinessAddress": "2210 California St.",
+      "Point_Count": 3,
+      "Point_Count_1": 6,
+      "Point_Count_12": 49,
+      "Point_Count_12_13": 16,
+      "Point_Count_12_13_14": 99,
+      "Point_Count_12_13_14_15": 108
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-236",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 236,
+      "Unique_Id": 57585356,
+      "BusinessName": "World Class Men\u2019s Cuts LLC",
+      "BusinessAddress": "1512 Larimer St",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 1,
+      "Point_Count_12_13": 0,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 4
+    },
+    "first_seen": "2026-04-08"
+  },
+  {
+    "id": "bio-237",
+    "stream": "spending",
+    "subtype": "bio_encampment_grant",
+    "raw": {
+      "OBJECTID": 237,
+      "Unique_Id": 58766246,
+      "BusinessName": "YSS Smoke Shop LLC",
+      "BusinessAddress": "7150 Leetsdale Dr",
+      "Point_Count": 0,
+      "Point_Count_1": 0,
+      "Point_Count_12": 0,
+      "Point_Count_12_13": 1,
+      "Point_Count_12_13_14": 1,
+      "Point_Count_12_13_14_15": 8
+    },
+    "first_seen": "2026-04-08"
+  }
+]

@@ -1,0 +1,329 @@
+{
+  "metadata": {
+    "description": "Denver Homelessness Stakeholder Entity Master",
+    "last_updated": "2026-04-08",
+    "version": "1.0"
+  },
+  "entities": [
+    {
+      "id": "mayor-johnston",
+      "name": "Mike Johnston",
+      "type": "elected_official",
+      "role": "Mayor of Denver",
+      "category": "city_government",
+      "key_initiatives": ["All In Mile High", "house 1000 people/year pledge"],
+      "aliases": ["Johnston"]
+    },
+    {
+      "id": "host",
+      "name": "Department of Housing Stability (HOST)",
+      "type": "city_agency",
+      "role": "Lead city agency for homelessness response",
+      "category": "city_government",
+      "aliases": ["HOST", "Housing Stability"],
+      "parent": "City and County of Denver"
+    },
+    {
+      "id": "dpd",
+      "name": "Denver Police Department",
+      "type": "city_agency",
+      "role": "Law enforcement, encampment enforcement",
+      "category": "city_government",
+      "aliases": ["DPD", "Denver Police"]
+    },
+    {
+      "id": "ddphe",
+      "name": "Denver Department of Public Health & Environment",
+      "type": "city_agency",
+      "role": "Public health, overdose data, environmental health",
+      "category": "city_government",
+      "aliases": ["DDPHE", "Public Health"]
+    },
+    {
+      "id": "dhs",
+      "name": "Denver Human Services",
+      "type": "city_agency",
+      "role": "Social services, benefits, safety net programs",
+      "category": "city_government",
+      "aliases": ["DHS"]
+    },
+    {
+      "id": "denver-fire",
+      "name": "Denver Fire Department",
+      "type": "city_agency",
+      "role": "Emergency response, encampment fires",
+      "category": "city_government",
+      "aliases": ["DFD"]
+    },
+    {
+      "id": "parks-rec",
+      "name": "Denver Parks & Recreation",
+      "type": "city_agency",
+      "role": "Park maintenance, encampments in parks",
+      "category": "city_government"
+    },
+    {
+      "id": "public-works",
+      "name": "Denver Public Works",
+      "type": "city_agency",
+      "role": "Street maintenance, encampment cleanup",
+      "category": "city_government"
+    },
+    {
+      "id": "oim",
+      "name": "Office of the Independent Monitor",
+      "type": "city_agency",
+      "role": "Police oversight, use of force reviews",
+      "category": "city_government",
+      "aliases": ["OIM"]
+    },
+    {
+      "id": "city-council",
+      "name": "Denver City Council",
+      "type": "legislative_body",
+      "role": "City legislation, budget approval, oversight",
+      "category": "city_government"
+    },
+    {
+      "id": "mdhi",
+      "name": "Metro Denver Homeless Initiative",
+      "type": "regional_agency",
+      "role": "HUD Continuum of Care lead, PIT count, coordination",
+      "category": "regional",
+      "aliases": ["MDHI"]
+    },
+    {
+      "id": "cch",
+      "name": "Colorado Coalition for the Homeless",
+      "type": "nonprofit",
+      "role": "Major service provider, healthcare, housing, advocacy",
+      "category": "service_provider",
+      "ein": "840538768",
+      "aliases": ["CCH", "Coalition"]
+    },
+    {
+      "id": "drm",
+      "name": "Denver Rescue Mission",
+      "type": "nonprofit",
+      "role": "Emergency shelter, transitional housing, meals",
+      "category": "service_provider",
+      "ein": "840402234"
+    },
+    {
+      "id": "samaritan-house",
+      "name": "Samaritan House",
+      "type": "nonprofit",
+      "role": "Emergency shelter (Catholic Charities)",
+      "category": "service_provider",
+      "parent": "Catholic Charities Denver"
+    },
+    {
+      "id": "st-francis",
+      "name": "St. Francis Center",
+      "type": "nonprofit",
+      "role": "Day shelter, services, workforce development",
+      "category": "service_provider",
+      "ein": "840816371"
+    },
+    {
+      "id": "urban-peak",
+      "name": "Urban Peak",
+      "type": "nonprofit",
+      "role": "Youth homelessness services",
+      "category": "service_provider",
+      "ein": "841150722"
+    },
+    {
+      "id": "delores-project",
+      "name": "The Delores Project",
+      "type": "nonprofit",
+      "role": "Women's shelter, transitional housing",
+      "category": "service_provider",
+      "ein": "841551851"
+    },
+    {
+      "id": "cvc",
+      "name": "Colorado Village Collaborative",
+      "type": "nonprofit",
+      "role": "Safe outdoor spaces, tiny home villages",
+      "category": "service_provider",
+      "ein": "832032220",
+      "aliases": ["CVC"]
+    },
+    {
+      "id": "bayaud",
+      "name": "Bayaud Enterprises",
+      "type": "nonprofit",
+      "role": "Workforce development for people with disabilities/barriers",
+      "category": "service_provider",
+      "ein": "840576829"
+    },
+    {
+      "id": "mhcd",
+      "name": "Mental Health Center of Denver",
+      "type": "nonprofit",
+      "role": "Mental health services, crisis intervention",
+      "category": "healthcare",
+      "ein": "840576894",
+      "aliases": ["MHCD"]
+    },
+    {
+      "id": "denver-health",
+      "name": "Denver Health",
+      "type": "public_hospital",
+      "role": "Safety-net hospital, ER, behavioral health",
+      "category": "healthcare"
+    },
+    {
+      "id": "stride",
+      "name": "STRIDE Community Health Center",
+      "type": "nonprofit",
+      "role": "Community health centers, sliding-scale care",
+      "category": "healthcare"
+    },
+    {
+      "id": "co-crisis",
+      "name": "Colorado Crisis Services",
+      "type": "state_agency",
+      "role": "24/7 crisis line, walk-in centers",
+      "category": "healthcare"
+    },
+    {
+      "id": "voa-co",
+      "name": "Volunteers of America Colorado",
+      "type": "nonprofit",
+      "role": "Veteran services, family services, housing",
+      "category": "service_provider",
+      "ein": "840405578",
+      "aliases": ["VOA"]
+    },
+    {
+      "id": "catholic-charities",
+      "name": "Catholic Charities Denver",
+      "type": "nonprofit",
+      "role": "Shelters, refugee services, family services",
+      "category": "service_provider",
+      "ein": "840423718"
+    },
+    {
+      "id": "aclu-co",
+      "name": "ACLU of Colorado",
+      "type": "advocacy",
+      "role": "Legal advocacy, camping ban litigation",
+      "category": "legal_advocacy"
+    },
+    {
+      "id": "dh-out-loud",
+      "name": "Denver Homeless Out Loud",
+      "type": "advocacy",
+      "role": "Grassroots advocacy, encampment defense",
+      "category": "legal_advocacy",
+      "aliases": ["DHOL"]
+    },
+    {
+      "id": "hand",
+      "name": "Housekeys Action Network Denver",
+      "type": "advocacy",
+      "role": "Direct action, encampment defense",
+      "category": "legal_advocacy",
+      "aliases": ["HAND"]
+    },
+    {
+      "id": "ddp",
+      "name": "Downtown Denver Partnership",
+      "type": "business_association",
+      "role": "Downtown business advocacy, safety initiatives",
+      "category": "business",
+      "aliases": ["DDP"]
+    },
+    {
+      "id": "colfax-bid",
+      "name": "Colfax Business Improvement District",
+      "type": "business_association",
+      "role": "Colfax corridor business advocacy",
+      "category": "business",
+      "aliases": ["Colfax BID"]
+    },
+    {
+      "id": "rino-art",
+      "name": "RiNo Art District",
+      "type": "business_association",
+      "role": "RiNo neighborhood business advocacy",
+      "category": "business"
+    },
+    {
+      "id": "chun",
+      "name": "Capitol Hill United Neighborhoods",
+      "type": "neighborhood_org",
+      "role": "Neighborhood advocacy, quality of life concerns",
+      "category": "neighborhood",
+      "aliases": ["CHUN"]
+    },
+    {
+      "id": "dha",
+      "name": "Denver Housing Authority",
+      "type": "public_agency",
+      "role": "Public housing, Section 8 vouchers",
+      "category": "city_government",
+      "ein": "846000533",
+      "aliases": ["DHA"]
+    },
+    {
+      "id": "dola",
+      "name": "Colorado Department of Local Affairs",
+      "type": "state_agency",
+      "role": "State housing funding, Division of Housing",
+      "category": "state_government",
+      "aliases": ["DOLA"]
+    },
+    {
+      "id": "governor",
+      "name": "Colorado Governor's Office",
+      "type": "state_agency",
+      "role": "State policy, executive orders",
+      "category": "state_government"
+    },
+    {
+      "id": "hud",
+      "name": "U.S. Department of Housing and Urban Development",
+      "type": "federal_agency",
+      "role": "Federal homelessness funding, CoC oversight",
+      "category": "federal_government",
+      "aliases": ["HUD"]
+    },
+    {
+      "id": "va",
+      "name": "U.S. Department of Veterans Affairs",
+      "type": "federal_agency",
+      "role": "Veteran homelessness services, SSVF, HUD-VASH",
+      "category": "federal_government",
+      "aliases": ["VA"]
+    },
+    {
+      "id": "all-in-mile-high",
+      "name": "All In Mile High",
+      "type": "initiative",
+      "role": "Mayor Johnston's signature homelessness initiative",
+      "category": "city_government",
+      "parent": "mayor-johnston"
+    },
+    {
+      "id": "eit",
+      "name": "Early Intervention Team",
+      "type": "city_unit",
+      "role": "Outreach to encampments, early intervention",
+      "category": "city_government",
+      "parent": "host",
+      "aliases": ["EIT"]
+    },
+    {
+      "id": "set",
+      "name": "Strategic Encampment Team",
+      "type": "city_unit",
+      "role": "Encampment assessment and response",
+      "category": "city_government",
+      "parent": "host",
+      "aliases": ["SET"]
+    }
+  ]
+}
