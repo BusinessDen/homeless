@@ -1,5 +1,144 @@
 [
   {
+    "id": "ocd-bill/48a31cd4-b267-4c0b-996f-447529fd5215",
+    "stream": "legislation",
+    "identifier": "SJR 18",
+    "title": "Recognizing Celebration of Nowruz",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SJR18/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-10"
+  },
+  {
+    "id": "ocd-bill/4022f8f5-6f89-47c8-b866-6d17e5233635",
+    "stream": "legislation",
+    "identifier": "HB 1113",
+    "title": "Modifications to Elections",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Elections & Redistricting"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1113/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-10"
+  },
+  {
+    "id": "ocd-bill/cf6aebcf-5b2e-4f33-881c-6d283ab1fdf3",
+    "stream": "legislation",
+    "identifier": "HB 1364",
+    "title": "2025 Consumer Price Index Calculation",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1364/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-10"
+  },
+  {
+    "id": "ocd-bill/54210ce0-5fc4-4c06-94f2-ed5e34ca9b61",
+    "stream": "legislation",
+    "identifier": "HB 1045",
+    "title": "Disabilities Housing Protections",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Housing",
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1045/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-10"
+  },
+  {
+    "id": "ocd-bill/9d628e05-2de1-419f-9a24-8ac0350c74e3",
+    "stream": "legislation",
+    "identifier": "SB 159",
+    "title": "Inmate Earned Time Formula for Sentence to Department of Corrections",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB159/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-10"
+  },
+  {
+    "id": "ocd-bill/95fd3bfd-ca1f-4a03-8118-48e6bd604128",
+    "stream": "legislation",
+    "identifier": "HB 1244",
+    "title": "Department of Public Health and Environment Nursing Home Penalty Fund",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Public Health"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1244/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-10"
+  },
+  {
+    "id": "ocd-bill/46436d70-55ae-4e83-9979-4abe7197be34",
+    "stream": "legislation",
+    "identifier": "SJR 21",
+    "title": "National Arab American Heritage Month",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "General Assembly"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SJR21/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-04-10"
+  },
+  {
     "id": "ocd-bill/b789c5fb-8c76-4d81-8495-4920b61f7409",
     "stream": "legislation",
     "identifier": "SB 113",
