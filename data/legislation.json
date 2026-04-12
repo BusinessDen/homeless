@@ -1,5 +1,145 @@
 [
   {
+    "id": "ocd-bill/af4caa38-f9c0-4ef4-a3f1-57014db1392b",
+    "stream": "legislation",
+    "identifier": "SJR 16",
+    "title": "Improve Retirement Readiness & Financial Well-Being",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SJR16/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-12"
+  },
+  {
+    "id": "ocd-bill/b22a83a7-fe5c-46e8-b2d5-4ecbaf1b8f63",
+    "stream": "legislation",
+    "identifier": "SB 124",
+    "title": "Colorado Survivor Justice Act",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Courts & Judicial",
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB124/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-12"
+  },
+  {
+    "id": "ocd-bill/fdd9fd4b-8dd4-4367-bf13-151d40349ba7",
+    "stream": "legislation",
+    "identifier": "HB 1232",
+    "title": "Court Costs Assessed to Juveniles",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Courts & Judicial"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1232/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-12"
+  },
+  {
+    "id": "ocd-bill/6b9a3a94-1927-42a3-bf79-b1dbefdf8df5",
+    "stream": "legislation",
+    "identifier": "SB 135",
+    "title": "State Public K-12 Education Funding",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Education & School Finance (Pre & K-12)",
+      "Fiscal Policy & Taxes"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB135/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-12"
+  },
+  {
+    "id": "ocd-bill/72db0a56-ebde-4969-9807-baf1429ecf16",
+    "stream": "legislation",
+    "identifier": "HB 1223",
+    "title": "Modifying Certain Tax Expenditures",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1223/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-12"
+  },
+  {
+    "id": "ocd-bill/3c9e9816-4a7e-492f-b9b6-31e7d002a8d6",
+    "stream": "legislation",
+    "identifier": "HB 1331",
+    "title": "Modify 2026 Interim Committees",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "General Assembly"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1331/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-12"
+  },
+  {
+    "id": "ocd-bill/a4831be2-a6e4-403d-aa12-13778bf1ed3a",
+    "stream": "legislation",
+    "identifier": "HB 1415",
+    "title": "Optional Residential Construction Contractor Certification",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Labor & Employment"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1415/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-04-12"
+  },
+  {
     "id": "ocd-bill/48a31cd4-b267-4c0b-996f-447529fd5215",
     "stream": "legislation",
     "identifier": "SJR 18",
