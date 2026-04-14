@@ -1,5 +1,246 @@
 [
   {
+    "id": "ocd-bill/50d951d1-5ba3-4b88-b002-1f3b73c123d0",
+    "stream": "legislation",
+    "identifier": "SB 36",
+    "title": "Prison Population Management Measures",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB36/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-14"
+  },
+  {
+    "id": "ocd-bill/0691b14e-bfac-4798-a002-774440137196",
+    "stream": "legislation",
+    "identifier": "HB 1235",
+    "title": "Updates to Medicaid",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Civil Law",
+      "Health Care & Health Insurance"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1235/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-14"
+  },
+  {
+    "id": "ocd-bill/14dfc461-9a3f-4dd6-a531-d3baa252f95c",
+    "stream": "legislation",
+    "identifier": "HR 1008",
+    "title": "Affirm Commitment to the Taxpayer Bill of Rights",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes",
+      "General Assembly",
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HR1008/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-14"
+  },
+  {
+    "id": "ocd-bill/f77ea60e-df2f-42fb-81d3-a2e75f718ff7",
+    "stream": "legislation",
+    "identifier": "HR 1006",
+    "title": "Supporting Law Enforcement",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "General Assembly"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HR1006/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-14"
+  },
+  {
+    "id": "ocd-bill/0233bc5e-37f5-483b-9c0b-c5190ad75b89",
+    "stream": "legislation",
+    "identifier": "SJR 19",
+    "title": "Colorado & Taiwan Sister-State Relations",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SJR19/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-14"
+  },
+  {
+    "id": "ocd-bill/1e3a9a87-72cf-423a-8d37-1bc13b4a1988",
+    "stream": "legislation",
+    "identifier": "HJR 1028",
+    "title": "Full and Fair Funding of Public Schools",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Education & School Finance (Pre & K-12)"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HJR1028/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-14"
+  },
+  {
+    "id": "ocd-bill/e10fe015-9dae-40c8-a507-436e1432e97e",
+    "stream": "legislation",
+    "identifier": "HR 1005",
+    "title": "State Highway 47 Dolores Huerta Boulevard",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "General Assembly"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HR1005/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-14"
+  },
+  {
+    "id": "ocd-bill/88368e40-efda-4d83-9947-7a4d720e3418",
+    "stream": "legislation",
+    "identifier": "SB 96",
+    "title": "Justice-Involved Veterans",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Courts & Judicial",
+      "Crimes, Corrections, & Enforcement",
+      "Military & Veterans"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB96/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-14"
+  },
+  {
+    "id": "ocd-bill/beefbcc9-94b7-4767-bca4-a752e8576694",
+    "stream": "legislation",
+    "identifier": "HJR 1027",
+    "title": "Holocaust Memorial",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HJR1027/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-14"
+  },
+  {
+    "id": "ocd-bill/44399b94-53e5-487e-b4a8-d232c15fd33b",
+    "stream": "legislation",
+    "identifier": "HB 1119",
+    "title": "Authority for Different Mill Levy Rates",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1119/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-04-14"
+  },
+  {
+    "id": "ocd-bill/b8f9bc68-e08b-4104-947a-0f78056f46d8",
+    "stream": "legislation",
+    "identifier": "HB 1211",
+    "title": "Regulation of Broadband Services",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Telecommunications & Information Technology"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1211/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-04-14"
+  },
+  {
+    "id": "ocd-bill/a72f3a29-b240-47e0-a44a-b338c1515646",
+    "stream": "legislation",
+    "identifier": "HB 1024",
+    "title": "Raising Age of Voluntary Relinquishment of Child",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Children & Domestic Matters"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1024/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-04-14"
+  },
+  {
     "id": "ocd-bill/af4caa38-f9c0-4ef4-a3f1-57014db1392b",
     "stream": "legislation",
     "identifier": "SJR 16",

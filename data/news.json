@@ -1,5 +1,27 @@
 [
   {
+    "id": "3ecf8e01313a",
+    "stream": "news",
+    "source": "businessden",
+    "source_name": "BusinessDen",
+    "title": "Denver looks to buy, redevelop state office building site in Cap Hill",
+    "url": "https://businessden.com/2026/04/14/denver-looks-to-buy-redevelop-state-office-building-site-in-cap-hill/",
+    "published": "Tue, 14 Apr 2026 11:10:54 +0000",
+    "summary": "It would be the first affordable housing project using Vibrant Denver Bond dollars.",
+    "first_seen": "2026-04-14"
+  },
+  {
+    "id": "14cd7fd12cce",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "New program brings Boulder chefs into homeless shelter kitchen",
+    "url": "https://www.9news.com/article/news/local/boulder-chefs-all-roads-homeless-shelter/73-0043cd70-b844-4477-b8cf-71668870202d",
+    "published": "Tue, 14 Apr 2026 10:22:19 GMT",
+    "summary": "A Boulder nonprofit is pairing local chefs with its homeless shelter kitchen, challenging them to cook for 180 residents using only donated ingredients on hand.",
+    "first_seen": "2026-04-14"
+  },
+  {
     "id": "f079e7bad8ee",
     "stream": "news",
     "source": "colorado_sun",
