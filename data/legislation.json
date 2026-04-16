@@ -1,5 +1,107 @@
 [
   {
+    "id": "ocd-bill/b161dca6-0de2-4947-b12a-2bb47b423809",
+    "stream": "legislation",
+    "identifier": "HB 1196",
+    "title": "Tenant Data Information",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Housing"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1196/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-04-16"
+  },
+  {
+    "id": "ocd-bill/857622db-18c4-418f-8655-7c63442e3506",
+    "stream": "legislation",
+    "identifier": "SB 49",
+    "title": "Homeowner Natural Disaster Mitigation",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes",
+      "Housing",
+      "Natural Resources & Environment"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB49/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-04-16"
+  },
+  {
+    "id": "ocd-bill/db23e3f8-4a64-4f7b-af4f-07f2fff3f83c",
+    "stream": "legislation",
+    "identifier": "HB 1333",
+    "title": "Fiscal Year 2026-27 Legislative Appropriation Bill",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "General Assembly"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1333/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-16"
+  },
+  {
+    "id": "ocd-bill/c03f86d8-3997-4dac-9ad6-2d92a3f50d05",
+    "stream": "legislation",
+    "identifier": "HB 1144",
+    "title": "Prohibit Three-Dimensional Printing Firearms & Components",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1144/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-16"
+  },
+  {
+    "id": "ocd-bill/430f6361-c5ee-4837-809e-310e65e9357f",
+    "stream": "legislation",
+    "identifier": "SB 1",
+    "title": "Workforce Housing & Housing Tax Credit",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB1/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-16"
+  },
+  {
     "id": "ocd-bill/50d951d1-5ba3-4b88-b002-1f3b73c123d0",
     "stream": "legislation",
     "identifier": "SB 36",
