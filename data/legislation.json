@@ -1,5 +1,146 @@
 [
   {
+    "id": "ocd-bill/7044056a-0ff2-452e-bcf3-7dce13e8cdd9",
+    "stream": "legislation",
+    "identifier": "HB 1288",
+    "title": "Jury Selection Requirements",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Courts & Judicial"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1288/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-17"
+  },
+  {
+    "id": "ocd-bill/eb8b7a66-ae52-4bb0-8db3-045a90c682b3",
+    "stream": "legislation",
+    "identifier": "HB 1023",
+    "title": "Political Party Liability for Accessibility Requirements",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Elections & Redistricting"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1023/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-17"
+  },
+  {
+    "id": "ocd-bill/6d9a91fc-725d-43b0-9b77-dbd617175dd3",
+    "stream": "legislation",
+    "identifier": "HB 1136",
+    "title": "Create Department of Personnel Program Pathways to Public Service",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1136/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-17"
+  },
+  {
+    "id": "ocd-bill/d9b3e79e-4385-4c54-97e1-360dce90aea5",
+    "stream": "legislation",
+    "identifier": "HB 1142",
+    "title": "Child Advocacy Centers",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Children & Domestic Matters"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1142/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-17"
+  },
+  {
+    "id": "ocd-bill/96128f35-7001-4963-bc5a-60a85ae8e552",
+    "stream": "legislation",
+    "identifier": "HB 1204",
+    "title": "Senior Cooperative Housing Authority Projects",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes",
+      "Housing"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1204/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-04-17"
+  },
+  {
+    "id": "ocd-bill/b16e19f4-4200-4f40-aee7-093a0ceb83f6",
+    "stream": "legislation",
+    "identifier": "SB 163",
+    "title": "Regulation of Gaming & Sports Betting",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Gaming, Lottery, & Racing"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB163/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-04-17"
+  },
+  {
+    "id": "ocd-bill/57493142-5bdb-4b5f-99fe-9031064b3d8e",
+    "stream": "legislation",
+    "identifier": "SB 116",
+    "title": "Property Tax Modifications",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB116/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-04-17"
+  },
+  {
     "id": "ocd-bill/b161dca6-0de2-4947-b12a-2bb47b423809",
     "stream": "legislation",
     "identifier": "HB 1196",
