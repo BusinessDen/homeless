@@ -1,5 +1,27 @@
 [
   {
+    "id": "5ee8a03a3177",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "'Bob & Tom Show' creator, co-host Bob Kevoian dies at 75",
+    "url": "https://www.9news.com/article/news/nation-world/bob-kevoian-dies-bob-and-tom-show/507-cb2021e8-bfb3-416b-aadc-4943f8bbf0b6",
+    "published": "Sat, 18 Apr 2026 01:43:57 GMT",
+    "summary": "Bob Kevoian retired from the nationally syndicated show in 2015 after 32 years hosting alongside Tom Griswold.",
+    "first_seen": "2026-04-18"
+  },
+  {
+    "id": "db070e658761",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Former TV anchor Brian Williams to host podcast series on Netflix",
+    "url": "https://www.9news.com/article/news/nation-world/brian-williams-podcast-netflix/507-993f7ca2-664f-4499-b098-ffb1372fd098",
+    "published": "Sat, 18 Apr 2026 01:24:58 GMT",
+    "summary": "The podcast will feature conversations with \"some of the most interesting figures shaping popular culture today,\" including actors, writers, musicians and more.",
+    "first_seen": "2026-04-18"
+  },
+  {
     "id": "3ecf8e01313a",
     "stream": "news",
     "source": "businessden",

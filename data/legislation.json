@@ -1,5 +1,125 @@
 [
   {
+    "id": "ocd-bill/78bac7bb-e2d1-4e26-9f3f-dfcc57508c30",
+    "stream": "legislation",
+    "identifier": "SJM 1",
+    "title": "Memorializing Senator Faith Winter",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SJM1/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-18"
+  },
+  {
+    "id": "ocd-bill/1339e7f2-bc2b-4d23-af11-76bdae8264ad",
+    "stream": "legislation",
+    "identifier": "SB 170",
+    "title": "Task Force to Expand Effective Public Schools",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Education & School Finance (Pre & K-12)"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB170/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-18"
+  },
+  {
+    "id": "ocd-bill/87733ce3-8d6c-4d76-a392-068d58180f46",
+    "stream": "legislation",
+    "identifier": "HB 1075",
+    "title": "Child Welfare Prevention Services Funding",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Children & Domestic Matters",
+      "Human Services"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1075/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-18"
+  },
+  {
+    "id": "ocd-bill/24c528d8-ae02-4c7c-ba38-0b58e143f30e",
+    "stream": "legislation",
+    "identifier": "HB 1221",
+    "title": "Tax Expenditure Adjustments",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1221/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-04-18"
+  },
+  {
+    "id": "ocd-bill/a068f3f2-d1e1-436f-85ab-394468ef2e86",
+    "stream": "legislation",
+    "identifier": "HCR 1006",
+    "title": "Governor Proclamation Respect Separation of Powers",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "General Assembly",
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HCR1006/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-04-18"
+  },
+  {
+    "id": "ocd-bill/c4f240ba-dcb2-4237-9d4e-9c5f030f473e",
+    "stream": "legislation",
+    "identifier": "SB 169",
+    "title": "Revisor's Bill",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB169/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-04-18"
+  },
+  {
     "id": "ocd-bill/7044056a-0ff2-452e-bcf3-7dce13e8cdd9",
     "stream": "legislation",
     "identifier": "HB 1288",
