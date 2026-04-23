@@ -1,5 +1,251 @@
 [
   {
+    "id": "ocd-bill/847e2c22-3a44-42f6-bfe8-5109d5f1f7fc",
+    "stream": "legislation",
+    "identifier": "HB 1422",
+    "title": "Security Measures for Certain Government Entities",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1422/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-04-23"
+  },
+  {
+    "id": "ocd-bill/9da3d9f5-20b8-4e50-b75c-42e62c3eadda",
+    "stream": "legislation",
+    "identifier": "HB 1418",
+    "title": "Online Add-on Transaction Fee Youth Service Enterprise",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Children & Domestic Matters"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1418/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-04-23"
+  },
+  {
+    "id": "ocd-bill/aceca6d0-8642-4620-acc6-7feeac6d30e5",
+    "stream": "legislation",
+    "identifier": "HB 1037",
+    "title": "Ban Government Purchase of Personal Data from Third Party",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Courts & Judicial",
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1037/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-23"
+  },
+  {
+    "id": "ocd-bill/e5a922fb-27b4-43c5-878a-dbc6a8fd9e6d",
+    "stream": "legislation",
+    "identifier": "SB 121",
+    "title": "Overtime Threshold for Agricultural Employees",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Agriculture",
+      "Labor & Employment"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB121/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-23"
+  },
+  {
+    "id": "ocd-bill/f828def3-018c-4364-bba4-b69c3bb3c686",
+    "stream": "legislation",
+    "identifier": "HB 1260",
+    "title": "Updates to Child Care Assistance Programs",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Education & School Finance (Pre & K-12)"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1260/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-23"
+  },
+  {
+    "id": "ocd-bill/8e39fbc1-4891-4b8e-987f-ec2e373b956c",
+    "stream": "legislation",
+    "identifier": "HB 1250",
+    "title": "Procedures Related to Civil Asset Forfeiture",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Civil Law",
+      "Courts & Judicial",
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1250/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-23"
+  },
+  {
+    "id": "ocd-bill/27f641a5-2694-40fd-bb91-3b02274b968c",
+    "stream": "legislation",
+    "identifier": "SB 153",
+    "title": "Licensed School Counselor Credit Hour Requirements",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Education & School Finance (Pre & K-12)"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB153/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-23"
+  },
+  {
+    "id": "ocd-bill/7264c255-7fcc-4a9c-b7d5-d7befa33599e",
+    "stream": "legislation",
+    "identifier": "HB 1132",
+    "title": "Practices to Support Pollinators",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Agriculture"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1132/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-23"
+  },
+  {
+    "id": "ocd-bill/15aed0af-95b7-4416-badc-adb0513e3857",
+    "stream": "legislation",
+    "identifier": "HB 1098",
+    "title": "Public Trustee Act Foreclosure Procedures",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Civil Law",
+      "Local Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1098/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-04-23"
+  },
+  {
+    "id": "ocd-bill/f1fcc5fa-0e3c-4044-bf19-be50e0670d31",
+    "stream": "legislation",
+    "identifier": "HB 1058",
+    "title": "Protections for Minors Featured in Digital Content",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Business & Economic Development",
+      "Children & Domestic Matters",
+      "Labor & Employment",
+      "Telecommunications & Information Technology"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1058/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-04-23"
+  },
+  {
+    "id": "ocd-bill/e79301a0-4505-4722-bce9-3fa8fe40d4ad",
+    "stream": "legislation",
+    "identifier": "SB 131",
+    "title": "Sports Betting Protections",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Gaming, Lottery, & Racing"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB131/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-04-23"
+  },
+  {
+    "id": "ocd-bill/ee07ed9a-b462-4b9e-b153-df4534610e43",
+    "stream": "legislation",
+    "identifier": "SJR 23",
+    "title": "Recognize Young Americans Bank",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SJR23/",
+    "sources": [],
+    "search_term": "navigation center",
+    "first_seen": "2026-04-23"
+  },
+  {
     "id": "ocd-bill/78bac7bb-e2d1-4e26-9f3f-dfcc57508c30",
     "stream": "legislation",
     "identifier": "SJM 1",
