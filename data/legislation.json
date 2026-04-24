@@ -1,5 +1,107 @@
 [
   {
+    "id": "ocd-bill/911172f0-ee6b-474e-a642-ebc49730e6b0",
+    "stream": "legislation",
+    "identifier": "SB 178",
+    "title": "Health Insurance Affordability Measures",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB178/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-04-24"
+  },
+  {
+    "id": "ocd-bill/28a36d76-1e30-48ce-8106-017107d80f1a",
+    "stream": "legislation",
+    "identifier": "HB 1114",
+    "title": "Allowed Minimum Lot Size for Subject Jurisdictions",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Housing",
+      "Local Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1114/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-24"
+  },
+  {
+    "id": "ocd-bill/55bd03a7-bb8a-47d0-a427-375f1cdb4b2f",
+    "stream": "legislation",
+    "identifier": "SB 147",
+    "title": "Lobbyist Regulation",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB147/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-24"
+  },
+  {
+    "id": "ocd-bill/e9403e7b-25fe-46b1-ac6f-c081228e0f36",
+    "stream": "legislation",
+    "identifier": "HB 1145",
+    "title": "Mobile Home Park Water Quality",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Public Health",
+      "Water"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1145/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-04-24"
+  },
+  {
+    "id": "ocd-bill/5d96676c-a611-433d-b383-791f84611e66",
+    "stream": "legislation",
+    "identifier": "HB 1050",
+    "title": "Optional Individualized Readiness Plan for School",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Education & School Finance (Pre & K-12)"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1050/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-04-24"
+  },
+  {
     "id": "ocd-bill/847e2c22-3a44-42f6-bfe8-5109d5f1f7fc",
     "stream": "legislation",
     "identifier": "HB 1422",
