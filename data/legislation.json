@@ -1,5 +1,26 @@
 [
   {
+    "id": "ocd-bill/12262b39-2c53-462f-be79-33a86290b356",
+    "stream": "legislation",
+    "identifier": "SB 180",
+    "title": "Investment Performance Authority",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "State Government",
+      "State Revenue & Budget"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB180/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-28"
+  },
+  {
     "id": "ocd-bill/8b7a9827-bfa2-4892-b3aa-07890f44e4e5",
     "stream": "legislation",
     "identifier": "SB 19",
