@@ -1,5 +1,132 @@
 [
   {
+    "id": "ocd-bill/e2e5fe1d-1dc3-4912-bf58-c73fa0f90063",
+    "stream": "legislation",
+    "identifier": "HB 1425",
+    "title": "Applied Behavior Analysis Services",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance",
+      "Professions & Occupations",
+      "Public Health"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1425/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-04-29"
+  },
+  {
+    "id": "ocd-bill/42555d1e-d20b-4a83-b32d-6186a85af5ed",
+    "stream": "legislation",
+    "identifier": "SB 155",
+    "title": "Increase Access Homeowner's Insurance Enterprise",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Business & Economic Development",
+      "Housing",
+      "Insurance",
+      "Professions & Occupations"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB155/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-04-29"
+  },
+  {
+    "id": "ocd-bill/06a2addc-737c-4e8f-b58d-81ca71de24a7",
+    "stream": "legislation",
+    "identifier": "HB 1010",
+    "title": "Older Adult Support & Representation in Workforce",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Labor & Employment"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1010/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-29"
+  },
+  {
+    "id": "ocd-bill/6e0fa858-2d4b-4a4b-95d9-36d9436adb9e",
+    "stream": "legislation",
+    "identifier": "HB 1229",
+    "title": "Supporting the Human-Animal Bond",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance",
+      "Human Services",
+      "Public Health"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1229/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-29"
+  },
+  {
+    "id": "ocd-bill/4222d3f9-23fa-4756-b477-204c135c9837",
+    "stream": "legislation",
+    "identifier": "HB 1217",
+    "title": "Correct Child Support Guidelines Statutory Cites",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Children & Domestic Matters"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1217/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-29"
+  },
+  {
+    "id": "ocd-bill/a4fda8d6-087e-408b-a35a-70bf31879a55",
+    "stream": "legislation",
+    "identifier": "HB 1218",
+    "title": "Clarifying Validity of Common Law Marriage",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Children & Domestic Matters"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1218/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-29"
+  },
+  {
     "id": "ocd-bill/12262b39-2c53-462f-be79-33a86290b356",
     "stream": "legislation",
     "identifier": "SB 180",
