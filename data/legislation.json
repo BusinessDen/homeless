@@ -1,5 +1,109 @@
 [
   {
+    "id": "ocd-bill/656fddf5-4930-4120-98dc-8dba725f7508",
+    "stream": "legislation",
+    "identifier": "SB 136",
+    "title": "Reporting of Lost or Stolen Livestock",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Agriculture",
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB136/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-30"
+  },
+  {
+    "id": "ocd-bill/aa1c6253-2254-4b66-b0b5-9c31ca74e051",
+    "stream": "legislation",
+    "identifier": "SB 154",
+    "title": "Modify Colorado Channel Authority Board Appointments",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "General Assembly",
+      "State Government",
+      "Telecommunications & Information Technology"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB154/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-30"
+  },
+  {
+    "id": "ocd-bill/be29657f-faf8-4ffd-af11-a0eef0050912",
+    "stream": "legislation",
+    "identifier": "HB 1076",
+    "title": "Transportation Statutory Clean-Up",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "State Government",
+      "Transportation & Motor Vehicles"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1076/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-04-30"
+  },
+  {
+    "id": "ocd-bill/97e62c69-278c-466f-904c-7434b902e8e1",
+    "stream": "legislation",
+    "identifier": "HB 1426",
+    "title": "Department of Law Legislative Report",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1426/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-04-30"
+  },
+  {
+    "id": "ocd-bill/6e0f70cc-f4b6-45c4-9e50-66357acf3dd1",
+    "stream": "legislation",
+    "identifier": "HB 1140",
+    "title": "Local Government Impact Hearings",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "General Assembly"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1140/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-04-30"
+  },
+  {
     "id": "ocd-bill/e2e5fe1d-1dc3-4912-bf58-c73fa0f90063",
     "stream": "legislation",
     "identifier": "HB 1425",
