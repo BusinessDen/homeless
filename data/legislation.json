@@ -1,5 +1,85 @@
 [
   {
+    "id": "ocd-bill/10e7b34f-aa09-4e70-a48f-48c48b488823",
+    "stream": "legislation",
+    "identifier": "HB 1421",
+    "title": "Fee Sharing with Nonlawyers in Legal Practice",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Courts & Judicial"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1421/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-05-01"
+  },
+  {
+    "id": "ocd-bill/2c9bd582-0c39-4a2f-ae59-4133f9201d04",
+    "stream": "legislation",
+    "identifier": "HJR 1030",
+    "title": "Mono & Matt Road Designation",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "General Assembly"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HJR1030/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-01"
+  },
+  {
+    "id": "ocd-bill/88a8de9d-47cb-4644-8703-96b973a9d31f",
+    "stream": "legislation",
+    "identifier": "SB 3",
+    "title": "End-of-Life Management of Electric Vehicle Batteries",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Natural Resources & Environment"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB3/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-01"
+  },
+  {
+    "id": "ocd-bill/15ad17ca-60d4-496d-944d-d1b429863414",
+    "stream": "legislation",
+    "identifier": "SJR 25",
+    "title": "Colorado Mining Association's 150th Anniversary",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "General Assembly"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SJR25/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-01"
+  },
+  {
     "id": "ocd-bill/656fddf5-4930-4120-98dc-8dba725f7508",
     "stream": "legislation",
     "identifier": "SB 136",
