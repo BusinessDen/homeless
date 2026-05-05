@@ -1,5 +1,27 @@
 [
   {
+    "id": "5976d1714088",
+    "stream": "news",
+    "source": "businessden",
+    "source_name": "BusinessDen",
+    "title": "Farbers look to build tax-credit projects in RiNo, near Coors Field",
+    "url": "https://businessden.com/2026/05/04/farbers-look-to-build-tax-credit-projects-in-rino-near-coors-field/",
+    "published": "Mon, 04 May 2026 11:14:26 +0000",
+    "summary": "\u201cObviously it\u2019s hard to make multifamily work right now. But this site is a great affordable housing site,\u201d Brent Farber said.",
+    "first_seen": "2026-05-05"
+  },
+  {
+    "id": "abe39752fa00",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Aurora firefighters now leaving naloxone kits behind after overdose calls",
+    "url": "https://www.9news.com/article/news/health/aurora-firefighters-leaving-naloxone-kits-behind-after-overdose-calls/73-17d1ab32-5325-470c-bb1b-814c480faa36",
+    "published": "Mon, 04 May 2026 22:26:55 GMT",
+    "summary": "Each kit contains an nasal naloxone spray, which requires no medical training to use.",
+    "first_seen": "2026-05-05"
+  },
+  {
     "id": "415c28376f60",
     "stream": "news",
     "source": "9news",

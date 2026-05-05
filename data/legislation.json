@@ -1,5 +1,88 @@
 [
   {
+    "id": "ocd-bill/c4d8a6f1-88c5-4a8c-be3f-37dd06b8611a",
+    "stream": "legislation",
+    "identifier": "SB 95",
+    "title": "Measures to Support Victim-Survivors of Crimes",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB95/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-05"
+  },
+  {
+    "id": "ocd-bill/a85f02b1-4421-4f9c-81f3-12245f7aa916",
+    "stream": "legislation",
+    "identifier": "SB 137",
+    "title": "Measures to Reduce Administrative Burdens",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "General Assembly",
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB137/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-05"
+  },
+  {
+    "id": "ocd-bill/2f11378f-d712-4c7b-b287-82468139fe98",
+    "stream": "legislation",
+    "identifier": "SB 187",
+    "title": "Establishing Commission on Medicaid",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance",
+      "Human Services",
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB187/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-05"
+  },
+  {
+    "id": "ocd-bill/94ca1b2d-e21f-459b-8cba-31c5a69c625f",
+    "stream": "legislation",
+    "identifier": "SB 158",
+    "title": "Youthful Offender Early Parole Procedure",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB158/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-05"
+  },
+  {
     "id": "ocd-bill/b4fcbbde-041c-441d-b40b-76250ae520c4",
     "stream": "legislation",
     "identifier": "HB 1430",
