@@ -1,5 +1,65 @@
 [
   {
+    "id": "ocd-bill/4a345323-97a9-4925-9cf3-14e8f4dd3b20",
+    "stream": "legislation",
+    "identifier": "HB 1432",
+    "title": "Health-Care Payment Programs",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1432/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-05-06"
+  },
+  {
+    "id": "ocd-bill/a4725ac9-551a-4afc-bee7-66d8174db34d",
+    "stream": "legislation",
+    "identifier": "HB 1230",
+    "title": "Extend Conservation Easement Tax Credit",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1230/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-06"
+  },
+  {
+    "id": "ocd-bill/5bc72d1d-dea9-4516-9b5b-f7a0291a7c20",
+    "stream": "legislation",
+    "identifier": "HB 1016",
+    "title": "Continuation of Open Educational Resources Program",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Education & School Finance (Pre & K-12)"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1016/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-06"
+  },
+  {
     "id": "ocd-bill/c4d8a6f1-88c5-4a8c-be3f-37dd06b8611a",
     "stream": "legislation",
     "identifier": "SB 95",
