@@ -1,5 +1,46 @@
 [
   {
+    "id": "ocd-bill/1d5e8aef-3cfc-4c24-862a-a0f00a68213e",
+    "stream": "legislation",
+    "identifier": "HB 1100",
+    "title": "Guardianship for Incapacitated Adults",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Probate, Trusts, & Fiduciaries"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1100/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-07"
+  },
+  {
+    "id": "ocd-bill/88fd269c-54b4-4e9f-a34c-4f68a03608d2",
+    "stream": "legislation",
+    "identifier": "SB 132",
+    "title": "Voluntary Alcohol Breath Test",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement",
+      "Transportation & Motor Vehicles"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB132/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-05-07"
+  },
+  {
     "id": "ocd-bill/4a345323-97a9-4925-9cf3-14e8f4dd3b20",
     "stream": "legislation",
     "identifier": "HB 1432",
