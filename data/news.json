@@ -1,5 +1,16 @@
 [
   {
+    "id": "fcbee71d1842",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Katy Perry will perform at SoFi Stadium before first World Cup game in US",
+    "url": "https://www.9news.com/article/news/nation-world/katy-perry-first-world-cup-game-us-sofi-stadium/507-9557bf00-ae5e-4f95-ae52-d465d6b3a6ba",
+    "published": "Sat, 09 May 2026 01:31:06 GMT",
+    "summary": "FIFA has announced who will perform at the initial matches in all three nations that will host games.",
+    "first_seen": "2026-05-09"
+  },
+  {
     "id": "140446267878",
     "stream": "news",
     "source": "9news",

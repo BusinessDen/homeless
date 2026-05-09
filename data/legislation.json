@@ -1,5 +1,45 @@
 [
   {
+    "id": "ocd-bill/0c5607ff-a283-4172-b8bc-3a021fa34ac9",
+    "stream": "legislation",
+    "identifier": "HB 1286",
+    "title": "Automated Driving System Commercial Vehicles",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Transportation & Motor Vehicles"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1286/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-09"
+  },
+  {
+    "id": "ocd-bill/ef4c595a-9163-4956-b09f-ce517bf20b96",
+    "stream": "legislation",
+    "identifier": "HB 1138",
+    "title": "Retail Theft Prevention Program",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1138/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-09"
+  },
+  {
     "id": "ocd-bill/1d5e8aef-3cfc-4c24-862a-a0f00a68213e",
     "stream": "legislation",
     "identifier": "HB 1100",
