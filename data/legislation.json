@@ -1,5 +1,26 @@
 [
   {
+    "id": "ocd-bill/a75bb3a0-0570-4804-ba09-4eeb8251f364",
+    "stream": "legislation",
+    "identifier": "HB 1326",
+    "title": "Sunset Public Utilities Commission",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Energy",
+      "Transportation & Motor Vehicles"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1326/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-10"
+  },
+  {
     "id": "ocd-bill/0c5607ff-a283-4172-b8bc-3a021fa34ac9",
     "stream": "legislation",
     "identifier": "HB 1286",
