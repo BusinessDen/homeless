@@ -1,5 +1,66 @@
 [
   {
+    "id": "ocd-bill/594199b6-c258-4875-b3f2-68cd815db692",
+    "stream": "legislation",
+    "identifier": "SB 182",
+    "title": "Updated Clean Energy Plan Municipally Owned Utility",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Energy"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB182/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "ocd-bill/185d8a2e-8525-4a1a-b608-dcf13cacb0e0",
+    "stream": "legislation",
+    "identifier": "SB 23",
+    "title": "School Finance Act",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Education & School Finance (Pre & K-12)"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB23/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-12"
+  },
+  {
+    "id": "ocd-bill/7dada10f-09b2-4a86-86a8-bc74f9597f49",
+    "stream": "legislation",
+    "identifier": "SB 78",
+    "title": "Changes to Institutions of Higher Education Statutes",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Capital Construction",
+      "Higher Education"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB78/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-12"
+  },
+  {
     "id": "ocd-bill/a75bb3a0-0570-4804-ba09-4eeb8251f364",
     "stream": "legislation",
     "identifier": "HB 1326",
