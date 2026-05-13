@@ -1,5 +1,49 @@
 [
   {
+    "id": "74391f8ed595",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Memphis Grizzlies player Brandon Clarke dies at 29; death investigated as possible overdose",
+    "url": "https://www.9news.com/article/news/nation-world/memphis-grizzlies-brandon-clarke-dies-at-29/507-089fbf00-62d1-4b58-9888-1fea1074f941",
+    "published": "Wed, 13 May 2026 10:39:20 GMT",
+    "summary": "According to Los Angeles Police, Clarke was found dead in a Los Angeles home on Monday, May 11.",
+    "first_seen": "2026-05-13"
+  },
+  {
+    "id": "dfeb870f4c22",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Utah woman who published a book on grief after husband\u2019s death to be sentenced for his murder",
+    "url": "https://www.9news.com/article/news/nation-world/utah-woman-book-grief-husband-murder-sentenced/507-705992fc-00ca-426f-bae5-cfb6004c58e8",
+    "published": "Wed, 13 May 2026 04:32:09 GMT",
+    "summary": "Kouri Richins faces life in prison after being convicted of murdering her husband with fentanyl.",
+    "first_seen": "2026-05-13"
+  },
+  {
+    "id": "cb5f66fe6ba3",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Conan O'Brien to return as Oscars host for 3rd consecutive year",
+    "url": "https://www.9news.com/article/news/nation-world/conan-obrien-oscars-host-academy-awards/507-8741a794-3e89-48ab-b9e9-cd7efabc8e76",
+    "published": "Wed, 13 May 2026 00:36:32 GMT",
+    "summary": "The comedian will host the 2027 Academy Awards, even after he \"died\" in a comedic sketch at the end of this year's ceremony.",
+    "first_seen": "2026-05-13"
+  },
+  {
+    "id": "a565a1c47a79",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Family sues OpenAI after 19-year-old son accidentally overdoses",
+    "url": "https://www.9news.com/article/news/nation-world/sam-nelson-overdose-openai-chatgpt-lawsuit/507-40d2fbf5-c5e5-4f1b-84fe-1fd48050ccce",
+    "published": "Tue, 12 May 2026 22:00:51 GMT",
+    "summary": "The family is alleging ChatGPT, and creator OpenAI, had a hand in Sam Nelson's accidental overdose after the teenager followed the chatbot's \"medical advice.\"",
+    "first_seen": "2026-05-13"
+  },
+  {
     "id": "fcbee71d1842",
     "stream": "news",
     "source": "9news",

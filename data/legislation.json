@@ -1,5 +1,46 @@
 [
   {
+    "id": "ocd-bill/cfbf92a8-134d-46ff-93d3-b03db2c69211",
+    "stream": "legislation",
+    "identifier": "SB 189",
+    "title": "Automated Decision-Making Technology",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Labor & Employment",
+      "Telecommunications & Information Technology"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB189/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-13"
+  },
+  {
+    "id": "ocd-bill/e99715ac-2800-499c-90db-76ea6b9566b3",
+    "stream": "legislation",
+    "identifier": "SB 51",
+    "title": "Age Attestation on Computing Devices",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Children & Domestic Matters"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB51/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-05-13"
+  },
+  {
     "id": "ocd-bill/594199b6-c258-4875-b3f2-68cd815db692",
     "stream": "legislation",
     "identifier": "SB 182",

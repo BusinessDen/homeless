@@ -222,5 +222,13 @@
     "removed": 0,
     "changed": 1,
     "total": 12015
+  },
+  {
+    "date": "2026-05-13",
+    "stream": "encampment_reports",
+    "new": 0,
+    "removed": 0,
+    "changed": 1,
+    "total": 12015
   }
 ]
