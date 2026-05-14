@@ -1,5 +1,49 @@
 [
   {
+    "id": "0560e2ccda50",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "A 'Word of Thanks' from Next: Helping bridge stability for families facing homelessness",
+    "url": "https://www.9news.com/article/news/local/next/next-with-kyle-clark/word-of-thanks-next/73-c9bcc07a-7413-4074-88ad-f9fed07a1c72",
+    "published": "Thu, 14 May 2026 00:51:35 GMT",
+    "summary": "We'll highlight a different cause every week.",
+    "first_seen": "2026-05-14"
+  },
+  {
+    "id": "0a61a23ef531",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Jay Leno surprises 'Wheel of Fortune' with $70K Corvette giveaway",
+    "url": "https://www.9news.com/article/news/nation-world/jay-leno-wheel-of-fortunate-corvette-donation-grand-prize/507-9c716898-d65b-4558-ac2b-bd38765919fe",
+    "published": "Thu, 14 May 2026 00:38:44 GMT",
+    "summary": "The former \"Tonight Show\" host and noted car enthusiast donated the grand prize for the show's weeklong tournament finale on May 15.",
+    "first_seen": "2026-05-14"
+  },
+  {
+    "id": "7eb4a9cbf975",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Loveland High School students build outdoor furniture for youth shelter serving homeless teens",
+    "url": "https://www.9news.com/article/news/local/loveland-high-school-outdoor-furniture-homeless-teens/73-21298c7f-5a88-44de-9baf-4c6abb43d187",
+    "published": "Wed, 13 May 2026 21:25:12 GMT",
+    "summary": "Loveland High School students are crafting outdoor furniture for The Landing, a youth shelter, applying trauma-informed design principles to help teens.",
+    "first_seen": "2026-05-14"
+  },
+  {
+    "id": "4af99031c09c",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "California teen who grew up homeless earns full ride to Ivy League school after 65 college acceptances",
+    "url": "https://www.9news.com/article/news/nation-world/california-teen-accepted-65-colleges-experienced-homelessness/507-2a1059af-add9-4f23-8224-f31eac8dc176",
+    "published": "Wed, 13 May 2026 21:19:46 GMT",
+    "summary": "Lamont Newell grew up without a stable home \u2014 sometimes sleeping in his family's car. Now he's headed to the Ivy League.",
+    "first_seen": "2026-05-14"
+  },
+  {
     "id": "74391f8ed595",
     "stream": "news",
     "source": "9news",
