@@ -1,5 +1,866 @@
 [
   {
+    "id": "ocd-bill/1b1fd93c-3aa6-4318-901f-795ac0d9f039",
+    "stream": "legislation",
+    "identifier": "HB 1283",
+    "title": "Protections Regarding Seizures of Identification Documents",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement",
+      "Immigration"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1283/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/983ec788-71e7-4c66-97b1-4e085a371a84",
+    "stream": "legislation",
+    "identifier": "HB 1224",
+    "title": "Protections for Mobile Home Park Residents",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Housing"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1224/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/03d3799d-e104-4823-9cf8-431bf22270f9",
+    "stream": "legislation",
+    "identifier": "HB 1233",
+    "title": "Property Tax Proceedings for Nonresidential Property",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Local Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1233/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/fa656931-3b70-4dbe-8fa5-958b068e62b1",
+    "stream": "legislation",
+    "identifier": "HB 1005",
+    "title": "Worker Protection Collective Bargaining",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Business & Economic Development",
+      "Labor & Employment"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1005/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/aacf1a5c-c2ea-434c-988e-2218342a80ef",
+    "stream": "legislation",
+    "identifier": "HB 1306",
+    "title": "Wild Horse License Plate",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Agriculture",
+      "Natural Resources & Environment"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1306/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/58a6006f-7a9e-4d87-8ad4-23838b2b79d3",
+    "stream": "legislation",
+    "identifier": "HB 1079",
+    "title": "Drive Motorcycle Written Permission",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Children & Domestic Matters",
+      "Transportation & Motor Vehicles"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1079/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/14ec55f3-7fea-48aa-9936-aab208c5cb9a",
+    "stream": "legislation",
+    "identifier": "HB 1006",
+    "title": "Thriving Institution Designations for Higher Education",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Higher Education"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1006/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/bca36b36-f2a8-4eaf-a91e-d7a899c2c064",
+    "stream": "legislation",
+    "identifier": "SB 125",
+    "title": "Disability Rights Protections in Public Schools",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Civil Law"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB125/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/64b4ffaf-8dd1-4f74-88f5-4fad41e497d2",
+    "stream": "legislation",
+    "identifier": "HB 1043",
+    "title": "Transportation Network Company Discriminatory Practices",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Transportation & Motor Vehicles"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1043/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/0f70ee69-da52-4fb3-b5d9-42885e8068ea",
+    "stream": "legislation",
+    "identifier": "HB 1242",
+    "title": "Interlock Device for Impaired Drivers",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Courts & Judicial",
+      "Crimes, Corrections, & Enforcement",
+      "Transportation & Motor Vehicles"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1242/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/0763fe84-0c45-4240-a936-8c521b76126a",
+    "stream": "legislation",
+    "identifier": "HB 1026",
+    "title": "Expanding Plan Options for PERA",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1026/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/1b0f2e1e-6957-48ce-97f2-7b4f2714c0ac",
+    "stream": "legislation",
+    "identifier": "SB 172",
+    "title": "Front Range Passenger Rail District",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Elections & Redistricting",
+      "Transportation & Motor Vehicles"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB172/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/9d7f1a2e-77a0-46e4-a942-e76988788786",
+    "stream": "legislation",
+    "identifier": "HB 25-1084",
+    "title": "Remove Gendered Language from Title 35",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/HB25-1084/",
+    "sources": [],
+    "search_term": "trespass",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/4745580e-eaf1-47b3-b99e-c07539f9052e",
+    "stream": "legislation",
+    "identifier": "HB 25-1053",
+    "title": "Landowner Immunity for Emergency Access to Property",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/HB25-1053/",
+    "sources": [],
+    "search_term": "trespass",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/2e0c15c9-2bd3-4ed4-91f7-c83c0064eab1",
+    "stream": "legislation",
+    "identifier": "SB 24-058",
+    "title": "Landowner Liability Recreational Use Warning Signs",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/SB24-058/",
+    "sources": [],
+    "search_term": "trespass",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/d8c41a41-0bbf-403d-8fdb-0e4328b8a836",
+    "stream": "legislation",
+    "identifier": "HB 23-1293",
+    "title": "Felony Sentencing Commission Recommendations",
+    "session": "2023A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2023A/HB23-1293/",
+    "sources": [],
+    "search_term": "trespass",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/c9dc4b62-3d50-4752-ab3f-222bd19f53af",
+    "stream": "legislation",
+    "identifier": "SB 23-097",
+    "title": "Motor Vehicle Theft And Unauthorized Use",
+    "session": "2023A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2023A/SB23-097/",
+    "sources": [],
+    "search_term": "trespass",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/baf96056-7e68-483b-a245-a86d921e7e4a",
+    "stream": "legislation",
+    "identifier": "HB 23-1050",
+    "title": "Protection Of Business From Unlawful Entry",
+    "session": "2023A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2023A/HB23-1050/",
+    "sources": [],
+    "search_term": "trespass",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/41bdc19c-fd46-4765-bb94-983f5d09f78f",
+    "stream": "legislation",
+    "identifier": "HB 22-1382",
+    "title": "Support Dark Sky Designation And Promotion In Colorado",
+    "session": "2022A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2022A/HB22-1382/",
+    "sources": [],
+    "search_term": "trespass",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/72229d75-409f-4fba-8364-7f08798058ad",
+    "stream": "legislation",
+    "identifier": "SB 22-115",
+    "title": "Clarifying Terms Related To Landowner Liability",
+    "session": "2022A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2022A/SB22-115/",
+    "sources": [],
+    "search_term": "trespass",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/96db08fd-1d5f-4164-bb31-edc99cff58a1",
+    "stream": "legislation",
+    "identifier": "HB 22-1105",
+    "title": "Deadly Force Against Intruder At A Business",
+    "session": "2022A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2022A/HB22-1105/",
+    "sources": [],
+    "search_term": "trespass",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/f91d28a9-de66-4fcb-a7ba-76dbefc95841",
+    "stream": "legislation",
+    "identifier": "HB 21-1314",
+    "title": "Department Of Revenue Action Against Certain Documents",
+    "session": "2021A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2021A/HB21-1314/",
+    "sources": [],
+    "search_term": "trespass",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/1a6b5680-7a0e-49f9-b41f-6a318b56ff27",
+    "stream": "legislation",
+    "identifier": "SB 21-182",
+    "title": "School Discipline",
+    "session": "2021A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2021A/SB21-182/",
+    "sources": [],
+    "search_term": "trespass",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/8b872d20-c4b7-4fde-befd-37c8bb5b31ad",
+    "stream": "legislation",
+    "identifier": "SB 20-128",
+    "title": "Generation AndTransmission Cooperative Easement Broadband",
+    "session": "2020A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2020A/SB20-128/",
+    "sources": [],
+    "search_term": "trespass",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/4f704dde-3e0f-49f5-8932-2c37ca4e8e9c",
+    "stream": "legislation",
+    "identifier": "HB 20-1168",
+    "title": "Deadly Force Against Intruder At A Business",
+    "session": "2020A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2020A/HB20-1168/",
+    "sources": [],
+    "search_term": "trespass",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/235bfbc4-dcaf-4486-b0bb-36082ac0d345",
+    "stream": "legislation",
+    "identifier": "SB 19-107",
+    "title": "Broadband Infrastructure Installation",
+    "session": "2019A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2019A/SB19-107/",
+    "sources": [],
+    "search_term": "trespass",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/f3da0ec0-e17d-4d11-a70b-eb62cd9f53d4",
+    "stream": "legislation",
+    "identifier": "HB 19-1022",
+    "title": "Deadly Force Against Intruder At A Business",
+    "session": "2019A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2019A/HB19-1022/",
+    "sources": [],
+    "search_term": "trespass",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/be315f4a-62c1-4f80-bf4b-ff8796d6da65",
+    "stream": "legislation",
+    "identifier": "SB 18-185",
+    "title": "Deadly Force Against Intruder At A Business",
+    "session": "2018A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2018A/SB18-185/",
+    "sources": [],
+    "search_term": "trespass",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/1a5e5b20-8729-448f-bcf3-aa74e45b7157",
+    "stream": "legislation",
+    "identifier": "HB 17-1037",
+    "title": "Deadly Force Against An Intruder At A Business",
+    "session": "2017A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2017A/HB17-1037/",
+    "sources": [],
+    "search_term": "trespass",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/7ced59b1-cd36-42fd-ace6-ea873b6be93e",
+    "stream": "legislation",
+    "identifier": "SB 99",
+    "title": "Governor Temporary Classify Controlled Substance Analog",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB99/",
+    "sources": [],
+    "search_term": "fentanyl",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/22b87cac-8c02-4b8a-beab-aa8d29e45d13",
+    "stream": "legislation",
+    "identifier": "SB 25-164",
+    "title": "Opioid Antagonist Availability & State Board of Health",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-164/",
+    "sources": [],
+    "search_term": "fentanyl",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/81c833ab-73e1-4203-8c92-44efd861623e",
+    "stream": "legislation",
+    "identifier": "SB 25-044",
+    "title": "Synthetic Opiates Criminal Penalties",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-044/",
+    "sources": [],
+    "search_term": "fentanyl",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/a080de9d-b3c6-49b3-97f7-c23f6e414baa",
+    "stream": "legislation",
+    "identifier": "HB 24-1037",
+    "title": "Substance Use Disorders Harm Reduction",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/HB24-1037/",
+    "sources": [],
+    "search_term": "fentanyl",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/b2418b9c-dc56-4020-8034-9031b5b0e4be",
+    "stream": "legislation",
+    "identifier": "HB 24-1187",
+    "title": "Department of Human Services Supplemental",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/HB24-1187/",
+    "sources": [],
+    "search_term": "fentanyl",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/fc73890d-f202-4383-86a2-6a91c1f89686",
+    "stream": "legislation",
+    "identifier": "HB 24-1306",
+    "title": "Increase Penalty Possession of Synthetic Opiates",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/HB24-1306/",
+    "sources": [],
+    "search_term": "fentanyl",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/cfc3e8ca-0b52-4f84-8000-fb286edcdf72",
+    "stream": "legislation",
+    "identifier": "HB 24-1028",
+    "title": "Overdose Prevention Centers",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/HB24-1028/",
+    "sources": [],
+    "search_term": "fentanyl",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/cf2acbc2-5a69-48b8-8492-ad7ad37ed68d",
+    "stream": "legislation",
+    "identifier": "HB 23-1167",
+    "title": "Reporting Of Emergency Overdose Events",
+    "session": "2023A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2023A/HB23-1167/",
+    "sources": [],
+    "search_term": "fentanyl",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/9f30cae5-435c-4ca7-8d91-d6e476754106",
+    "stream": "legislation",
+    "identifier": "SB 23-147",
+    "title": "Regulation Of Kratom",
+    "session": "2023A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2023A/SB23-147/",
+    "sources": [],
+    "search_term": "fentanyl",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/fcaddd59-e16d-4ea4-85a9-74cddcaa50c8",
+    "stream": "legislation",
+    "identifier": "SB 23-109",
+    "title": "Criminal Penalty Controlled Substance Supplier",
+    "session": "2023A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2023A/SB23-109/",
+    "sources": [],
+    "search_term": "fentanyl",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/ea8c1738-15d5-40bb-80ba-d0c8c33f0685",
+    "stream": "legislation",
+    "identifier": "SB 23-140",
+    "title": "Fentanyl Study Deadline And Appropriation",
+    "session": "2023A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2023A/SB23-140/",
+    "sources": [],
+    "search_term": "fentanyl",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/d5c797fa-0356-4220-aa31-61157911efe1",
+    "stream": "legislation",
+    "identifier": "HB 23-1202",
+    "title": "Overdose Prevention Center Authorization",
+    "session": "2023A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2023A/HB23-1202/",
+    "sources": [],
+    "search_term": "fentanyl",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/88870290-a2af-45ac-ae89-09887f14e224",
+    "stream": "legislation",
+    "identifier": "HB 23-1164",
+    "title": "Opioid Harm Reduction",
+    "session": "2023A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2023A/HB23-1164/",
+    "sources": [],
+    "search_term": "fentanyl",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/ccd6b787-33fa-445a-8ef4-167fe3f5cdc2",
+    "stream": "legislation",
+    "identifier": "SB 22-120",
+    "title": "Regulation Of Kratom Processors",
+    "session": "2022A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2022A/SB22-120/",
+    "sources": [],
+    "search_term": "fentanyl",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/c9ed7987-1b30-4a30-ae76-d38a4acad5ca",
+    "stream": "legislation",
+    "identifier": "HB 22-1326",
+    "title": "Fentanyl Accountability And Prevention",
+    "session": "2022A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2022A/HB22-1326/",
+    "sources": [],
+    "search_term": "fentanyl",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/c4238153-d2ea-4c01-a1da-6f102a2b0dc7",
+    "stream": "legislation",
+    "identifier": "HB 20-1411",
+    "title": "COVID-19 Funds Allocation For Behavioral Health",
+    "session": "2020A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2020A/HB20-1411/",
+    "sources": [],
+    "search_term": "fentanyl",
+    "first_seen": "2026-05-20"
+  },
+  {
+    "id": "ocd-bill/2bba6d6f-7e33-4449-8e15-3d90625fd2af",
+    "stream": "legislation",
+    "identifier": "SB 18-040",
+    "title": "Substance Use Disorder Harm Reduction",
+    "session": "2018A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2018A/SB18-040/",
+    "sources": [],
+    "search_term": "fentanyl",
+    "first_seen": "2026-05-20"
+  },
+  {
     "id": "ocd-bill/0040b258-3830-4203-8afe-411eb5cd4409",
     "stream": "legislation",
     "identifier": "HB 1033",
