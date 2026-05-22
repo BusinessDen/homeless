@@ -1,5 +1,351 @@
 [
   {
+    "id": "ocd-bill/8a9968ea-d243-4918-8c56-fc8d8b096237",
+    "stream": "legislation",
+    "identifier": "HB 1379",
+    "title": "Fix Incorrect Citation Judicial Stabilization Fund",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Courts & Judicial"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1379/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-05-22"
+  },
+  {
+    "id": "ocd-bill/ed5ad8ce-eeae-4d70-baf7-1a86efccaeb9",
+    "stream": "legislation",
+    "identifier": "SB 188",
+    "title": "Residential Treatment for Members in Colorado Department of Human Services Custody",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB188/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-05-22"
+  },
+  {
+    "id": "ocd-bill/9c6420e1-93d1-444c-8705-a9f119e53eb6",
+    "stream": "legislation",
+    "identifier": "SB 191",
+    "title": "Gifts Grants & Donations for Nursing Facilities",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB191/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-22"
+  },
+  {
+    "id": "ocd-bill/1eeddfcd-77c6-4916-bf7b-dc331d60cff6",
+    "stream": "legislation",
+    "identifier": "HB 1123",
+    "title": "Preventing Sexual Abuse in Jails",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1123/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-22"
+  },
+  {
+    "id": "ocd-bill/4b58bc22-95e5-4b95-84e3-4fbbc1990066",
+    "stream": "legislation",
+    "identifier": "HB 1381",
+    "title": "Eliminate Cash Balance Requirement in Judicial Cash Fund",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Courts & Judicial"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1381/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-22"
+  },
+  {
+    "id": "ocd-bill/630b2e3c-a79c-4020-b296-d27b36ed0434",
+    "stream": "legislation",
+    "identifier": "HB 1373",
+    "title": "Subsidy Limits in Assistance Programs for Children",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Children & Domestic Matters",
+      "Human Services"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1373/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-22"
+  },
+  {
+    "id": "ocd-bill/b40c2fc9-a2a0-4f40-9e8c-7c9515f53820",
+    "stream": "legislation",
+    "identifier": "HB 1255",
+    "title": "Social Media Duty to Report & Search Warrants",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Children & Domestic Matters"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1255/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-22"
+  },
+  {
+    "id": "ocd-bill/c6136a06-f0cb-4013-a986-40b168b2cbbc",
+    "stream": "legislation",
+    "identifier": "HB 1352",
+    "title": "Reducing Frequency of Colorado Reading to Ensure Academic Development Act Independent Evaluations",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Education & School Finance (Pre & K-12)"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1352/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-22"
+  },
+  {
+    "id": "ocd-bill/e35eb40a-fdf5-4489-a2fc-d6178ebe5999",
+    "stream": "legislation",
+    "identifier": "HB 1322",
+    "title": "Civil Actions for Conversion Therapy Survivors",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Civil Law"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1322/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-22"
+  },
+  {
+    "id": "ocd-bill/dec40247-a510-4b3a-a733-026ed9db2dd9",
+    "stream": "legislation",
+    "identifier": "HB 1335",
+    "title": "Abortion Medication Access on College Campuses",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance",
+      "Public Health"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1335/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-22"
+  },
+  {
+    "id": "ocd-bill/de65695b-4301-4c10-8c95-77741ce73dcc",
+    "stream": "legislation",
+    "identifier": "HB 1385",
+    "title": "Public Defender & Prosecutor Behavioral Health Program",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Courts & Judicial"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1385/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-22"
+  },
+  {
+    "id": "ocd-bill/904eabdc-56b1-4f07-b9f4-45d1a08631a5",
+    "stream": "legislation",
+    "identifier": "SB 2",
+    "title": "Energy Affordability",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Energy"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB2/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-05-22"
+  },
+  {
+    "id": "ocd-bill/dbca98d6-9782-4ff4-8b61-aa64a0b5b00f",
+    "stream": "legislation",
+    "identifier": "SB 167",
+    "title": "Prescription Drug Out-of-Pocket Expense Credit",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB167/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-05-22"
+  },
+  {
+    "id": "ocd-bill/7ef0f2a8-f14e-4252-af3f-f882d2318e3d",
+    "stream": "legislation",
+    "identifier": "SB 190",
+    "title": "Release Information About Peace Officer Use of Force",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB190/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-05-22"
+  },
+  {
+    "id": "ocd-bill/5d4c7614-5e42-4aa6-889c-6f12d9a962da",
+    "stream": "legislation",
+    "identifier": "HB 1386",
+    "title": "Colorado National Guard Tuition Waiver Funding",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Higher Education",
+      "Military & Veterans"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1386/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-05-22"
+  },
+  {
+    "id": "ocd-bill/01e817bb-5eb2-46d6-9f33-464ca88a5c38",
+    "stream": "legislation",
+    "identifier": "HB 1374",
+    "title": "Kinship Care Funding Provisions",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Children & Domestic Matters"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1374/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-05-22"
+  },
+  {
+    "id": "ocd-bill/65c42be3-9936-4ff6-944e-dddce4ed33d4",
+    "stream": "legislation",
+    "identifier": "HB 1424",
+    "title": "Transportation Network Company Consumer Protection",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Business & Economic Development",
+      "Labor & Employment",
+      "Telecommunications & Information Technology",
+      "Transportation & Motor Vehicles"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1424/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-05-22"
+  },
+  {
     "id": "ocd-bill/1b1fd93c-3aa6-4318-901f-795ac0d9f039",
     "stream": "legislation",
     "identifier": "HB 1283",
