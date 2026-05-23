@@ -1,5 +1,16 @@
 [
   {
+    "id": "3f6fe38ccf84",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Fentanyl, meth found at house where New Mexico responders got sick after answering overdose call",
+    "url": "https://www.9news.com/article/news/nation-world/new-mexico-first-responders-sickened-fentanyl-meth-overdose-call/507-2bc1439e-a2fe-4b1c-96d8-9ff04a40b0fa",
+    "published": "Fri, 22 May 2026 23:10:16 GMT",
+    "summary": "More than a dozen first responders were quarantined and decontaminated after responding to the scene.",
+    "first_seen": "2026-05-23"
+  },
+  {
     "id": "02b5e9a03113",
     "stream": "news",
     "source": "9news",

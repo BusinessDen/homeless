@@ -1,5 +1,356 @@
 [
   {
+    "id": "ocd-bill/4489566d-3949-41d3-afaa-83ee89e34480",
+    "stream": "legislation",
+    "identifier": "HB 1262",
+    "title": "Patient Access to Compounded Medical Items",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance",
+      "Professions & Occupations"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1262/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-23"
+  },
+  {
+    "id": "ocd-bill/2648a6e5-8e5e-4bb0-b9d5-838cc3c12f33",
+    "stream": "legislation",
+    "identifier": "HB 1376",
+    "title": "Federal Adoption Money Cash Fund Updates",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Children & Domestic Matters",
+      "Human Services"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1376/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-23"
+  },
+  {
+    "id": "ocd-bill/c31070b7-db4f-45c8-933f-4e2dfab52c98",
+    "stream": "legislation",
+    "identifier": "HB 1372",
+    "title": "Appropriations to Auraria Higher Education Center",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Higher Education"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1372/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-23"
+  },
+  {
+    "id": "ocd-bill/262f0295-b658-4c7c-82e7-91054078e514",
+    "stream": "legislation",
+    "identifier": "SB 5",
+    "title": "Rights Violation in Immigration Enforcement Remedy",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Courts & Judicial"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB5/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-23"
+  },
+  {
+    "id": "ocd-bill/e14f6b19-f304-4433-9c57-2d301bd9ea82",
+    "stream": "legislation",
+    "identifier": "HB 1389",
+    "title": "Comprehensive Human Sexuality Education Grant Appropriation",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Education & School Finance (Pre & K-12)",
+      "Health Care & Health Insurance",
+      "Public Health",
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1389/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-23"
+  },
+  {
+    "id": "ocd-bill/28e0b8f9-4518-4356-8386-809fb7adb29b",
+    "stream": "legislation",
+    "identifier": "SB 35",
+    "title": "Increase of Traffic Violation Penalties",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement",
+      "Transportation & Motor Vehicles"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB35/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-23"
+  },
+  {
+    "id": "ocd-bill/589587df-0a28-4436-af39-b45edb2863fb",
+    "stream": "legislation",
+    "identifier": "HB 1407",
+    "title": "State Money Used to Refinance American Rescue Plan Money",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "State Government",
+      "State Revenue & Budget"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1407/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-23"
+  },
+  {
+    "id": "ocd-bill/9fe0b572-e58e-40dc-9acb-dbf1283a0b97",
+    "stream": "legislation",
+    "identifier": "SB 93",
+    "title": "Workers' Compensation Insurance Coverage Verification",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Labor & Employment",
+      "Local Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB93/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-23"
+  },
+  {
+    "id": "ocd-bill/eef874ca-f776-45a4-8be2-0f8ef98ea1fd",
+    "stream": "legislation",
+    "identifier": "SB 115",
+    "title": "Post-Conviction Relief for Certain Offenders",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Courts & Judicial",
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB115/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-23"
+  },
+  {
+    "id": "ocd-bill/524888ec-333e-48cd-bc14-526b70a3abb8",
+    "stream": "legislation",
+    "identifier": "HB 1282",
+    "title": "Eliminate Duplicative Regulation of School Child Care Centers",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Education & School Finance (Pre & K-12)"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1282/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-23"
+  },
+  {
+    "id": "ocd-bill/e6750d61-7aec-4848-89f8-b8f26d5b5af1",
+    "stream": "legislation",
+    "identifier": "SB 185",
+    "title": "Enhance Security of Office of Information Technology",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Telecommunications & Information Technology"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB185/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-23"
+  },
+  {
+    "id": "ocd-bill/0cc1acb4-767a-4332-aab6-d9af56d56de5",
+    "stream": "legislation",
+    "identifier": "SB 42",
+    "title": "Revenue Classification Taxpayers Bill of Rights",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB42/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-23"
+  },
+  {
+    "id": "ocd-bill/4fd44003-dc30-4adf-a5ad-3767cb682590",
+    "stream": "legislation",
+    "identifier": "HB 1366",
+    "title": "Denver Health Federal Funds for Physician Services",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1366/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-05-23"
+  },
+  {
+    "id": "ocd-bill/9da62d2a-77dd-4c95-8256-72c0638ca8ea",
+    "stream": "legislation",
+    "identifier": "HB 1318",
+    "title": "Traffic Safety Near Schools",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Transportation & Motor Vehicles"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1318/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-05-23"
+  },
+  {
+    "id": "ocd-bill/7c168fd4-1942-45f4-a6f1-5054518cecc1",
+    "stream": "legislation",
+    "identifier": "HB 1336",
+    "title": "Increase Access to Pharmacy Services",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance",
+      "Professions & Occupations"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1336/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-05-23"
+  },
+  {
+    "id": "ocd-bill/d3ff5e30-9e59-4829-91a1-eba189925c0e",
+    "stream": "legislation",
+    "identifier": "HB 1268",
+    "title": "Renewable Energy Development on Disturbed Lands",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Energy",
+      "Local Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1268/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-05-23"
+  },
+  {
+    "id": "ocd-bill/c721c80a-a1af-4863-a216-a2e75aa36f16",
+    "stream": "legislation",
+    "identifier": "SB 133",
+    "title": "Colorado Artist Companies",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Business & Economic Development"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB133/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-05-23"
+  },
+  {
     "id": "ocd-bill/8a9968ea-d243-4918-8c56-fc8d8b096237",
     "stream": "legislation",
     "identifier": "HB 1379",
