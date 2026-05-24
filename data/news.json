@@ -1,5 +1,16 @@
 [
   {
+    "id": "e44e39eea0e4",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Ebola treatment tent set ablaze again in eastern Congo with 18 suspected cases escaping",
+    "url": "https://www.9news.com/article/news/nation-world/ebola-treatment-tent-outbreak-eastern-congo-escaped-cases/507-67ab94aa-602f-4a9b-9b1f-abbdd6768801",
+    "published": "Sat, 23 May 2026 15:16:10 GMT",
+    "summary": "A tent used for treatment of the Ebola outbreak in eastern Congo was set on fire for the second time this week.",
+    "first_seen": "2026-05-24"
+  },
+  {
     "id": "3f6fe38ccf84",
     "stream": "news",
     "source": "9news",
