@@ -1,5 +1,418 @@
 [
   {
+    "id": "ocd-bill/4d2e5219-7cb8-4c53-906e-0a12d94d5177",
+    "stream": "legislation",
+    "identifier": "HB 1139",
+    "title": "Use of Artificial Intelligence in Health Care",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Business & Economic Development",
+      "Health Care & Health Insurance",
+      "Professions & Occupations"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1139/",
+    "sources": [],
+    "search_term": "housing stability",
+    "first_seen": "2026-05-30"
+  },
+  {
+    "id": "ocd-bill/2f5689a5-53e1-46c3-9657-d6b675dcbb19",
+    "stream": "legislation",
+    "identifier": "HB 1403",
+    "title": "Information Technology Depreciation Lease Payments",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "State Revenue & Budget",
+      "Telecommunications & Information Technology"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1403/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-30"
+  },
+  {
+    "id": "ocd-bill/52c5d612-fc8a-482f-b5ba-ec9bc25dc9a5",
+    "stream": "legislation",
+    "identifier": "HB 1315",
+    "title": "Accurate Documents for Parole Determinations",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1315/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-30"
+  },
+  {
+    "id": "ocd-bill/bc3665a8-e0ab-47f3-acee-b83419fc6158",
+    "stream": "legislation",
+    "identifier": "HB 1383",
+    "title": "Repeal Employment Support Job Retention Program",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Labor & Employment",
+      "State Revenue & Budget"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1383/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-30"
+  },
+  {
+    "id": "ocd-bill/aa31edfc-5027-449f-87b6-751e7bb236ac",
+    "stream": "legislation",
+    "identifier": "HB 1387",
+    "title": "Severance Tax Fund Expenditures",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes",
+      "Local Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1387/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-30"
+  },
+  {
+    "id": "ocd-bill/60a5c80c-1497-480c-9037-ce16fbe3145b",
+    "stream": "legislation",
+    "identifier": "HB 1394",
+    "title": "Change Motorcycle Operator Fund to Annual Appropriation",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "State Revenue & Budget"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1394/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-30"
+  },
+  {
+    "id": "ocd-bill/194ed685-b1cb-4aa1-a088-f13bda3d8644",
+    "stream": "legislation",
+    "identifier": "HB 1406",
+    "title": "Repeal Capital Construction Funding Requirements",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Capital Construction",
+      "Fiscal Policy & Taxes",
+      "State Government",
+      "State Revenue & Budget"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1406/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-30"
+  },
+  {
+    "id": "ocd-bill/7fb1958d-6639-41c4-a830-9268063a7c67",
+    "stream": "legislation",
+    "identifier": "HB 1078",
+    "title": "Off-Campus Courses & Concurrent Enrollment Programs",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Higher Education"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1078/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-30"
+  },
+  {
+    "id": "ocd-bill/3f961d2f-792b-48cb-a0db-3139a3264283",
+    "stream": "legislation",
+    "identifier": "HB 1265",
+    "title": "Law Enforcement National Electronic Tracing System & Share Program",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1265/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-30"
+  },
+  {
+    "id": "ocd-bill/cf6d3bb1-8c0d-46e8-afc8-405f9242ca50",
+    "stream": "legislation",
+    "identifier": "HB 1120",
+    "title": "Mobile Home Property Taxation",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1120/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-30"
+  },
+  {
+    "id": "ocd-bill/d2aab617-430f-4f72-8e3e-07f367878e98",
+    "stream": "legislation",
+    "identifier": "HB 1375",
+    "title": "Repeal County Administration Funding Model",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Human Services"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1375/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-05-30"
+  },
+  {
+    "id": "ocd-bill/2499a181-9395-4168-bb30-a901501f2689",
+    "stream": "legislation",
+    "identifier": "HB 1289",
+    "title": "Modification of Certain Tax Expenditures",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1289/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-05-30"
+  },
+  {
+    "id": "ocd-bill/e5c27b77-7d5c-4c4c-a1b5-1a4351f6d829",
+    "stream": "legislation",
+    "identifier": "HB 1225",
+    "title": "Distributed Energy Resources Requirements",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Energy"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1225/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-05-30"
+  },
+  {
+    "id": "ocd-bill/b321605a-42e5-4463-aa14-394f9500dde0",
+    "stream": "legislation",
+    "identifier": "HB 1324",
+    "title": "Sunset Division of Professions & Occupations",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Professions & Occupations",
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1324/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-05-30"
+  },
+  {
+    "id": "ocd-bill/1cc1258c-592b-4ae0-8064-1ca9a714bd96",
+    "stream": "legislation",
+    "identifier": "HB 1384",
+    "title": "Direct Transfers for Colorado Department of Labor & Employment School-to-Work Programs",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1384/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-05-30"
+  },
+  {
+    "id": "ocd-bill/f28ed8ba-5cfd-4f30-9720-8d8308fc8570",
+    "stream": "legislation",
+    "identifier": "HB 1325",
+    "title": "Natural Medicine",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Human Services",
+      "Liquor, Tobacco, & Marijuana"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1325/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-05-30"
+  },
+  {
+    "id": "ocd-bill/37ec40d9-35cf-407f-9a5c-e9d2f7d6ae0c",
+    "stream": "legislation",
+    "identifier": "HB 1069",
+    "title": "Availability of Emergency Medical Services",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance",
+      "Insurance",
+      "Labor & Employment"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1069/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-05-30"
+  },
+  {
+    "id": "ocd-bill/7e0a0600-0fa1-43c4-96f4-a15c2abdd1df",
+    "stream": "legislation",
+    "identifier": "HB 1263",
+    "title": "Conversational Artificial Intelligence Service Operator Requirements",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Business & Economic Development",
+      "Professions & Occupations"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1263/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-05-30"
+  },
+  {
+    "id": "ocd-bill/25b669dd-a8b0-4072-97e8-00d46b1131da",
+    "stream": "legislation",
+    "identifier": "HB 1367",
+    "title": "COVID Increased Medicaid Match to General Fund",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1367/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-05-30"
+  },
+  {
+    "id": "ocd-bill/29dcb2ba-41c8-42d3-92ba-f10e883c3c40",
+    "stream": "legislation",
+    "identifier": "HB 1359",
+    "title": "Credit State Public School Fund from Natural Resources",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Education & School Finance (Pre & K-12)"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1359/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-05-30"
+  },
+  {
     "id": "ocd-bill/4489566d-3949-41d3-afaa-83ee89e34480",
     "stream": "legislation",
     "identifier": "HB 1262",
