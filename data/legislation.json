@@ -1,5 +1,126 @@
 [
   {
+    "id": "ocd-bill/c04ac658-3183-4abb-bfe4-feb74080f26f",
+    "stream": "legislation",
+    "identifier": "SB 151",
+    "title": "Modify Public Employees Retirement Association Allowed Affiliation and Board of Trustees",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Education & School Finance (Pre & K-12)",
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB151/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-31"
+  },
+  {
+    "id": "ocd-bill/92890914-cc9f-4bb5-9398-180f2c61abfe",
+    "stream": "legislation",
+    "identifier": "SB 145",
+    "title": "Charter School Involvement in Local Ballot Questions",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Education & School Finance (Pre & K-12)"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB145/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-31"
+  },
+  {
+    "id": "ocd-bill/3e0b3ceb-b3bc-4edb-a057-03ebf7228a4e",
+    "stream": "legislation",
+    "identifier": "HB 1423",
+    "title": "Community Corrections Budget Request & Data Information",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1423/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-31"
+  },
+  {
+    "id": "ocd-bill/1b029c80-5f60-437e-8447-ee633fbde06d",
+    "stream": "legislation",
+    "identifier": "HB 1371",
+    "title": "Adding Repeal Dates for Certain Higher Education Programs",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Higher Education"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1371/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-31"
+  },
+  {
+    "id": "ocd-bill/cbf9670a-96a4-4368-ab51-90cb3f0f30ed",
+    "stream": "legislation",
+    "identifier": "HB 1361",
+    "title": "Pay for Success Program Repeal",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1361/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-31"
+  },
+  {
+    "id": "ocd-bill/77ed3a6b-a747-4bb1-bbe2-09f6d0d9087f",
+    "stream": "legislation",
+    "identifier": "SB 117",
+    "title": "Permissible Methods of Selling Lottery Tickets",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Gaming, Lottery, & Racing"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB117/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-05-31"
+  },
+  {
     "id": "ocd-bill/4d2e5219-7cb8-4c53-906e-0a12d94d5177",
     "stream": "legislation",
     "identifier": "HB 1139",
