@@ -1,5 +1,38 @@
 [
   {
+    "id": "3479a1f99034",
+    "stream": "news",
+    "source": "businessden",
+    "source_name": "BusinessDen",
+    "title": "Hotel along Park Avenue comes down to make way for apartments",
+    "url": "https://businessden.com/2026/06/05/hotel-along-park-avenue-comes-down-to-make-way-for-apartments/",
+    "published": "Fri, 05 Jun 2026 10:56:15 +0000",
+    "summary": "The building along I-25 was once a La Quinta, although it became a homeless shelter during COVID.",
+    "first_seen": "2026-06-06"
+  },
+  {
+    "id": "5b27292afdea",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Denver spent $4.5 million in new bond money to turn an office building into affordable housing. It never ran a feasibility study.",
+    "url": "https://www.9news.com/article/news/local/local-politics/denver-bond-money-office-building-affordable-housing-feasibility-study/73-57c6fb4e-bd08-4b76-b703-d7de317bf85a",
+    "published": "Sat, 06 Jun 2026 01:11:35 GMT",
+    "summary": "Denver's first purchase using new bond money is to buy an old office building. But there's no feasibility study, no cost estimate, or public conversion plan yet.",
+    "first_seen": "2026-06-06"
+  },
+  {
+    "id": "0bc9c9de4d5c",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Big purchase, little planning; Next with Kyle Clark full show (6/5/26)",
+    "url": "https://www.9news.com/video/next-with-kyle-clark/big-purchase-little-planning-next-with-kyle-clark-full-show-6526/73-e284710a-66da-47eb-a1eb-89d43e0b4f26",
+    "published": "Sat, 06 Jun 2026 01:05:47 GMT",
+    "summary": "A look at how Denver is carrying out voters' approval of $45M for affordable housing. - Customers who don't want Xcel's new smart meters are running into problems. - Good News and one long face.",
+    "first_seen": "2026-06-06"
+  },
+  {
     "id": "06edd9f3a560",
     "stream": "news",
     "source": "cpr",

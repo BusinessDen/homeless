@@ -1,5 +1,26 @@
 [
   {
+    "id": "ocd-bill/46d5bc4d-b863-4797-9a9c-8fb7888b9f4c",
+    "stream": "legislation",
+    "identifier": "HB 1036",
+    "title": "Local Taxes on Vacant Residential Property",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes",
+      "Local Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1036/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-06-06"
+  },
+  {
     "id": "ocd-bill/c04ac658-3183-4abb-bfe4-feb74080f26f",
     "stream": "legislation",
     "identifier": "SB 151",
