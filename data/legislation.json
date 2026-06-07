@@ -1,5 +1,221 @@
 [
   {
+    "id": "ocd-bill/1b9e1f76-4a77-4a1f-8c59-879f3cb5fa2e",
+    "stream": "legislation",
+    "identifier": "HB 25-1293",
+    "title": "Drug Overdose Education & Opioid Antagonists in Schools",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/HB25-1293/",
+    "sources": [],
+    "search_term": "overdose",
+    "first_seen": "2026-06-07"
+  },
+  {
+    "id": "ocd-bill/7f3aa3b3-97df-4b01-8045-d7f80a60c1e1",
+    "stream": "legislation",
+    "identifier": "SB 25-066",
+    "title": "State Contracts with Opioid Antagonist Businesses",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-066/",
+    "sources": [],
+    "search_term": "overdose",
+    "first_seen": "2026-06-07"
+  },
+  {
+    "id": "ocd-bill/4635164e-8670-4f5a-a2ed-5647396fb4c5",
+    "stream": "legislation",
+    "identifier": "SB 25-064",
+    "title": "Safe2tell Handle with Care Notice",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-064/",
+    "sources": [],
+    "search_term": "overdose",
+    "first_seen": "2026-06-07"
+  },
+  {
+    "id": "ocd-bill/703f1421-3d35-46db-b220-a676da981737",
+    "stream": "legislation",
+    "identifier": "HB 24-1244",
+    "title": "Minor Autopsy Report Release Requirements",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/HB24-1244/",
+    "sources": [],
+    "search_term": "overdose",
+    "first_seen": "2026-06-07"
+  },
+  {
+    "id": "ocd-bill/44186b62-1e69-48d7-b111-7b57d6643769",
+    "stream": "legislation",
+    "identifier": "HB 24-1045",
+    "title": "Treatment for Substance Use Disorders",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/HB24-1045/",
+    "sources": [],
+    "search_term": "overdose",
+    "first_seen": "2026-06-07"
+  },
+  {
+    "id": "ocd-bill/81cd7109-1d2f-4f62-bd91-4d9f1050b7ce",
+    "stream": "legislation",
+    "identifier": "SB 24-047",
+    "title": "Prevention of Substance Use Disorders",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/SB24-047/",
+    "sources": [],
+    "search_term": "overdose",
+    "first_seen": "2026-06-07"
+  },
+  {
+    "id": "ocd-bill/47a995d2-cc55-4984-a26f-82de25385873",
+    "stream": "legislation",
+    "identifier": "HB 23-1258",
+    "title": "Drug Crime Cost Task Force",
+    "session": "2023A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2023A/HB23-1258/",
+    "sources": [],
+    "search_term": "overdose",
+    "first_seen": "2026-06-07"
+  },
+  {
+    "id": "ocd-bill/33e8cbad-593a-48b0-954c-82b0cd10366f",
+    "stream": "legislation",
+    "identifier": "HB 23-1300",
+    "title": "Continuous Eligibility Medical Coverage",
+    "session": "2023A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2023A/HB23-1300/",
+    "sources": [],
+    "search_term": "overdose",
+    "first_seen": "2026-06-07"
+  },
+  {
+    "id": "ocd-bill/c43a7a0d-7024-485c-8bc0-55e970f24386",
+    "stream": "legislation",
+    "identifier": "HB 23-1219",
+    "title": "Waiting Period To Deliver A Firearm",
+    "session": "2023A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2023A/HB23-1219/",
+    "sources": [],
+    "search_term": "overdose",
+    "first_seen": "2026-06-07"
+  },
+  {
+    "id": "ocd-bill/c757617f-c51e-4453-ae64-abb5af4f5b1a",
+    "stream": "legislation",
+    "identifier": "SB 19-227",
+    "title": "Harm Reduction Substance Use Disorders",
+    "session": "2019A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2019A/SB19-227/",
+    "sources": [],
+    "search_term": "naloxone",
+    "first_seen": "2026-06-07"
+  },
+  {
+    "id": "ocd-bill/3063a0a9-d8b7-434f-95b4-05f47f68b61c",
+    "stream": "legislation",
+    "identifier": "SB 19-228",
+    "title": "Substance Use Disorders Prevention Measures",
+    "session": "2019A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2019A/SB19-228/",
+    "sources": [],
+    "search_term": "naloxone",
+    "first_seen": "2026-06-07"
+  },
+  {
+    "id": "ocd-bill/61459fe0-c36e-4e42-8eff-e6759cacebc4",
+    "stream": "legislation",
+    "identifier": "SB 19-008",
+    "title": "Substance Use Disorder Treatment In Criminal Justice System",
+    "session": "2019A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2019A/SB19-008/",
+    "sources": [],
+    "search_term": "naloxone",
+    "first_seen": "2026-06-07"
+  },
+  {
     "id": "ocd-bill/46d5bc4d-b863-4797-9a9c-8fb7888b9f4c",
     "stream": "legislation",
     "identifier": "HB 1036",
