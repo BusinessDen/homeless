@@ -1,5 +1,422 @@
 [
   {
+    "id": "ocd-bill/2df1f96e-21d4-4a71-8719-98b7a406b4c9",
+    "stream": "legislation",
+    "identifier": "HB 24-1075",
+    "title": "Analysis of Universal Health-Care Payment System",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/HB24-1075/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-06-13"
+  },
+  {
+    "id": "ocd-bill/c48a5f51-d497-4e81-a374-6e8ca29e3de1",
+    "stream": "legislation",
+    "identifier": "HB 24-1236",
+    "title": "Women Veterans Appreciation Day",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/HB24-1236/",
+    "sources": [],
+    "search_term": "homeless",
+    "first_seen": "2026-06-13"
+  },
+  {
+    "id": "ocd-bill/3e449060-683e-4d71-aa19-81392500f712",
+    "stream": "legislation",
+    "identifier": "SB 25-053",
+    "title": "Protect Wild Bison",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/SB25-053/",
+    "sources": [],
+    "search_term": "shelter",
+    "first_seen": "2026-06-13"
+  },
+  {
+    "id": "ocd-bill/0ae71a32-99d5-4cec-b544-0bac0a74f58e",
+    "stream": "legislation",
+    "identifier": "HB 25-1194",
+    "title": "Protections for Victims of Economic Abuse",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/HB25-1194/",
+    "sources": [],
+    "search_term": "shelter",
+    "first_seen": "2026-06-13"
+  },
+  {
+    "id": "ocd-bill/6d9e466a-1280-4b08-afef-04e9e936cd04",
+    "stream": "legislation",
+    "identifier": "HB 25-1299",
+    "title": "Animal Protection Fund Voluntary Contribution",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/HB25-1299/",
+    "sources": [],
+    "search_term": "shelter",
+    "first_seen": "2026-06-13"
+  },
+  {
+    "id": "ocd-bill/5ae19863-56a4-4721-9fdf-268c87cc32fe",
+    "stream": "legislation",
+    "identifier": "HB 25-1137",
+    "title": "Adopt a Shelter Pet Account Community Cats",
+    "session": "2025A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2025A/HB25-1137/",
+    "sources": [],
+    "search_term": "shelter",
+    "first_seen": "2026-06-13"
+  },
+  {
+    "id": "ocd-bill/cfd736af-4107-4e2b-9a64-0a47f4a30266",
+    "stream": "legislation",
+    "identifier": "HB 1328",
+    "title": "Medicaid Nonemergency Medical Transportation",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance",
+      "Human Services"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1328/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-06-13"
+  },
+  {
+    "id": "ocd-bill/378d65e5-a78f-4ea0-81df-60372e70ef28",
+    "stream": "legislation",
+    "identifier": "HB 1345",
+    "title": "Higher Education Funding Allocation Model Changes",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Higher Education"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1345/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-06-13"
+  },
+  {
+    "id": "ocd-bill/44c3eefc-c4e0-4451-8fcc-bb319a124544",
+    "stream": "legislation",
+    "identifier": "HB 1399",
+    "title": "Eliminate General Fund Transfer to Multimodal Transportation Fund",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "State Government",
+      "State Revenue & Budget",
+      "Transportation & Motor Vehicles"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1399/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-06-13"
+  },
+  {
+    "id": "ocd-bill/9132ccf3-ade4-4a53-bde1-5e4dd8eb8cb4",
+    "stream": "legislation",
+    "identifier": "HB 1409",
+    "title": "Marijuana Tax Cash Fund Distributions",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes",
+      "Liquor, Tobacco, & Marijuana",
+      "Local Government",
+      "State Government",
+      "State Revenue & Budget"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1409/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-06-13"
+  },
+  {
+    "id": "ocd-bill/91dd4455-5b6e-48f5-bf03-5325dfd371a1",
+    "stream": "legislation",
+    "identifier": "HB 1428",
+    "title": "Administration of Publicly Funded Education Programs",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Education & School Finance (Pre & K-12)"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1428/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-06-13"
+  },
+  {
+    "id": "ocd-bill/387ac9d7-47ae-4803-8281-3a66df4157e6",
+    "stream": "legislation",
+    "identifier": "HB 1380",
+    "title": "Repeal Office of Judicial Discipline Ombudsman",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Courts & Judicial"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1380/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-06-13"
+  },
+  {
+    "id": "ocd-bill/87b1ca13-d6eb-41d8-924a-47ce510bba36",
+    "stream": "legislation",
+    "identifier": "HB 1363",
+    "title": "Temporarily Reduce General Fund Reserve",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "State Revenue & Budget"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1363/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-06-13"
+  },
+  {
+    "id": "ocd-bill/c80fae8f-636e-4c26-833d-d9e145855d4d",
+    "stream": "legislation",
+    "identifier": "HB 1298",
+    "title": "Background Checks for Child Welfare Placements",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Children & Domestic Matters"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1298/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-06-13"
+  },
+  {
+    "id": "ocd-bill/802366a2-abe4-4029-b73e-8c513f1fc124",
+    "stream": "legislation",
+    "identifier": "HB 1412",
+    "title": "Department of Health Care Policy & Financing Statistical Sampling & Extrapolation",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1412/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-06-13"
+  },
+  {
+    "id": "ocd-bill/13684803-2828-40ee-b05f-4ba8d0a66e86",
+    "stream": "legislation",
+    "identifier": "HB 1420",
+    "title": "Wind Energy Facilities Light-Mitigating Technology",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Energy"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1420/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-06-13"
+  },
+  {
+    "id": "ocd-bill/f31d09fd-8180-4fde-a3dd-d8966d20b4bd",
+    "stream": "legislation",
+    "identifier": "HB 1405",
+    "title": "Cash Fund Transfers to General Fund",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "State Revenue & Budget"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1405/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-06-13"
+  },
+  {
+    "id": "ocd-bill/343f1436-df45-44e3-97ea-dae2ccfe0b0f",
+    "stream": "legislation",
+    "identifier": "HB 1226",
+    "title": "Manage Emissions from Electric Generating Units",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Energy"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1226/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-06-13"
+  },
+  {
+    "id": "ocd-bill/be7b7262-e4f4-4364-acce-bcf2fcf0e5fb",
+    "stream": "legislation",
+    "identifier": "HB 1343",
+    "title": "Electronic Process in Competency & Administrative Hearings",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Courts & Judicial",
+      "Human Services",
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1343/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-06-13"
+  },
+  {
+    "id": "ocd-bill/ee6a21d0-d3ae-4ccb-9a61-034522b7a08d",
+    "stream": "legislation",
+    "identifier": "HB 1287",
+    "title": "Sunset Division of Real Estate",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Professions & Occupations"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1287/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-06-13"
+  },
+  {
+    "id": "ocd-bill/cc7a920f-7dff-4669-bb2b-d8bd5915e5be",
+    "stream": "legislation",
+    "identifier": "HB 1252",
+    "title": "Updates to State Emergency Response Departments & Divisions",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1252/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-06-13"
+  },
+  {
     "id": "ocd-bill/1b9e1f76-4a77-4a1f-8c59-879f3cb5fa2e",
     "stream": "legislation",
     "identifier": "HB 25-1293",

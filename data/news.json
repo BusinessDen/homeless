@@ -1,5 +1,27 @@
 [
   {
+    "id": "b7cc915c9aed",
+    "stream": "news",
+    "source": "cpr",
+    "source_name": "CPR News",
+    "title": "As the USMNT prepares to co-host the 2026 World Cup, Marcelo Balboa reflects on his own journey",
+    "url": "https://www.cpr.org/2026/06/12/marcelo-balboa-2026-world-cup-soccer/",
+    "published": "Sat, 13 Jun 2026 00:35:47 +0000",
+    "summary": "Balboa played in the three World Cups for the USMNT.",
+    "first_seen": "2026-06-13"
+  },
+  {
+    "id": "c8fc974cb601",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Who is performing at the World Cup USA opening ceremony?",
+    "url": "https://www.9news.com/article/sports/soccer/world-cup/who-is-performing-world-cup-usa-opening-ceremony/507-45c19c5f-4430-4889-b7ad-f2ee7140e00e",
+    "published": "Fri, 12 Jun 2026 22:19:06 GMT",
+    "summary": "The U.S. is the last of the three host nations to have a star-studded opening ceremony.",
+    "first_seen": "2026-06-13"
+  },
+  {
     "id": "3479a1f99034",
     "stream": "news",
     "source": "businessden",
