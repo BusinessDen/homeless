@@ -1,5 +1,27 @@
 [
   {
+    "id": "babed6641ae0",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "This Texas master gardener was once homeless. Now, he grows free food for his community.",
+    "url": "https://www.9news.com/article/news/nation-world/fort-worth-texas-master-gardener-community-garden/507-f7d7ce76-a877-43e2-afc4-857d86102643",
+    "published": "Sat, 13 Jun 2026 15:59:25 GMT",
+    "summary": "\"This is the community\u2019s garden. They can walk up, hey man, interested in anything? Help yourself,\" Ahmad Houston said.",
+    "first_seen": "2026-06-14"
+  },
+  {
+    "id": "97c96100d94a",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "'They just didn't have enough time': Pastor tried to evacuate before deadly tent collapse in Virginia",
+    "url": "https://www.9news.com/article/news/nation-world/deadly-tent-collapse-outdoor-church-event-virginia/507-16a41e4a-5bdd-498e-a734-959b0eea993b",
+    "published": "Sat, 13 Jun 2026 12:23:55 GMT",
+    "summary": "According to local fire officials, the pastor was attempting to evacuate attendees of the outdoor church service just before the tent collapsed.",
+    "first_seen": "2026-06-14"
+  },
+  {
     "id": "b7cc915c9aed",
     "stream": "news",
     "source": "cpr",
