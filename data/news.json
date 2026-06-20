@@ -1,5 +1,38 @@
 [
   {
+    "id": "aa70f85bd8fd",
+    "stream": "news",
+    "source": "denverite",
+    "source_name": "Denverite",
+    "title": "Aurora\u2019s mayor sleeps in the city\u2019s homeless shelter. It \u2018shifted\u2019 his view",
+    "url": "https://denverite.com/2026/06/18/aurora-mayor-mike-coffman-sleeping-in-homeless-shelter/",
+    "published": "Thu, 18 Jun 2026 22:07:33 +0000",
+    "summary": "For five months, Mike Coffman has spent Friday nights at the Aurora Regional Navigation Center.",
+    "first_seen": "2026-06-20"
+  },
+  {
+    "id": "5e837961b986",
+    "stream": "news",
+    "source": "denverite",
+    "source_name": "Denverite",
+    "title": "Old La Quinta\u2019s falling down, falling down, falling down",
+    "url": "https://denverite.com/2026/06/17/la-quinta-hotel-demolition-north-denver/",
+    "published": "Wed, 17 Jun 2026 10:00:00 +0000",
+    "summary": "Housing for people recovering from homelessness will take over the old hotel (and  flapjack joint) space.",
+    "first_seen": "2026-06-20"
+  },
+  {
+    "id": "5bf0b98d498c",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "'The Traitors: New Blood' sets premiere date for all-civilian series",
+    "url": "https://www.9news.com/article/news/nation-world/the-traitors-new-blood-sets-premiere-date-for-all-civilian-series/507-7b2017fb-b0e1-487f-8401-29b9987152e0",
+    "published": "Fri, 19 Jun 2026 14:34:11 GMT",
+    "summary": "Instead of celebrities, 'Traitors' host Alan Cumming will open the doors to his Scottish castle to 22 everyday Americans.",
+    "first_seen": "2026-06-20"
+  },
+  {
     "id": "babed6641ae0",
     "stream": "news",
     "source": "9news",
