@@ -1,5 +1,27 @@
 [
   {
+    "id": "a71a2ce88e8b",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Former 'Top Gear' host Jeremy Clarkson urges early testing after prostate cancer diagnosis",
+    "url": "https://www.9news.com/article/news/nation-world/jeremy-clarkson-prostate-cancer-diagnosis-testing-announcement/507-01ffc2ca-1a44-49be-aa30-503fa272bbe0",
+    "published": "Sun, 21 Jun 2026 01:49:11 GMT",
+    "summary": "Jeremy Clarkson revealed early testing helped diagnose him with an \"aggressive\" prostate cancer he was able to battle. Now he's urging people get tested.",
+    "first_seen": "2026-06-21"
+  },
+  {
+    "id": "611a6955ed6d",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Why do sports stadiums have different names for the World Cup? Here's the reason",
+    "url": "https://www.9news.com/article/sports/soccer/world-cup/fifa-world-cup-stadiums-different-names/507-e670a9ef-1df7-4170-88ab-1fbd4fac03ed",
+    "published": "Sat, 20 Jun 2026 14:05:32 GMT",
+    "summary": "FIFA requires host venues to remove non-tournament branding and corporate sponsorships during World Cup matches.",
+    "first_seen": "2026-06-21"
+  },
+  {
     "id": "aa70f85bd8fd",
     "stream": "news",
     "source": "denverite",
