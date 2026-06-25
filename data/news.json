@@ -1,5 +1,27 @@
 [
   {
+    "id": "35f291963cbc",
+    "stream": "news",
+    "source": "denverite",
+    "source_name": "Denverite",
+    "title": "Aurora homeless shelter guests say they\u2019re paid below minimum wage for janitorial work",
+    "url": "https://denverite.com/2026/06/25/aurora-homeless-shelter-below-minimum-wage/",
+    "published": "Thu, 25 Jun 2026 10:00:00 +0000",
+    "summary": "The nonprofit says it\u2019s an \u201cincentive,\u201d while the state is investigating a complaint.",
+    "first_seen": "2026-06-25"
+  },
+  {
+    "id": "1721ee5341f7",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Colorado women's group packs 1,000 purses for unhoused women and domestic violence survivors",
+    "url": "https://www.9news.com/article/news/local/colorado-group-packs-purses-for-unhoused-women-domestic-violence-survivors/73-074ac434-78da-4f2a-a12e-f8cecdde1461",
+    "published": "Thu, 25 Jun 2026 00:27:23 GMT",
+    "summary": "The completed packages will reach women at 27 different organizations, including homeless shelters, domestic violence centers and drop-in day centers.",
+    "first_seen": "2026-06-25"
+  },
+  {
     "id": "a71a2ce88e8b",
     "stream": "news",
     "source": "9news",
