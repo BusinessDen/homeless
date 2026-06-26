@@ -1,5 +1,16 @@
 [
   {
+    "id": "9d5471d63fa6",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Canada will be first World Cup host to play game outside its borders",
+    "url": "https://www.9news.com/article/sports/soccer/world-cup/canada-first-world-cup-host-play-game-outside-borders/507-0c7fda71-960d-4553-993d-f45a5e1be269",
+    "published": "Thu, 25 Jun 2026 22:22:19 GMT",
+    "summary": "The two other co-hosts for the 2026 World Cup, the United States and Mexico, both won their groups and stay within their borders for the next round.",
+    "first_seen": "2026-06-26"
+  },
+  {
     "id": "35f291963cbc",
     "stream": "news",
     "source": "denverite",

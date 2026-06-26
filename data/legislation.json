@@ -1,5 +1,59 @@
 [
   {
+    "id": "ocd-bill/470be097-09dc-4eb8-9c9b-422dd22a0321",
+    "stream": "legislation",
+    "identifier": "HB 24-1255",
+    "title": "Sunset Advisory Council Parent Involvement in Education",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/HB24-1255/",
+    "sources": [],
+    "search_term": "navigation center",
+    "first_seen": "2026-06-26"
+  },
+  {
+    "id": "ocd-bill/36a36825-8aa5-4818-9fab-015cf87f3c3e",
+    "stream": "legislation",
+    "identifier": "SJR 24-012",
+    "title": "Colorado Aerospace Day",
+    "session": "2024A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2024A/SJR24-012/",
+    "sources": [],
+    "search_term": "navigation center",
+    "first_seen": "2026-06-26"
+  },
+  {
+    "id": "ocd-bill/f27e8f15-9c3b-465d-8d99-2bf297ca63b2",
+    "stream": "legislation",
+    "identifier": "HB 18-1074",
+    "title": "Deadly Force Against Intruder At A Business",
+    "session": "2018A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2018A/HB18-1074/",
+    "sources": [],
+    "search_term": "trespass",
+    "first_seen": "2026-06-26"
+  },
+  {
     "id": "ocd-bill/12c62b52-584d-42c2-8d8b-9cecb1a1e9af",
     "stream": "legislation",
     "identifier": "HB 1274",
