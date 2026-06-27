@@ -1,5 +1,48 @@
 [
   {
+    "id": "ocd-bill/55c3a0a8-e630-4959-bb01-86a3bf2775e0",
+    "stream": "legislation",
+    "identifier": "HB 1044",
+    "title": "Measures to Improve Black Maternal Health Equity",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Health Care & Health Insurance",
+      "Professions & Occupations",
+      "Public Health"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1044/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-06-27"
+  },
+  {
+    "id": "ocd-bill/b26bc76a-dfa3-4478-b5b7-f9af4de499ea",
+    "stream": "legislation",
+    "identifier": "SB 101",
+    "title": "Local Government Landfill Methane Emission Reduction Regulations",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Natural Resources & Environment",
+      "Public Health"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB101/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-06-27"
+  },
+  {
     "id": "ocd-bill/470be097-09dc-4eb8-9c9b-422dd22a0321",
     "stream": "legislation",
     "identifier": "HB 24-1255",
