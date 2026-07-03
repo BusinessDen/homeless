@@ -1,1405 +1,5 @@
 [
   {
-    "id": "usa-H8000040",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "H8000040",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 72019205.0,
-    "description": "HEALTH CENTER CLUSTER",
-    "start_date": "2001-11-01",
-    "end_date": "2026-12-31",
-    "agency": "Department of Health and Human Services",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-AA385192255A8",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "AA385192255A8",
-    "recipient": "COLORADO DEPARTMENT OF LABOR AND EMPLOYMENT",
-    "amount": 42199874.0,
-    "description": "AWARD PURPOSE\nTHE PURPOSE OF THE WIOA YOUTH GRANTS IS TO PROVIDE RESOURCES FOR LOCAL WORKFORCE DEVELOPMENT AREAS TO DELIVER COMPREHENSIVE YOUTH SERVICES THAT FOCUS ON ASSISTING OUT-OF- SCHOOL YOUTH AND IN-SCHOOL YOUTH, WITH ONE OR MORE BARRIERS TO EMPLOYMENT, PREPARE FOR EMPLOYMENT AND POSTSECONDARY",
-    "start_date": "2022-04-01",
-    "end_date": "2025-06-30",
-    "agency": "Department of Labor",
-    "award_type": "FORMULA GRANT (A)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-E-20-DW-08-0001",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "E-20-DW-08-0001",
-    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
-    "amount": 33435476.96,
-    "description": "EMERGENCY SOLUTIONS GRANT PROGRAM",
-    "start_date": "2020-06-08",
-    "end_date": "2022-06-08",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "FORMULA GRANT (A)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-2020-ZZ-092-25",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "2020-ZZ-092-25",
-    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
-    "amount": 11611102.0,
-    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
-    "start_date": null,
-    "end_date": "2025-09-30",
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-20-ZZ-092-26",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "20-ZZ-092-26",
-    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
-    "amount": 11611102.0,
-    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
-    "start_date": "2025-09-30",
-    "end_date": "2026-09-30",
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-E-20-MW-08-0005",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "E-20-MW-08-0005",
-    "recipient": "DENVER, CITY & COUNTY OF",
-    "amount": 11101623.0,
-    "description": "EMERGENCY SOLUTIONS GRANT PROGRAM",
-    "start_date": "2020-06-10",
-    "end_date": "2022-06-10",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "FORMULA GRANT (A)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0043L8T032518",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0043L8T032518",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 9967008.0,
-    "description": "PURPOSE: THE CONTINUUM OF CARE (COC) PROGRAM IS DESIGNED TO PROMOTE COMMUNITY-WIDE COMMITMENT TO THE GOAL OF ENDING HOMELESSNESS; PROVIDE FUNDING FOR EFFORTS BY NONPROFIT PROVIDERS, STATES, AND LOCAL GOVERNMENTS TO QUICKLY HOUSE HOMELESS INDIVIDUALS AND FAMILIES WHILE MINIMIZING THE TRAUMA AND DISLO",
-    "start_date": "2026-05-01",
-    "end_date": "2027-04-30",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0043L8T032417",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0043L8T032417",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 9728112.0,
-    "description": "PURPOSE: THE CONTINUUM OF CARE (COC) PROGRAM IS DESIGNED TO PROMOTE COMMUNITY-WIDE COMMITMENT TO THE GOAL OF ENDING HOMELESSNESS; PROVIDE FUNDING FOR EFFORTS BY NONPROFIT PROVIDERS, STATES, AND LOCAL GOVERNMENTS TO QUICKLY HOUSE HOMELESS INDIVIDUALS AND FAMILIES WHILE MINIMIZING THE TRAUMA AND DISLO",
-    "start_date": "2025-05-01",
-    "end_date": "2026-04-30",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-2020-CO-020-26",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "2020-CO-020-26",
-    "recipient": "ROCKY MOUNTAIN HUMAN SERVICES",
-    "amount": 9625268.0,
-    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
-    "start_date": "2025-10-01",
-    "end_date": "2026-09-30",
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-2020-CO-020-25",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "2020-CO-020-25",
-    "recipient": "ROCKY MOUNTAIN HUMAN SERVICES",
-    "amount": 9625268.0,
-    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
-    "start_date": null,
-    "end_date": null,
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0042L8T032417",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0042L8T032417",
-    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
-    "amount": 9125802.0,
-    "description": "PURPOSE: THE CONTINUUM OF CARE (COC) PROGRAM IS DESIGNED TO PROMOTE COMMUNITY-WIDE COMMITMENT TO THE GOAL OF ENDING HOMELESSNESS; PROVIDE FUNDING FOR EFFORTS BY NONPROFIT PROVIDERS, STATES, AND LOCAL GOVERNMENTS TO QUICKLY HOUSE HOMELESS INDIVIDUALS AND FAMILIES WHILE MINIMIZING THE TRAUMA AND DISLO",
-    "start_date": "2025-08-01",
-    "end_date": "2026-07-31",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-20-ZZ-092-22",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "20-ZZ-092-22",
-    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
-    "amount": 9112869.46,
-    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
-    "start_date": null,
-    "end_date": null,
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-20-ZZ-092-24",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "20-ZZ-092-24",
-    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
-    "amount": 9091102.0,
-    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
-    "start_date": null,
-    "end_date": "2025-09-30",
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0043L8T032316",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0043L8T032316",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 8690668.0,
-    "description": "CONTINUUM OF CARE PROGRAM",
-    "start_date": "2024-05-01",
-    "end_date": "2025-04-30",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-20-CO-020-24",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "20-CO-020-24",
-    "recipient": "ROCKY MOUNTAIN HUMAN SERVICES",
-    "amount": 8275268.0,
-    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
-    "start_date": null,
-    "end_date": null,
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-20-ZZ-092-21",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "20-ZZ-092-21",
-    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
-    "amount": 8200063.0,
-    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
-    "start_date": "2020-10-01",
-    "end_date": null,
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0043L8T032215",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0043L8T032215",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 8130844.0,
-    "description": "CONTINUUM OF CARE PROGRAM",
-    "start_date": "2023-05-01",
-    "end_date": "2024-04-30",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0043L8T032114",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0043L8T032114",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 8116915.62,
-    "description": "CONTINUUM OF CARE PROGRAM",
-    "start_date": "2022-05-01",
-    "end_date": "2023-04-30",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0043L8T032013",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0043L8T032013",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 8081986.0,
-    "description": "CONTINUUM OF CARE PROGRAM",
-    "start_date": "2021-05-01",
-    "end_date": "2022-04-30",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0042L8T032316",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0042L8T032316",
-    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
-    "amount": 8081007.0,
-    "description": "CONTINUUM OF CARE PROGRAM",
-    "start_date": "2024-08-01",
-    "end_date": "2025-07-31",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-S425W210006",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "S425W210006",
-    "recipient": "BOARD OF EDUCATION COLORADO",
-    "amount": 7643776.0,
-    "description": "AMERICAN RESCUE PLAN ELEMENTARY AND SECONDARY SCHOOLS EMERGENCY RELIEF FUND \u2013 HOMELESS CHILDREN AND YOUTH (ARP-HCY)",
-    "start_date": "2021-04-23",
-    "end_date": "2023-09-30",
-    "agency": "Department of Education",
-    "award_type": "FORMULA GRANT (A)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0043L8T031912",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0043L8T031912",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 7624956.0,
-    "description": "CONTINUUM OF CARE PROGRAM",
-    "start_date": "2020-04-01",
-    "end_date": "2021-04-30",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0042L8T032215",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0042L8T032215",
-    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
-    "amount": 7384983.0,
-    "description": "CONTINUUM OF CARE PROGRAM",
-    "start_date": "2023-08-01",
-    "end_date": "2024-07-31",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-20-CO-020-21",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "20-CO-020-21",
-    "recipient": "ROCKY MOUNTAIN HUMAN SERVICES",
-    "amount": 7304992.0,
-    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
-    "start_date": "2020-10-01",
-    "end_date": null,
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0042L8T032114",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0042L8T032114",
-    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
-    "amount": 7174573.08,
-    "description": "CONTINUUM OF CARE PROGRAM",
-    "start_date": "2022-08-01",
-    "end_date": "2023-07-31",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0042L8T032013",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0042L8T032013",
-    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
-    "amount": 7113249.54,
-    "description": "CONTINUUM OF CARE PROGRAM",
-    "start_date": "2021-08-01",
-    "end_date": "2022-07-31",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0042L8T031912",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0042L8T031912",
-    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
-    "amount": 6864962.42,
-    "description": "CONTINUUM OF CARE PROGRAM",
-    "start_date": "2020-08-01",
-    "end_date": "2021-07-31",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0042L8T031811",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0042L8T031811",
-    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
-    "amount": 6603081.93,
-    "description": "CONTINUUM OF CARE PROGRAM",
-    "start_date": "2019-07-01",
-    "end_date": "2020-07-31",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-20-ZZ-092-23",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "20-ZZ-092-23",
-    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
-    "amount": 6318967.0,
-    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
-    "start_date": null,
-    "end_date": null,
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-20-ZZ-092-C2",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "20-ZZ-092-C2",
-    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
-    "amount": 6088816.0,
-    "description": "CARES 2.0 FUNDING FOR COVID19.  THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELES",
-    "start_date": "2020-04-01",
-    "end_date": "2021-09-30",
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0165L8T032405",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0165L8T032405",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 6051250.0,
-    "description": "PURPOSE: THE CONTINUUM OF CARE (COC) PROGRAM IS DESIGNED TO PROMOTE COMMUNITY-WIDE COMMITMENT TO THE GOAL OF ENDING HOMELESSNESS; PROVIDE FUNDING FOR EFFORTS BY NONPROFIT PROVIDERS, STATES, AND LOCAL GOVERNMENTS TO QUICKLY HOUSE HOMELESS INDIVIDUALS AND FAMILIES WHILE MINIMIZING THE TRAUMA AND DISLO",
-    "start_date": "2025-04-01",
-    "end_date": "2026-03-31",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-E-20-MW-08-0004",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "E-20-MW-08-0004",
-    "recipient": "COLORADO SPRINGS CITY GOVERNMENT",
-    "amount": 5984403.0,
-    "description": "EMERGENCY SOLUTIONS GRANT PROGRAM",
-    "start_date": "2020-10-30",
-    "end_date": "2022-10-30",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "FORMULA GRANT (A)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-20-ZZ-092-20",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "20-ZZ-092-20",
-    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
-    "amount": 5937959.36,
-    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
-    "start_date": "2019-10-01",
-    "end_date": "2020-09-30",
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-20-CO-020-23",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "20-CO-020-23",
-    "recipient": "ROCKY MOUNTAIN HUMAN SERVICES",
-    "amount": 5503547.0,
-    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
-    "start_date": null,
-    "end_date": null,
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0165L8T032304",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0165L8T032304",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 5385223.0,
-    "description": "CONTINUUM OF CARE PROGRAM",
-    "start_date": "2024-04-01",
-    "end_date": "2025-03-31",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-20-ZZ-092-SS",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "20-ZZ-092-SS",
-    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
-    "amount": 5140431.0,
-    "description": "THE SSVF PROGRAM\u2019S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
-    "start_date": "2021-09-01",
-    "end_date": "2023-09-30",
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-E-20-MW-08-0002",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "E-20-MW-08-0002",
-    "recipient": "CITY OF AURORA COLORADO",
-    "amount": 5036194.0,
-    "description": "EMERGENCY SOLUTIONS GRANT PROGRAM",
-    "start_date": "2020-07-08",
-    "end_date": "2022-07-08",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "FORMULA GRANT (A)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0165L8T032203",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0165L8T032203",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 5002075.0,
-    "description": "CONTINUUM OF CARE PROGRAM",
-    "start_date": "2023-04-01",
-    "end_date": "2024-03-31",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0165L8T032102",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0165L8T032102",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 5002075.0,
-    "description": "CONTINUUM OF CARE PROGRAM",
-    "start_date": "2022-04-01",
-    "end_date": "2023-03-31",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-H79SM084877",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "H79SM084877",
-    "recipient": "DENVER DEPT. OF PUBLIC HEALTH AND ENVIRO",
-    "amount": 5000000.0,
-    "description": "THE DENVER RECAST (RESILIENCY IN COMMUNITIES AFTER STRESS AND TRAUMA) PROGRAM - THE DENVER RECAST PROGRAM WILL SERVE 13,170 AT-RISK YOUTH AND THEIR FAMILIES OVER THE 5-YEAR GRANT PERIOD. THE PROGRAM BUILDS ON DENVER'S ASSETS TO INTEGRATE BEHAVIORAL HEALTH SERVICES WITH EFFORTS TO ADDRESS SOCIAL DETE",
-    "start_date": "2021-09-30",
-    "end_date": "2026-09-29",
-    "agency": "Department of Health and Human Services",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-20-CO-020-20",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "20-CO-020-20",
-    "recipient": "ROCKY MOUNTAIN HUMAN SERVICES",
-    "amount": 4916709.0,
-    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
-    "start_date": "2019-10-01",
-    "end_date": "2020-09-30",
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0165L8T032001",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0165L8T032001",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 4875266.0,
-    "description": "CONTINUUM OF CARE PROGRAM",
-    "start_date": "2021-04-01",
-    "end_date": "2022-03-31",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-20-ZZ-113-SS",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "20-ZZ-113-SS",
-    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
-    "amount": 4833558.0,
-    "description": "THE SSVF PROGRAM\u2019S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
-    "start_date": "2021-09-01",
-    "end_date": "2023-09-30",
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0165T8T031900",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0165T8T031900",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 4704830.0,
-    "description": "CONTINUUM OF CARE PROGRAM",
-    "start_date": "2020-04-01",
-    "end_date": "2021-03-31",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-NU51PS005144",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "NU51PS005144",
-    "recipient": "COLORADO DEPARTMENT OF PUBLIC HEALTH & ENVIRONMENT",
-    "amount": 4584348.0,
-    "description": "INTEGRATED VIRAL HEPATITIS SURVEILLANCE AND PREVENTION FUNDING FOR HEALTH DEPARTMENTS - INTRODUCTION - THE COLORADO DEPARTMENT OF PUBLIC HEALTH AND ENVIRONMENT (CDPHE) HAS ALONGSTANDING HISTORY OF COLLABORATING WITH THE CENTERS FOR DISEASE CONTROL AND PREVENTION (CDC)AND OTHER FUNDERS TO PROVIDE VIR",
-    "start_date": "2021-05-01",
-    "end_date": "2027-04-30",
-    "agency": "Department of Health and Human Services",
-    "award_type": "COOPERATIVE AGREEMENT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-20-CO-020-C2",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "20-CO-020-C2",
-    "recipient": "ROCKY MOUNTAIN HUMAN SERVICES",
-    "amount": 4339517.0,
-    "description": "CARES 2.0 FUNDING FOR COVID19.  THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELES",
-    "start_date": "2020-04-01",
-    "end_date": "2021-09-30",
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-COCH575-1483-554-PD-21",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "COCH575-1483-554-PD-21",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 4304549.09,
-    "description": "VA IS PROVIDING PER DIEM FUNDING TO ASSIST WITH THE OPERATIONAL COSTS ASSOCIATED WITH TRANSITIONAL HOUSING BEDS FOR HOMELESS VETERANS.",
-    "start_date": null,
-    "end_date": null,
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0031L8T031710",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0031L8T031710",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 4253732.0,
-    "description": "CONTINUUM OF CARE PROGRAM",
-    "start_date": "2018-04-01",
-    "end_date": "2019-03-31",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-B-24-CP-CO-0430",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "B-24-CP-CO-0430",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 4116279.0,
-    "description": "PURPOSE: ECONOMIC DEVELOPMENT INITIATIVE, COMMUNITY PROJECT FUNDING/CONGRESSIONAL DIRECTED SPENDING AWARDS ARE AUTHORIZED UNDER THE CONSOLIDATED APPROPRIATIONS ACT, 2022 PUBLIC LAW 117-328 AND THE EXPLANATORY STATEMENT FOR DIVISION L OF THAT ACT. PROJECTS SELECTED FOR COMMUNITY PROJECT FUNDING/CONGR",
-    "start_date": "2024-08-13",
-    "end_date": "2032-08-31",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-COH25F001",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "COH25F001",
-    "recipient": "DENVER, CITY & COUNTY OF",
-    "amount": 4056107.0,
-    "description": "PURPOSE: THE HOUSING OPPORTUNITIES FOR PERSONS WITH AIDS (HOPWA) PROGRAM WAS AUTHORIZED THROUGH THE AIDS HOUSING OPPORTUNITY ACT (42 USC CH. 131) AND CREATED TO ADDRESS THE HOUSING NEEDS OF LOW-INCOME INDIVIDUALS WITH HIV/AIDS AND THEIR FAMILIES. THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HUD)",
-    "start_date": "2026-01-29",
-    "end_date": "2029-01-28",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "FORMULA GRANT (A)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-COH24F001",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "COH24F001",
-    "recipient": "DENVER, CITY & COUNTY OF",
-    "amount": 4053292.0,
-    "description": "PURPOSE: THE HOUSING OPPORTUNITIES FOR PERSONS WITH AIDS (HOPWA) PROGRAM WAS AUTHORIZED THROUGH THE AIDS HOUSING OPPORTUNITY ACT (42 USC CH. 131) AND CREATED TO ADDRESS THE HOUSING NEEDS OF LOW-INCOME INDIVIDUALS WITH HIV/AIDS AND THEIR FAMILIES. THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HUD)",
-    "start_date": "2024-12-09",
-    "end_date": "2027-12-08",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "FORMULA GRANT (A)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-COH23F001",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "COH23F001",
-    "recipient": "DENVER, CITY & COUNTY OF",
-    "amount": 4036662.0,
-    "description": "PURPOSE: THE HOUSING OPPORTUNITIES FOR PERSONS WITH AIDS (HOPWA) PROGRAM WAS AUTHORIZED THROUGH THE AIDS HOUSING OPPORTUNITY ACT (42 USC CH. 131) AND CREATED TO ADDRESS THE HOUSING NEEDS OF LOW-INCOME INDIVIDUALS WITH HIV/AIDS AND THEIR FAMILIES. THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HUD)",
-    "start_date": "2023-11-01",
-    "end_date": "2026-10-31",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "FORMULA GRANT (A)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-B-23-CP-CO-0291",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "B-23-CP-CO-0291",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 4000000.0,
-    "description": "ECONOMIC DEVELOPMENT INITIATIVE, COMMUNITY PROJECT FUNDING, AND MISCELLANEOUS GRANTS",
-    "start_date": "2023-02-17",
-    "end_date": "2031-08-31",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-H79SM087004",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "H79SM087004",
-    "recipient": "AURORA COMPREHENSIVE COMMUNITY MENTAL HEALTH CENTER, INC.",
-    "amount": 3999866.0,
-    "description": "AUMHC CCBHC-IA - PROJECT NAME AND SUMMARY: AURORA COMPREHENSIVE COMMUNITY MENTAL HEALTH CENTER, D/B/A AURORA MENTAL HEALTH CENTER (AUMHC) WILL IMPROVE AND ADVANCE OUR CERTIFIED COMMUNITY BEHAVIORAL HEALTH CLINIC THROUGH ENHANCING CLIENT EXPERIENCE OF CARE, DEVELOPING CLINICAL CAPACITY IN TRAUMA-FOCU",
-    "start_date": "2022-09-30",
-    "end_date": "2026-09-29",
-    "agency": "Department of Health and Human Services",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0042L8T031710",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0042L8T031710",
-    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
-    "amount": 3668138.17,
-    "description": "CONTINUUM OF CARE PROGRAM",
-    "start_date": "2018-07-01",
-    "end_date": "2019-06-30",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-20-CO-020-SS",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "20-CO-020-SS",
-    "recipient": "ROCKY MOUNTAIN HUMAN SERVICES",
-    "amount": 3663600.0,
-    "description": "THE SSVF PROGRAM\u2019S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
-    "start_date": "2021-09-01",
-    "end_date": "2023-09-30",
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-25555DV000141",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "25555DV000141",
-    "recipient": "COLORADO DEPARTMENT OF LABOR AND EMPLOYMENT",
-    "amount": 3569968.0,
-    "description": "THE JVSG PROGRAM SUPPORTS THE DISABLED VETERANS OUTREACH PROGRAM (DVOP) SPECIALIST POSITION, LOCAL VETERANS EMPLOYMENT REPRESENTATIVE (LVER) STAFF, AND CONSOLIDATED POSITION STAFF IN AMERICAN JOB CENTERS (AJCS) ACROSS THE COUNTRY.DVOP SPECIALISTS PROVIDE INDIVIDUALIZED CAREER SERVICES TO VETERANS WI",
-    "start_date": "2024-10-01",
-    "end_date": "2026-12-31",
-    "agency": "Department of Labor",
-    "award_type": "FORMULA GRANT (A)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-H79SM080915",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "H79SM080915",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 3428707.0,
-    "description": "CCH ACT PROJECT",
-    "start_date": "2018-09-30",
-    "end_date": "2023-09-29",
-    "agency": "Department of Health and Human Services",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-23555DV000011",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "23555DV000011",
-    "recipient": "COLORADO DEPARTMENT OF LABOR AND EMPLOYMENT",
-    "amount": 3304715.0,
-    "description": "THE   JVSG PROGRAM SUPPORTS THE DISABLED VETERANS  OUTREACH PROGRAM (DVOP)   SPECIALIST POSITION, LOCAL VETERANS  EMPLOYMENT REPRESENTATIVE (LVER) STAFF,   AND CONSOLIDATED POSITION STAFF IN AMERICAN JOB CENTERS (AJCS) ACROSS THE   COUNTRY.  DVOP SPECIALISTS PROVIDE INDIVIDUALIZED CAREER SERVICES TO",
-    "start_date": "2022-10-01",
-    "end_date": "2024-12-31",
-    "agency": "Department of Labor",
-    "award_type": "FORMULA GRANT (A)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-COCH575-3384-554-PD-24",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "COCH575-3384-554-PD-24",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 3286113.71,
-    "description": "VA IS PROVIDING PER DIEM FUNDING TO ASSIST WITH THE OPERATIONAL COSTS ASSOCIATED WITH TRANSITIONAL HOUSING BEDS FOR HOMELESS VETERANS.",
-    "start_date": null,
-    "end_date": "2025-09-30",
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-H8F40618",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "H8F40618",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 3254500.0,
-    "description": "AMERICAN RESCUE PLAN ACT FUNDING FOR HEALTH CENTERS",
-    "start_date": "2021-04-01",
-    "end_date": "2023-03-31",
-    "agency": "Department of Health and Human Services",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-H79SM086737",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "H79SM086737",
-    "recipient": "WEST CENTRAL MENTAL HEALTH CENTER INC",
-    "amount": 2990252.0,
-    "description": "JOURNEY TO CCBHC: INCREASING YOUTH BEHAVIORAL HEALTH ACCESS - SOLVISTA HEALTH WILL ADDRESS BEHAVIORAL HEALTH DISPARITIES FOR YOUTHS AGES 12-21 LIVING IN OUR RURAL AND FRONTIER CATCHMENT AREA WHOSE FAMILY INCOMES ARE AT OR BELOW 265% OF THE FEDERAL POVERTY LEVEL. BY FULLY IMPLEMENTING CCBHC, SOLVISTA",
-    "start_date": "2022-09-30",
-    "end_date": "2026-09-29",
-    "agency": "Department of Health and Human Services",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-U8645859",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "U8645859",
-    "recipient": "COLORADO COMMUNITY MANAGED CARE NETWORK",
-    "amount": 2952451.0,
-    "description": "HEALTH CENTER CONTROLLED NETWORK - PROJECT TITLE: INTEGRATING COMMUNITY RESOURCES AND HEALTH INFORMATION TECHNOLOGY FOR IMPROVED PATIENT OUTCOMES APPLICANT ORGANIZATION NAME: COLORADO COMMUNITY MANAGED CARE NETWORK (CCMCN) ADDRESS: 1212 S BROADWAY, SUITE 200, DENVER, CO 80210-1583 PROJECT DIRECTOR N",
-    "start_date": "2022-08-01",
-    "end_date": "2028-07-31",
-    "agency": "Department of Health and Human Services",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-20-CO-020-22",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "20-CO-020-22",
-    "recipient": "ROCKY MOUNTAIN HUMAN SERVICES",
-    "amount": 2911431.0,
-    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
-    "start_date": null,
-    "end_date": null,
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-23A60MI000006",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "23A60MI000006",
-    "recipient": "COLORADO DEPARTMENT OF LABOR AND EMPLOYMENT",
-    "amount": 2900000.0,
-    "description": "APPLICANT: COLORADO DEPARTMENT OF LABOR AND EMPLOYMENT (CDLE)PROJECT TITLE: COLORADO WDQI PROJECT - PHASE 2PROJECT PURPOSE: EXPAND COLORADOS STATE WORKFORCE LONGITUDINAL ADMINISTRATIVE DATABASE ANDDEVELOP ROBUST TOOLS FOR ACCESSING AND VISUALIZING DATA TO IMPROVE WORKFORCE AND EDUCATIONSERVICE DELIV",
-    "start_date": "2023-07-01",
-    "end_date": "2026-06-30",
-    "agency": "Department of Labor",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-H79TI085331",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "H79TI085331",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 2875000.0,
-    "description": "CCH MAT-PDOA - THE CCH MAT-PDOA PROJECT WILL SERVE PEOPLE WITH OPIOID USE DISORDER (OUD) WHO ARE EXPERIENCING OR AT-RISK OF HOMELESSNESS IN THE CITY & COUNTY OF DENVER, COLORADO. THE PEOPLE SERVED BY THE PROJECT ARE ANTICIPATED TO BE NEARLY 25% HISPANIC, PREDOMINATELY MALE, BETWEEN THE AGES OF 25 AN",
-    "start_date": "2022-09-30",
-    "end_date": "2027-09-29",
-    "agency": "Department of Health and Human Services",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-20-ZZ-092-CA",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "20-ZZ-092-CA",
-    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
-    "amount": 2702090.0,
-    "description": "CARES FUNDING FOR COVID19.  THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AN",
-    "start_date": "2020-04-01",
-    "end_date": "2021-09-30",
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-SACA347-3575-554-PD-24",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "SACA347-3575-554-PD-24",
-    "recipient": "THE SALVATION ARMY",
-    "amount": 2532449.33,
-    "description": "VA IS PROVIDING PER DIEM FUNDING TO ASSIST WITH THE OPERATIONAL COSTS ASSOCIATED WITH TRANSITIONAL HOUSING BEDS FOR HOMELESS VETERANS.",
-    "start_date": null,
-    "end_date": "2025-09-30",
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0109L8T031706",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0109L8T031706",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 2334570.0,
-    "description": "CONTINUUM OF CARE PROGRAM",
-    "start_date": "2018-07-01",
-    "end_date": "2019-06-30",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-H79SM080793",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "H79SM080793",
-    "recipient": "COUNTY OF BOULDER",
-    "amount": 2253931.14,
-    "description": "BOULDER COUNTY PATHWAYS TO SUSTAINABLE HOUSING - A HOUSING FIRST, PERMANENT SUPPORTIVE HOUSING WITH TREATMENT PROJECT FOR INDIVIDUAL ADULTS EXPERIENCING CHRONIC HOMELESSNESS.",
-    "start_date": "2018-11-30",
-    "end_date": "2024-05-29",
-    "agency": "Department of Health and Human Services",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-20-CO-020-CA",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "20-CO-020-CA",
-    "recipient": "ROCKY MOUNTAIN HUMAN SERVICES",
-    "amount": 2209356.0,
-    "description": "CARES FUNDING FOR COVID19.  THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AN",
-    "start_date": "2020-04-01",
-    "end_date": "2021-09-30",
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-NH75OT000003",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "NH75OT000003",
-    "recipient": "EL PASO COUNTY PUBLIC HEALTH",
-    "amount": 2196235.0,
-    "description": "EL PASO COUNTY PUBLIC HEALTH NATIONAL INITIATIVE TO ADDRESS COVID-19 HEALTH DISPARITIES AMONG POPULATIONS AT HIGH-RISK AND UNDERSERVED, INCLUDING RACIAL AND ETHNIC MINORITY POPULATIONS - EL PASO COUNTY PUBLIC HEALTH (EPCPH) SERVES EL PASO COUNTY WITH A TOTAL POPULATION OF APPROXIMATELY 720,00 WHICH ",
-    "start_date": "2021-06-01",
-    "end_date": "2024-05-31",
-    "agency": "Department of Health and Human Services",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-SACA347-1485-554-PD-21",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "SACA347-1485-554-PD-21",
-    "recipient": "THE SALVATION ARMY",
-    "amount": 2188269.55,
-    "description": "VA IS PROVIDING PER DIEM FUNDING TO ASSIST WITH THE OPERATIONAL COSTS ASSOCIATED WITH TRANSITIONAL HOUSING BEDS FOR HOMELESS VETERANS.",
-    "start_date": null,
-    "end_date": null,
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-R01DA061228",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "R01DA061228",
-    "recipient": "THE REGENTS OF THE UNIVERSITY OF COLORADO",
-    "amount": 2169837.0,
-    "description": "IMPROVING HEALTH AND HOUSING OUTCOMES THROUGH A SIMULATION AND ECONOMIC MODEL (IHOUSE MODEL) - PROJECT SUMMARY HOMELESSNESS INCREASED BY 45% FROM 2020 TO 2021, LARGELY FROM ECONOMIC HARDSHIP CAUSED BY THE COVID-19 PANDEMIC AND HAS REACHED ALL-TIME HIGHS ACROSS THE US. MORE THAN 1.25 MILLION PEOPLE E",
-    "start_date": "2024-09-01",
-    "end_date": "2029-05-31",
-    "agency": "Department of Health and Human Services",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-E-23-DC-08-0001",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "E-23-DC-08-0001",
-    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
-    "amount": 2151676.0,
-    "description": "PURPOSE: THE EMERGENCY SOLUTIONS GRANT (ESG) AUTHORIZES THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HUD) TO MAKE GRANTS TO STATES, UNITS OF GENERAL-PURPOSE LOCAL GOVERNMENT, AND TERRITORIES FOR THE REHABILITATION OR CONVERSION OF BUILDINGS FOR USE AS EMERGENCY SHELTER FOR THE HOMELESS, FOR THE ",
-    "start_date": "2023-08-30",
-    "end_date": "2025-08-29",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "FORMULA GRANT (A)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-E-25-DC-08-0001",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "E-25-DC-08-0001",
-    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
-    "amount": 2146737.0,
-    "description": "PURPOSE: THE EMERGENCY SOLUTIONS GRANT (ESG) AUTHORIZES THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HUD) TO MAKE GRANTS TO STATES, UNITS OF GENERAL-PURPOSE LOCAL GOVERNMENT, AND TERRITORIES FOR THE REHABILITATION OR CONVERSION OF BUILDINGS FOR USE AS EMERGENCY SHELTER FOR THE HOMELESS, FOR THE ",
-    "start_date": "2026-03-20",
-    "end_date": "2028-03-19",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "FORMULA GRANT (A)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-E-24-DC-08-0001",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "E-24-DC-08-0001",
-    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
-    "amount": 2141767.0,
-    "description": "PURPOSE: THE EMERGENCY SOLUTIONS GRANT (ESG) AUTHORIZES THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HUD) TO MAKE GRANTS TO STATES, UNITS OF GENERAL-PURPOSE LOCAL GOVERNMENT, AND TERRITORIES FOR THE REHABILITATION OR CONVERSION OF BUILDINGS FOR USE AS EMERGENCY SHELTER FOR THE HOMELESS, FOR THE ",
-    "start_date": "2024-11-04",
-    "end_date": "2026-11-03",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "FORMULA GRANT (A)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-UK131723",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "UK131723",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 2090809.18,
-    "description": "NURSE, EDUCATION, PRACTICE, QUALITY AND RETENTION - REGISTERED NURSES IN PRIMARY CARE",
-    "start_date": "2018-07-01",
-    "end_date": "2022-06-30",
-    "agency": "Department of Health and Human Services",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CE146564",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CE146564",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 2000000.0,
-    "description": "COMMUNITY PROJECT FUNDING/CONGRESSIONALLY DIRECTED SPENDING - CONSTRUCTION - ADDRESS: 2175 CALIFORNIA STREET, DENVER, CO  80205 PROJECT DIRECTOR NAME:  JOHN PARVENSKY CONTACT INFO:  303.285.5204  JP@COLORADOCOALITION.ORG.  THE COLORADO COALITION FOR THE HOMELESS (CCH) IS DEVELOPING THE STOUT STREET ",
-    "start_date": "2022-08-01",
-    "end_date": "2023-05-31",
-    "agency": "Department of Health and Human Services",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-H79TI085607",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "H79TI085607",
-    "recipient": "WESTERN INTERSTATE COMMISSION FOR HIGHER EDUCATION",
-    "amount": 1948527.0,
-    "description": "REGION 8 RURAL OPIOID TECHNICAL ASSISTANCE CENTER OF EXCELLENCE - THE WESTERN INTERSTATE COMMISSION ON HIGHER EDUCATION (WICHE) BEHAVIORAL HEALTH PROGRAM (BHP) WILL PARTNER WITH UTAH STATE UNIVERSITY (USU) TO CREATE THE REGION 8 REGIONAL OPIOID TECHNICAL ASSISTANCE - RURAL (ROTA-R) CENTER OF EXCELLE",
-    "start_date": "2022-09-30",
-    "end_date": "2026-09-29",
-    "agency": "Department of Health and Human Services",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CCCO679-1482-554-PD-21",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CCCO679-1482-554-PD-21",
-    "recipient": "CATHOLIC CHARITIES AND COMMUNITY SERVICES OF THE ARCHDIOCESE OF DENVER, INC",
-    "amount": 1931882.14,
-    "description": "VA IS PROVIDING PER DIEM FUNDING TO ASSIST WITH THE OPERATIONAL COSTS ASSOCIATED WITH TRANSITIONAL HOUSING BEDS FOR HOMELESS VETERANS.",
-    "start_date": null,
-    "end_date": null,
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-H79TI080506",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "H79TI080506",
-    "recipient": "SPRINGS RESCUE MISSION",
-    "amount": 1926967.61,
-    "description": "PATHWAY OUT OF CHRONIC HOMELESSNESS:BRIDGES-2-BRIDGES PROJECT",
-    "start_date": "2018-09-30",
-    "end_date": "2023-09-29",
-    "agency": "Department of Health and Human Services",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-2020-ZZ-092-LT",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "2020-ZZ-092-LT",
-    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
-    "amount": 1881594.5,
-    "description": "THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AND SCHEDULED TO BECOME RESIDE",
-    "start_date": null,
-    "end_date": null,
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CCCO679-0346-554-SI-18-0",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CCCO679-0346-554-SI-18-0",
-    "recipient": "CATHOLIC CHARITIES AND COMMUNITY SERVICES OF THE ARCHDIOCESE OF DENVER, INC",
-    "amount": 1874532.0,
-    "description": "VA IS PROVIDING PER DIEM FUNDING TO ASSIST WITH THE OPERATIONAL COSTS ASSOCIATED WITH TRANSITIONAL HOUSING BEDS FOR HOMELESS VETERANS.",
-    "start_date": null,
-    "end_date": null,
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0203Y8T002100",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0203Y8T002100",
-    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
-    "amount": 1798050.0,
-    "description": "PURPOSE: THE YOUTH HOMELESSNESS DEMONSTRATION PROGRAM (YHDP) AIMS TO SUPPORT SELECTED COMMUNITIES IN DEVELOPING AND IMPLEMENTING A COORDINATED COMMUNITY APPROACH TO PREVENTING AND ENDING YOUTH HOMELESSNESS. THE POPULATION TO BE SERVED BY THIS DEMONSTRATION PROGRAM IS YOUTH EXPERIENCING HOMELESSNESS,",
-    "start_date": "2023-10-01",
-    "end_date": "2026-09-30",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0126L8T031703",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0126L8T031703",
-    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
-    "amount": 1760325.17,
-    "description": "CONTINUUM OF CARE PROGRAM",
-    "start_date": "2018-08-01",
-    "end_date": "2019-07-31",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-H79TI080560",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "H79TI080560",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 1640000.0,
-    "description": "CCH GBHI SERVICES",
-    "start_date": "2017-09-30",
-    "end_date": "2022-09-29",
-    "agency": "Department of Health and Human Services",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-20-ZZ-092-C3",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "20-ZZ-092-C3",
-    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
-    "amount": 1522204.0,
-    "description": "CARES FUNDING FOR COVID19.  THE SSVF PROGRAM'S PURPOSE IS TO PROVIDE SUPPORTIVE SERVICES GRANTS TO PRIVATE NON-PROFIT ORGANIZATIONS AND CONSUMER COOPERATIVES, WHO WILL COORDINATE OR PROVIDE SUPPORTIVE SERVICES TO VERY LOW-INCOME VETERAN FAMILIES WHO ARE RESIDING IN PERMANENT HOUSING, ARE HOMELESS AN",
-    "start_date": "2020-04-01",
-    "end_date": "2021-09-30",
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0226L8T032400",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0226L8T032400",
-    "recipient": "METROPOLITAN DENVER HOMELESS INITIATIVE, INC.",
-    "amount": 1500000.0,
-    "description": "PURPOSE: THE CONTINUUM OF CARE (COC) PROGRAM IS DESIGNED TO PROMOTE COMMUNITY-WIDE COMMITMENT TO THE GOAL OF ENDING HOMELESSNESS; PROVIDE FUNDING FOR EFFORTS BY NONPROFIT PROVIDERS, STATES, AND LOCAL GOVERNMENTS TO QUICKLY HOUSE HOMELESS INDIVIDUALS AND FAMILIES WHILE MINIMIZING THE TRAUMA AND DISLO",
-    "start_date": "2025-11-01",
-    "end_date": "2026-10-31",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-23560HV000025",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "23560HV000025",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 1500000.0,
-    "description": "COLORADO COALITION FOR THE HOMELESS (CCH) PROPOSES A PROJECT WITH THE PURPOSE OF ENABLING VETERANS EXPERIENCING HOMELESSNESS IN METRO DENVER TO REACH THEIR FULL EMPLOYMENT POTENTIAL AND OBTAIN HIGH-QUALITY CAREER OUTCOMES.PROPOSED STAFF ACTIVITIES INCLUDE, OUTREACH, INTAKE, ASSESSMENT, TRAINING, CAS",
-    "start_date": "2023-07-01",
-    "end_date": "2026-06-30",
-    "agency": "Department of Labor",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CO0209L8T032300",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CO0209L8T032300",
-    "recipient": "METROPOLITAN DENVER HOMELESS INITIATIVE, INC.",
-    "amount": 1491902.0,
-    "description": "PURPOSE: THE CONTINUUM OF CARE (COC) PROGRAM IS DESIGNED TO PROMOTE COMMUNITY-WIDE COMMITMENT TO THE GOAL OF ENDING HOMELESSNESS; PROVIDE FUNDING FOR EFFORTS BY NONPROFIT PROVIDERS, STATES, AND LOCAL GOVERNMENTS TO QUICKLY HOUSE HOMELESS INDIVIDUALS AND FAMILIES WHILE MINIMIZING THE TRAUMA AND DISLO",
-    "start_date": "2024-11-01",
-    "end_date": "2025-10-31",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-COCH575-0696-554-SI-18-0",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "COCH575-0696-554-SI-18-0",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 1457528.19,
-    "description": "VA IS PROVIDING PER DIEM FUNDING TO ASSIST WITH THE OPERATIONAL COSTS ASSOCIATED WITH TRANSITIONAL HOUSING BEDS FOR HOMELESS VETERANS.",
-    "start_date": null,
-    "end_date": null,
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-VOAC995-1486-554-PD-21",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "VOAC995-1486-554-PD-21",
-    "recipient": "VOLUNTEERS OF AMERICA COLORADO BRANCH",
-    "amount": 1384255.38,
-    "description": "VA IS PROVIDING PER DIEM FUNDING TO ASSIST WITH THE OPERATIONAL COSTS ASSOCIATED WITH TRANSITIONAL HOUSING BEDS FOR HOMELESS VETERANS.",
-    "start_date": null,
-    "end_date": null,
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-CCCO679-4822-554-PD-24",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "CCCO679-4822-554-PD-24",
-    "recipient": "CATHOLIC CHARITIES AND COMMUNITY SERVICES OF THE ARCHDIOCESE OF DENVER, INC",
-    "amount": 1374398.76,
-    "description": "VA IS PROVIDING PER DIEM FUNDING TO ASSIST WITH THE OPERATIONAL COSTS ASSOCIATED WITH TRANSITIONAL HOUSING BEDS FOR HOMELESS VETERANS.",
-    "start_date": null,
-    "end_date": "2025-09-30",
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-S196A230006",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "S196A230006",
-    "recipient": "BOARD OF EDUCATION COLORADO",
-    "amount": 1286249.0,
-    "description": "EDUCATION FOR HOMELESS CHILDREN AND YOUTH",
-    "start_date": "2023-07-01",
-    "end_date": "2024-09-30",
-    "agency": "Department of Education",
-    "award_type": "FORMULA GRANT (A)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-COCH575-0695-554-LD-18-0",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "COCH575-0695-554-LD-18-0",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 1282834.1,
-    "description": "VA IS PROVIDING PER DIEM FUNDING TO ASSIST WITH THE OPERATIONAL COSTS ASSOCIATED WITH TRANSITIONAL HOUSING BEDS FOR HOMELESS VETERANS.",
-    "start_date": null,
-    "end_date": null,
-    "agency": "Department of Veterans Affairs",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-S196A240006",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "S196A240006",
-    "recipient": "BOARD OF EDUCATION COLORADO",
-    "amount": 1271406.0,
-    "description": "EDUCATION FOR HOMELESS CHILDREN AND YOUTH",
-    "start_date": "2024-07-01",
-    "end_date": "2025-09-30",
-    "agency": "Department of Education",
-    "award_type": "FORMULA GRANT (A)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-COH25F999",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "COH25F999",
-    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
-    "amount": 1269977.0,
-    "description": "PURPOSE: THE HOUSING OPPORTUNITIES FOR PERSONS WITH AIDS (HOPWA) PROGRAM WAS AUTHORIZED THROUGH THE AIDS HOUSING OPPORTUNITY ACT (42 USC CH. 131) AND CREATED TO ADDRESS THE HOUSING NEEDS OF LOW-INCOME INDIVIDUALS WITH HIV/AIDS AND THEIR FAMILIES. THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HUD)",
-    "start_date": "2026-03-20",
-    "end_date": "2029-03-19",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "FORMULA GRANT (A)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-COH24F999",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "COH24F999",
-    "recipient": "LOCAL AFFAIRS, COLORADO DEPARTMENT OF",
-    "amount": 1258643.0,
-    "description": "PURPOSE: THE HOUSING OPPORTUNITIES FOR PERSONS WITH AIDS (HOPWA) PROGRAM WAS AUTHORIZED THROUGH THE AIDS HOUSING OPPORTUNITY ACT (42 USC CH. 131) AND CREATED TO ADDRESS THE HOUSING NEEDS OF LOW-INCOME INDIVIDUALS WITH HIV/AIDS AND THEIR FAMILIES. THE DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT (HUD)",
-    "start_date": "2024-11-18",
-    "end_date": "2027-11-17",
-    "agency": "Department of Housing and Urban Development",
-    "award_type": "FORMULA GRANT (A)",
-    "first_seen": "2026-07-02"
-  },
-  {
-    "id": "usa-HV35302206058",
-    "stream": "spending",
-    "subtype": "federal_award",
-    "award_id": "HV35302206058",
-    "recipient": "THE COLORADO COALITION FOR THE HOMELESS",
-    "amount": 1256000.24,
-    "description": "HOMELESS VETERANS (HVRP)",
-    "start_date": "2020-07-01",
-    "end_date": "2023-06-30",
-    "agency": "Department of Labor",
-    "award_type": "PROJECT GRANT (B)",
-    "first_seen": "2026-07-02"
-  },
-  {
     "id": "bio-1",
     "stream": "spending",
     "subtype": "bio_encampment_grant",
@@ -1415,7 +15,7 @@
       "Point_Count_12_13_14": 16,
       "Point_Count_12_13_14_15": 22
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-2",
@@ -1433,7 +33,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 6
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-3",
@@ -1451,7 +51,7 @@
       "Point_Count_12_13_14": 10,
       "Point_Count_12_13_14_15": 37
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-4",
@@ -1469,7 +69,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 10
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-5",
@@ -1487,7 +87,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 3
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-6",
@@ -1505,7 +105,7 @@
       "Point_Count_12_13_14": 161,
       "Point_Count_12_13_14_15": 235
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-7",
@@ -1523,7 +123,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 4
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-8",
@@ -1541,7 +141,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 0
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-9",
@@ -1559,7 +159,7 @@
       "Point_Count_12_13_14": 5,
       "Point_Count_12_13_14_15": 21
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-10",
@@ -1577,7 +177,7 @@
       "Point_Count_12_13_14": 128,
       "Point_Count_12_13_14_15": 167
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-11",
@@ -1595,7 +195,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 0
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-12",
@@ -1613,7 +213,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 21
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-13",
@@ -1631,7 +231,7 @@
       "Point_Count_12_13_14": 13,
       "Point_Count_12_13_14_15": 65
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-14",
@@ -1649,7 +249,7 @@
       "Point_Count_12_13_14": 3,
       "Point_Count_12_13_14_15": 15
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-15",
@@ -1667,7 +267,7 @@
       "Point_Count_12_13_14": 25,
       "Point_Count_12_13_14_15": 7
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-16",
@@ -1685,7 +285,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 9
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-17",
@@ -1703,7 +303,7 @@
       "Point_Count_12_13_14": 126,
       "Point_Count_12_13_14_15": 249
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-18",
@@ -1721,7 +321,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 0
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-19",
@@ -1739,7 +339,7 @@
       "Point_Count_12_13_14": 34,
       "Point_Count_12_13_14_15": 304
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-20",
@@ -1757,7 +357,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 3
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-21",
@@ -1775,7 +375,7 @@
       "Point_Count_12_13_14": 10,
       "Point_Count_12_13_14_15": 5
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-22",
@@ -1793,7 +393,7 @@
       "Point_Count_12_13_14": 4,
       "Point_Count_12_13_14_15": 12
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-23",
@@ -1811,7 +411,7 @@
       "Point_Count_12_13_14": 38,
       "Point_Count_12_13_14_15": 68
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-24",
@@ -1829,7 +429,7 @@
       "Point_Count_12_13_14": 5,
       "Point_Count_12_13_14_15": 36
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-25",
@@ -1847,7 +447,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 1
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-26",
@@ -1865,7 +465,7 @@
       "Point_Count_12_13_14": 127,
       "Point_Count_12_13_14_15": 419
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-27",
@@ -1883,7 +483,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 14
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-28",
@@ -1901,7 +501,7 @@
       "Point_Count_12_13_14": 4,
       "Point_Count_12_13_14_15": 12
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-29",
@@ -1919,7 +519,7 @@
       "Point_Count_12_13_14": 49,
       "Point_Count_12_13_14_15": 118
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-30",
@@ -1937,7 +537,7 @@
       "Point_Count_12_13_14": 212,
       "Point_Count_12_13_14_15": 292
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-31",
@@ -1955,7 +555,7 @@
       "Point_Count_12_13_14": 3,
       "Point_Count_12_13_14_15": 12
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-32",
@@ -1973,7 +573,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 2
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-33",
@@ -1991,7 +591,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 6
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-34",
@@ -2009,7 +609,7 @@
       "Point_Count_12_13_14": 5,
       "Point_Count_12_13_14_15": 21
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-35",
@@ -2027,7 +627,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 6
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-36",
@@ -2045,7 +645,7 @@
       "Point_Count_12_13_14": 22,
       "Point_Count_12_13_14_15": 69
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-37",
@@ -2063,7 +663,7 @@
       "Point_Count_12_13_14": 6,
       "Point_Count_12_13_14_15": 69
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-38",
@@ -2081,7 +681,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 10
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-39",
@@ -2099,7 +699,7 @@
       "Point_Count_12_13_14": 4,
       "Point_Count_12_13_14_15": 37
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-40",
@@ -2117,7 +717,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 3
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-41",
@@ -2135,7 +735,7 @@
       "Point_Count_12_13_14": 5,
       "Point_Count_12_13_14_15": 11
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-42",
@@ -2153,7 +753,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 0
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-43",
@@ -2171,7 +771,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 4
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-44",
@@ -2189,7 +789,7 @@
       "Point_Count_12_13_14": 15,
       "Point_Count_12_13_14_15": 21
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-45",
@@ -2207,7 +807,7 @@
       "Point_Count_12_13_14": 91,
       "Point_Count_12_13_14_15": 142
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-46",
@@ -2225,7 +825,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 10
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-47",
@@ -2243,7 +843,7 @@
       "Point_Count_12_13_14": 15,
       "Point_Count_12_13_14_15": 93
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-48",
@@ -2261,7 +861,7 @@
       "Point_Count_12_13_14": 4,
       "Point_Count_12_13_14_15": 25
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-49",
@@ -2279,7 +879,7 @@
       "Point_Count_12_13_14": 5,
       "Point_Count_12_13_14_15": 20
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-50",
@@ -2297,7 +897,7 @@
       "Point_Count_12_13_14": 78,
       "Point_Count_12_13_14_15": 111
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-51",
@@ -2315,7 +915,7 @@
       "Point_Count_12_13_14": 127,
       "Point_Count_12_13_14_15": 131
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-52",
@@ -2333,7 +933,7 @@
       "Point_Count_12_13_14": 27,
       "Point_Count_12_13_14_15": 16
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-53",
@@ -2351,7 +951,7 @@
       "Point_Count_12_13_14": 34,
       "Point_Count_12_13_14_15": 311
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-54",
@@ -2369,7 +969,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 3
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-55",
@@ -2387,7 +987,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 8
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-56",
@@ -2405,7 +1005,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 5
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-57",
@@ -2423,7 +1023,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 2
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-58",
@@ -2441,7 +1041,7 @@
       "Point_Count_12_13_14": 27,
       "Point_Count_12_13_14_15": 16
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-59",
@@ -2459,7 +1059,7 @@
       "Point_Count_12_13_14": 25,
       "Point_Count_12_13_14_15": 7
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-60",
@@ -2477,7 +1077,7 @@
       "Point_Count_12_13_14": 16,
       "Point_Count_12_13_14_15": 22
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-61",
@@ -2495,7 +1095,7 @@
       "Point_Count_12_13_14": 3,
       "Point_Count_12_13_14_15": 10
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-62",
@@ -2513,7 +1113,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 23
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-63",
@@ -2531,7 +1131,7 @@
       "Point_Count_12_13_14": 51,
       "Point_Count_12_13_14_15": 73
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-64",
@@ -2549,7 +1149,7 @@
       "Point_Count_12_13_14": 25,
       "Point_Count_12_13_14_15": 7
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-65",
@@ -2567,7 +1167,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 9
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-66",
@@ -2585,7 +1185,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 5
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-67",
@@ -2603,7 +1203,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 42
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-68",
@@ -2621,7 +1221,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 3
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-69",
@@ -2639,7 +1239,7 @@
       "Point_Count_12_13_14": 52,
       "Point_Count_12_13_14_15": 66
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-70",
@@ -2657,7 +1257,7 @@
       "Point_Count_12_13_14": 5,
       "Point_Count_12_13_14_15": 5
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-71",
@@ -2675,7 +1275,7 @@
       "Point_Count_12_13_14": 5,
       "Point_Count_12_13_14_15": 4
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-72",
@@ -2693,7 +1293,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 9
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-73",
@@ -2711,7 +1311,7 @@
       "Point_Count_12_13_14": 259,
       "Point_Count_12_13_14_15": 336
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-74",
@@ -2729,7 +1329,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 13
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-75",
@@ -2747,7 +1347,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 5
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-76",
@@ -2765,7 +1365,7 @@
       "Point_Count_12_13_14": 15,
       "Point_Count_12_13_14_15": 52
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-77",
@@ -2783,7 +1383,7 @@
       "Point_Count_12_13_14": 7,
       "Point_Count_12_13_14_15": 46
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-78",
@@ -2801,7 +1401,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 0
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-79",
@@ -2819,7 +1419,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 5
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-80",
@@ -2837,7 +1437,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 1
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-81",
@@ -2855,7 +1455,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 12
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-82",
@@ -2873,7 +1473,7 @@
       "Point_Count_12_13_14": 126,
       "Point_Count_12_13_14_15": 229
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-83",
@@ -2891,7 +1491,7 @@
       "Point_Count_12_13_14": 259,
       "Point_Count_12_13_14_15": 336
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-84",
@@ -2909,7 +1509,7 @@
       "Point_Count_12_13_14": 3,
       "Point_Count_12_13_14_15": 16
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-85",
@@ -2927,7 +1527,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 5
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-86",
@@ -2945,7 +1545,7 @@
       "Point_Count_12_13_14": 75,
       "Point_Count_12_13_14_15": 175
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-87",
@@ -2963,7 +1563,7 @@
       "Point_Count_12_13_14": 259,
       "Point_Count_12_13_14_15": 336
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-88",
@@ -2981,7 +1581,7 @@
       "Point_Count_12_13_14": 4,
       "Point_Count_12_13_14_15": 37
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-89",
@@ -2999,7 +1599,7 @@
       "Point_Count_12_13_14": 4,
       "Point_Count_12_13_14_15": 9
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-90",
@@ -3017,7 +1617,7 @@
       "Point_Count_12_13_14": 6,
       "Point_Count_12_13_14_15": 11
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-91",
@@ -3035,7 +1635,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 1
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-92",
@@ -3053,7 +1653,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 11
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-93",
@@ -3071,7 +1671,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 24
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-94",
@@ -3089,7 +1689,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 4
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-95",
@@ -3107,7 +1707,7 @@
       "Point_Count_12_13_14": 6,
       "Point_Count_12_13_14_15": 5
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-96",
@@ -3125,7 +1725,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 0
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-97",
@@ -3143,7 +1743,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 4
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-98",
@@ -3161,7 +1761,7 @@
       "Point_Count_12_13_14": 4,
       "Point_Count_12_13_14_15": 7
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-99",
@@ -3179,7 +1779,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 7
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-100",
@@ -3197,7 +1797,7 @@
       "Point_Count_12_13_14": 46,
       "Point_Count_12_13_14_15": 122
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-101",
@@ -3215,7 +1815,7 @@
       "Point_Count_12_13_14": 4,
       "Point_Count_12_13_14_15": 6
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-102",
@@ -3233,7 +1833,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 21
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-103",
@@ -3251,7 +1851,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 8
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-104",
@@ -3269,7 +1869,7 @@
       "Point_Count_12_13_14": 251,
       "Point_Count_12_13_14_15": 323
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-105",
@@ -3287,7 +1887,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 2
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-106",
@@ -3305,7 +1905,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 4
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-107",
@@ -3323,7 +1923,7 @@
       "Point_Count_12_13_14": 3,
       "Point_Count_12_13_14_15": 1
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-108",
@@ -3341,7 +1941,7 @@
       "Point_Count_12_13_14": 182,
       "Point_Count_12_13_14_15": 264
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-109",
@@ -3359,7 +1959,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 24
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-110",
@@ -3377,7 +1977,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 2
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-111",
@@ -3395,7 +1995,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 5
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-112",
@@ -3413,7 +2013,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 1
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-113",
@@ -3431,7 +2031,7 @@
       "Point_Count_12_13_14": 64,
       "Point_Count_12_13_14_15": 82
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-114",
@@ -3449,7 +2049,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 0
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-115",
@@ -3467,7 +2067,7 @@
       "Point_Count_12_13_14": 6,
       "Point_Count_12_13_14_15": 12
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-116",
@@ -3485,7 +2085,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 5
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-117",
@@ -3503,7 +2103,7 @@
       "Point_Count_12_13_14": 5,
       "Point_Count_12_13_14_15": 20
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-118",
@@ -3521,7 +2121,7 @@
       "Point_Count_12_13_14": 46,
       "Point_Count_12_13_14_15": 48
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-119",
@@ -3539,7 +2139,7 @@
       "Point_Count_12_13_14": 8,
       "Point_Count_12_13_14_15": 2
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-120",
@@ -3557,7 +2157,7 @@
       "Point_Count_12_13_14": 164,
       "Point_Count_12_13_14_15": 218
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-121",
@@ -3575,7 +2175,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 2
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-122",
@@ -3593,7 +2193,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 5
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-123",
@@ -3611,7 +2211,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 5
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-124",
@@ -3629,7 +2229,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 3
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-125",
@@ -3647,7 +2247,7 @@
       "Point_Count_12_13_14": 51,
       "Point_Count_12_13_14_15": 73
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-126",
@@ -3665,7 +2265,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 5
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-127",
@@ -3683,7 +2283,7 @@
       "Point_Count_12_13_14": 6,
       "Point_Count_12_13_14_15": 12
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-128",
@@ -3701,7 +2301,7 @@
       "Point_Count_12_13_14": 13,
       "Point_Count_12_13_14_15": 62
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-129",
@@ -3719,7 +2319,7 @@
       "Point_Count_12_13_14": 156,
       "Point_Count_12_13_14_15": 213
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-130",
@@ -3737,7 +2337,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 5
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-131",
@@ -3755,7 +2355,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 2
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-132",
@@ -3773,7 +2373,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 3
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-133",
@@ -3791,7 +2391,7 @@
       "Point_Count_12_13_14": 14,
       "Point_Count_12_13_14_15": 54
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-134",
@@ -3809,7 +2409,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 10
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-135",
@@ -3827,7 +2427,7 @@
       "Point_Count_12_13_14": 98,
       "Point_Count_12_13_14_15": 201
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-136",
@@ -3845,7 +2445,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 4
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-137",
@@ -3863,7 +2463,7 @@
       "Point_Count_12_13_14": 7,
       "Point_Count_12_13_14_15": 46
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-138",
@@ -3881,7 +2481,7 @@
       "Point_Count_12_13_14": 5,
       "Point_Count_12_13_14_15": 34
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-139",
@@ -3899,7 +2499,7 @@
       "Point_Count_12_13_14": 3,
       "Point_Count_12_13_14_15": 3
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-140",
@@ -3917,7 +2517,7 @@
       "Point_Count_12_13_14": 111,
       "Point_Count_12_13_14_15": 202
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-141",
@@ -3935,7 +2535,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 0
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-142",
@@ -3953,7 +2553,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 5
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-143",
@@ -3971,7 +2571,7 @@
       "Point_Count_12_13_14": 4,
       "Point_Count_12_13_14_15": 15
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-144",
@@ -3989,7 +2589,7 @@
       "Point_Count_12_13_14": 5,
       "Point_Count_12_13_14_15": 11
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-145",
@@ -4007,7 +2607,7 @@
       "Point_Count_12_13_14": 64,
       "Point_Count_12_13_14_15": 82
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-146",
@@ -4025,7 +2625,7 @@
       "Point_Count_12_13_14": 156,
       "Point_Count_12_13_14_15": 213
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-147",
@@ -4043,7 +2643,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 21
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-148",
@@ -4061,7 +2661,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 3
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-149",
@@ -4079,7 +2679,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 17
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-150",
@@ -4097,7 +2697,7 @@
       "Point_Count_12_13_14": 7,
       "Point_Count_12_13_14_15": 18
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-151",
@@ -4115,7 +2715,7 @@
       "Point_Count_12_13_14": 5,
       "Point_Count_12_13_14_15": 66
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-152",
@@ -4133,7 +2733,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 17
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-153",
@@ -4151,7 +2751,7 @@
       "Point_Count_12_13_14": 238,
       "Point_Count_12_13_14_15": 262
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-154",
@@ -4169,7 +2769,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 5
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-155",
@@ -4187,7 +2787,7 @@
       "Point_Count_12_13_14": 26,
       "Point_Count_12_13_14_15": 101
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-156",
@@ -4205,7 +2805,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 3
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-157",
@@ -4223,7 +2823,7 @@
       "Point_Count_12_13_14": 11,
       "Point_Count_12_13_14_15": 52
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-158",
@@ -4241,7 +2841,7 @@
       "Point_Count_12_13_14": 107,
       "Point_Count_12_13_14_15": 119
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-159",
@@ -4259,7 +2859,7 @@
       "Point_Count_12_13_14": 49,
       "Point_Count_12_13_14_15": 118
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-160",
@@ -4277,7 +2877,7 @@
       "Point_Count_12_13_14": 30,
       "Point_Count_12_13_14_15": 63
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-161",
@@ -4295,7 +2895,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 9
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-162",
@@ -4313,7 +2913,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 14
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-163",
@@ -4331,7 +2931,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 16
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-164",
@@ -4349,7 +2949,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 9
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-165",
@@ -4367,7 +2967,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 16
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-166",
@@ -4385,7 +2985,7 @@
       "Point_Count_12_13_14": 111,
       "Point_Count_12_13_14_15": 137
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-167",
@@ -4403,7 +3003,7 @@
       "Point_Count_12_13_14": 3,
       "Point_Count_12_13_14_15": 3
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-168",
@@ -4421,7 +3021,7 @@
       "Point_Count_12_13_14": 3,
       "Point_Count_12_13_14_15": 2
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-169",
@@ -4439,7 +3039,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 2
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-170",
@@ -4457,7 +3057,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 1
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-171",
@@ -4475,7 +3075,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 4
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-172",
@@ -4493,7 +3093,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 0
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-173",
@@ -4511,7 +3111,7 @@
       "Point_Count_12_13_14": 3,
       "Point_Count_12_13_14_15": 15
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-174",
@@ -4529,7 +3129,7 @@
       "Point_Count_12_13_14": 99,
       "Point_Count_12_13_14_15": 108
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-175",
@@ -4547,7 +3147,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 7
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-176",
@@ -4565,7 +3165,7 @@
       "Point_Count_12_13_14": 5,
       "Point_Count_12_13_14_15": 1
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-177",
@@ -4583,7 +3183,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 17
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-178",
@@ -4601,7 +3201,7 @@
       "Point_Count_12_13_14": 15,
       "Point_Count_12_13_14_15": 66
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-179",
@@ -4619,7 +3219,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 4
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-180",
@@ -4637,7 +3237,7 @@
       "Point_Count_12_13_14": 40,
       "Point_Count_12_13_14_15": 316
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-181",
@@ -4655,7 +3255,7 @@
       "Point_Count_12_13_14": 3,
       "Point_Count_12_13_14_15": 6
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-182",
@@ -4673,7 +3273,7 @@
       "Point_Count_12_13_14": 11,
       "Point_Count_12_13_14_15": 52
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-183",
@@ -4691,7 +3291,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 8
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-184",
@@ -4709,7 +3309,7 @@
       "Point_Count_12_13_14": 3,
       "Point_Count_12_13_14_15": 68
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-185",
@@ -4727,7 +3327,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 14
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-186",
@@ -4745,7 +3345,7 @@
       "Point_Count_12_13_14": 27,
       "Point_Count_12_13_14_15": 16
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-187",
@@ -4763,7 +3363,7 @@
       "Point_Count_12_13_14": 22,
       "Point_Count_12_13_14_15": 46
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-188",
@@ -4781,7 +3381,7 @@
       "Point_Count_12_13_14": 73,
       "Point_Count_12_13_14_15": 108
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-189",
@@ -4799,7 +3399,7 @@
       "Point_Count_12_13_14": 7,
       "Point_Count_12_13_14_15": 27
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-190",
@@ -4817,7 +3417,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 4
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-191",
@@ -4835,7 +3435,7 @@
       "Point_Count_12_13_14": 194,
       "Point_Count_12_13_14_15": 276
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-192",
@@ -4853,7 +3453,7 @@
       "Point_Count_12_13_14": 4,
       "Point_Count_12_13_14_15": 22
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-193",
@@ -4871,7 +3471,7 @@
       "Point_Count_12_13_14": 4,
       "Point_Count_12_13_14_15": 9
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-194",
@@ -4889,7 +3489,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 0
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-195",
@@ -4907,7 +3507,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 5
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-196",
@@ -4925,7 +3525,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 4
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-197",
@@ -4943,7 +3543,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 33
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-198",
@@ -4961,7 +3561,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 1
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-199",
@@ -4979,7 +3579,7 @@
       "Point_Count_12_13_14": 15,
       "Point_Count_12_13_14_15": 108
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-200",
@@ -4997,7 +3597,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 17
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-201",
@@ -5015,7 +3615,7 @@
       "Point_Count_12_13_14": 13,
       "Point_Count_12_13_14_15": 58
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-202",
@@ -5033,7 +3633,7 @@
       "Point_Count_12_13_14": 36,
       "Point_Count_12_13_14_15": 20
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-203",
@@ -5051,7 +3651,7 @@
       "Point_Count_12_13_14": 5,
       "Point_Count_12_13_14_15": 10
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-204",
@@ -5069,7 +3669,7 @@
       "Point_Count_12_13_14": 173,
       "Point_Count_12_13_14_15": 227
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-205",
@@ -5087,7 +3687,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 2
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-206",
@@ -5105,7 +3705,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 2
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-207",
@@ -5123,7 +3723,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 2
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-208",
@@ -5141,7 +3741,7 @@
       "Point_Count_12_13_14": 79,
       "Point_Count_12_13_14_15": 101
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-209",
@@ -5159,7 +3759,7 @@
       "Point_Count_12_13_14": 4,
       "Point_Count_12_13_14_15": 15
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-210",
@@ -5177,7 +3777,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 2
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-211",
@@ -5195,7 +3795,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 10
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-212",
@@ -5213,7 +3813,7 @@
       "Point_Count_12_13_14": 9,
       "Point_Count_12_13_14_15": 12
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-213",
@@ -5231,7 +3831,7 @@
       "Point_Count_12_13_14": 7,
       "Point_Count_12_13_14_15": 46
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-214",
@@ -5249,7 +3849,7 @@
       "Point_Count_12_13_14": 15,
       "Point_Count_12_13_14_15": 21
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-215",
@@ -5267,7 +3867,7 @@
       "Point_Count_12_13_14": 6,
       "Point_Count_12_13_14_15": 32
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-216",
@@ -5285,7 +3885,7 @@
       "Point_Count_12_13_14": 5,
       "Point_Count_12_13_14_15": 4
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-217",
@@ -5303,7 +3903,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 0
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-218",
@@ -5321,7 +3921,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 13
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-219",
@@ -5339,7 +3939,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 11
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-220",
@@ -5357,7 +3957,7 @@
       "Point_Count_12_13_14": 4,
       "Point_Count_12_13_14_15": 10
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-221",
@@ -5375,7 +3975,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 1
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-222",
@@ -5393,7 +3993,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 2
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-223",
@@ -5411,7 +4011,7 @@
       "Point_Count_12_13_14": 89,
       "Point_Count_12_13_14_15": 140
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-224",
@@ -5429,7 +4029,7 @@
       "Point_Count_12_13_14": 80,
       "Point_Count_12_13_14_15": 111
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-225",
@@ -5447,7 +4047,7 @@
       "Point_Count_12_13_14": 26,
       "Point_Count_12_13_14_15": 47
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-226",
@@ -5465,7 +4065,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 0
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-227",
@@ -5483,7 +4083,7 @@
       "Point_Count_12_13_14": 15,
       "Point_Count_12_13_14_15": 24
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-228",
@@ -5501,7 +4101,7 @@
       "Point_Count_12_13_14": 56,
       "Point_Count_12_13_14_15": 94
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-229",
@@ -5519,7 +4119,7 @@
       "Point_Count_12_13_14": 0,
       "Point_Count_12_13_14_15": 2
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-230",
@@ -5537,7 +4137,7 @@
       "Point_Count_12_13_14": 51,
       "Point_Count_12_13_14_15": 73
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-231",
@@ -5555,7 +4155,7 @@
       "Point_Count_12_13_14": 13,
       "Point_Count_12_13_14_15": 65
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-232",
@@ -5573,7 +4173,7 @@
       "Point_Count_12_13_14": 2,
       "Point_Count_12_13_14_15": 18
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-233",
@@ -5591,7 +4191,7 @@
       "Point_Count_12_13_14": 35,
       "Point_Count_12_13_14_15": 20
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-234",
@@ -5609,7 +4209,7 @@
       "Point_Count_12_13_14": 4,
       "Point_Count_12_13_14_15": 9
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-235",
@@ -5627,7 +4227,7 @@
       "Point_Count_12_13_14": 99,
       "Point_Count_12_13_14_15": 108
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-236",
@@ -5645,7 +4245,7 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 4
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   },
   {
     "id": "bio-237",
@@ -5663,6 +4263,6 @@
       "Point_Count_12_13_14": 1,
       "Point_Count_12_13_14_15": 8
     },
-    "first_seen": "2026-07-02"
+    "first_seen": "2026-07-03"
   }
 ]

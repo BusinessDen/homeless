@@ -1,5 +1,25 @@
 [
   {
+    "id": "ocd-bill/7e52f59d-4d6b-4a84-b8c5-6065ee33438e",
+    "stream": "legislation",
+    "identifier": "SB 33",
+    "title": "Clean Energy Permitting Processes",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Energy"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB33/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-07-03"
+  },
+  {
     "id": "ocd-bill/55c3a0a8-e630-4959-bb01-86a3bf2775e0",
     "stream": "legislation",
     "identifier": "HB 1044",
