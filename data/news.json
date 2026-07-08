@@ -1,5 +1,16 @@
 [
   {
+    "id": "e0b69436ca43",
+    "stream": "news",
+    "source": "denverite",
+    "source_name": "Denverite",
+    "title": "Electricity is out at a Denver hotel homeless shelter",
+    "url": "https://denverite.com/2026/07/07/electricity-is-out-at-a-denver-hotel-homeless-shelter/",
+    "published": "Tue, 07 Jul 2026 19:07:50 +0000",
+    "summary": "The city is offering 235 guests a ride to a group shelter. Not everybody is taking the offer.",
+    "first_seen": "2026-07-08"
+  },
+  {
     "id": "59b3db60dc39",
     "stream": "news",
     "source": "businessden",
