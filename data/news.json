@@ -1,5 +1,16 @@
 [
   {
+    "id": "03f5cbf56dfd",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Heat wave starts Saturday with temperatures near 100 possible",
+    "url": "https://www.9news.com/article/weather/forecast/denver-front-range-colorado-weather-forecast/73-62561776-a0cd-44b1-a9c7-18072b56759d",
+    "published": "Sat, 11 Jul 2026 02:32:39 GMT",
+    "summary": "A heat wave will sweep into Colorado starting on Saturday and possibly last for five days with high near 100 in the Denver area.",
+    "first_seen": "2026-07-11"
+  },
+  {
     "id": "e0b69436ca43",
     "stream": "news",
     "source": "denverite",
