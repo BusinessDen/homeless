@@ -1,5 +1,16 @@
 [
   {
+    "id": "b0a235b2698d",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Families affected by fentanyl gather in Aurora to call for change, not just awareness",
+    "url": "https://www.9news.com/article/news/local/fentanyl-awareness-walk-aurora/73-d2848e0a-0da9-42cf-91a9-2cbea7ebb528",
+    "published": "Sat, 11 Jul 2026 21:26:10 GMT",
+    "summary": "Dozens of people gathered in Aurora Saturday to call for more enforcement and awareness of the fentanyl crisis.",
+    "first_seen": "2026-07-12"
+  },
+  {
     "id": "03f5cbf56dfd",
     "stream": "news",
     "source": "9news",
