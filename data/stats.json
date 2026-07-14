@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-12",
+  "date": "2026-07-14",
   "streams": {
     "encampment_reports": 12015,
     "encampment_visits": 781,
@@ -7,13 +7,13 @@
     "encampment_disruptions": 9149,
     "encampment_services": 5,
     "encampment_trash": 59,
-    "crime": 6151,
+    "crime": 6198,
     "shelters": 48,
     "housing": 536,
-    "news": 48,
+    "news": 49,
     "legislation": 421,
     "spending": 337,
     "nonprofits": 9
   },
-  "total_records": 29560
+  "total_records": 29608
 }
