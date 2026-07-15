@@ -1,5 +1,67 @@
 [
   {
+    "id": "ocd-bill/4ff8344b-b59b-4a39-989d-5235d40af555",
+    "stream": "legislation",
+    "identifier": "HB 1388",
+    "title": "Repeal Bond Assistance Program Fund Transfer",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes",
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1388/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-07-15"
+  },
+  {
+    "id": "ocd-bill/c116fecb-0ee8-41d5-8cf6-3e5e77e06028",
+    "stream": "legislation",
+    "identifier": "HB 1400",
+    "title": "Adjust Public Employees' Retirement Association's Allocations to Trust Funds",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "State Government",
+      "State Revenue & Budget"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1400/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-07-15"
+  },
+  {
+    "id": "ocd-bill/548155af-ebbe-442a-b307-d986a986fd10",
+    "stream": "legislation",
+    "identifier": "HB 1413",
+    "title": "Sick & Military Leave for Certain Public Servants",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1413/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-07-15"
+  },
+  {
     "id": "ocd-bill/7e52f59d-4d6b-4a84-b8c5-6065ee33438e",
     "stream": "legislation",
     "identifier": "SB 33",

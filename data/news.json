@@ -1,5 +1,16 @@
 [
   {
+    "id": "2e5429846191",
+    "stream": "news",
+    "source": "cpr",
+    "source_name": "CPR News",
+    "title": "Just miles from the Aspen Acres fire, a shelter full of displaced pets hopes it won\u2019t have to evacuate next",
+    "url": "https://www.cpr.org/2026/07/15/aspen-acres-wildfire-animal-shelter-pet-rescues/",
+    "published": "Wed, 15 Jul 2026 10:00:00 +0000",
+    "summary": "For many rural Colorado families, evacuating means finding safety for more than a few animals.",
+    "first_seen": "2026-07-15"
+  },
+  {
     "id": "102fc0ff9ac7",
     "stream": "news",
     "source": "businessden",
