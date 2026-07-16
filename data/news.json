@@ -1,5 +1,16 @@
 [
   {
+    "id": "b2c9706f292c",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "When is the World Cup final?",
+    "url": "https://www.9news.com/article/sports/soccer/world-cup/when-is-world-cup-final-kickoff-time-halftime-show-details/507-f7a7bda2-d3a4-42ab-89ad-c217f6ca27f2",
+    "published": "Wed, 15 Jul 2026 21:10:46 GMT",
+    "summary": "MetLife Stadium in New Jersey will host the championship match, which will also feature the tournament\u2019s first-ever halftime show.",
+    "first_seen": "2026-07-16"
+  },
+  {
     "id": "2e5429846191",
     "stream": "news",
     "source": "cpr",
