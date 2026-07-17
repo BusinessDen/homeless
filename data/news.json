@@ -1,5 +1,16 @@
 [
   {
+    "id": "d9fb84d45858",
+    "stream": "news",
+    "source": "cpr",
+    "source_name": "CPR News",
+    "title": "A Grand Junction nonprofit is increasing toilet access while cleaning up human waste",
+    "url": "https://www.cpr.org/2026/07/17/toilet-access-for-unhoused-residents-grand-junction/",
+    "published": "Fri, 17 Jul 2026 10:00:00 +0000",
+    "summary": "Mesa County has one of the highest percentages of homeless residents, Toilet Equity is trying to bring them more dignity ",
+    "first_seen": "2026-07-17"
+  },
+  {
     "id": "b2c9706f292c",
     "stream": "news",
     "source": "9news",
