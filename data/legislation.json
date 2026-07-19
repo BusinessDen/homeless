@@ -1,5 +1,104 @@
 [
   {
+    "id": "ocd-bill/bfb38c31-ae1d-4e1c-bfed-2dda3c0ccc0a",
+    "stream": "legislation",
+    "identifier": "HM 1002",
+    "title": "Memorializing Former Representative Carl Miller",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "General Assembly"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HM1002/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-07-19"
+  },
+  {
+    "id": "ocd-bill/ec9d5dbe-a0c2-4dab-b6f1-970a0d0747c8",
+    "stream": "legislation",
+    "identifier": "HB 1266",
+    "title": "Repeal Retail Delivery Fees",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes",
+      "Transportation & Motor Vehicles"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1266/",
+    "sources": [],
+    "search_term": "affordable housing",
+    "first_seen": "2026-07-19"
+  },
+  {
+    "id": "ocd-bill/2db96dcb-d1b8-40d5-99e3-8b5715aaca32",
+    "stream": "legislation",
+    "identifier": "SJR 11",
+    "title": "Designate Sergeant John \"Jack\" Thurman Memorial Highway",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "General Assembly"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SJR11/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-07-19"
+  },
+  {
+    "id": "ocd-bill/1f98d6cd-db73-4303-86c3-16dd60355877",
+    "stream": "legislation",
+    "identifier": "HJR 1020",
+    "title": "International Women's Day",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HJR1020/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-07-19"
+  },
+  {
+    "id": "ocd-bill/bce38ed2-f483-4e6d-aba6-4b192708cd0e",
+    "stream": "legislation",
+    "identifier": "HJR 1018",
+    "title": "Plains-to-Pines Scenic Corridor",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "General Assembly"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HJR1018/",
+    "sources": [],
+    "search_term": "housing first",
+    "first_seen": "2026-07-19"
+  },
+  {
     "id": "ocd-bill/4ff8344b-b59b-4a39-989d-5235d40af555",
     "stream": "legislation",
     "identifier": "HB 1388",
