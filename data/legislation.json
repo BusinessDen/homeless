@@ -1,5 +1,45 @@
 [
   {
+    "id": "ocd-bill/1afbbde2-e55c-4bd1-b24c-9febf187d8e1",
+    "stream": "legislation",
+    "identifier": "HB 1101",
+    "title": "Criminal Offenses Related to Critical Infrastructure Metals",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1101/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-07-21"
+  },
+  {
+    "id": "ocd-bill/19653dd1-758a-4237-bfc6-bdc341aa3a50",
+    "stream": "legislation",
+    "identifier": "SB 11",
+    "title": "Search Warrants Provided to Covered Platforms",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB11/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-07-21"
+  },
+  {
     "id": "ocd-bill/bfb38c31-ae1d-4e1c-bfed-2dda3c0ccc0a",
     "stream": "legislation",
     "identifier": "HM 1002",
