@@ -1,5 +1,49 @@
 [
   {
+    "id": "0b6704aee488",
+    "stream": "news",
+    "source": "denverite",
+    "source_name": "Denverite",
+    "title": "5 new state-funded housing projects are coming to Denver\u00a0",
+    "url": "https://denverite.com/2026/07/21/denver-five-state-funded-housing-projects/",
+    "published": "Tue, 21 Jul 2026 19:39:02 +0000",
+    "summary": "The projects total more than 400 units of affordable housing.",
+    "first_seen": "2026-07-22"
+  },
+  {
+    "id": "b1c67766db91",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Denver Mayor talks changes to childcare licensing and affordable housing in State of the City address",
+    "url": "https://www.9news.com/article/news/local/local-politics/denver-mayor-state-of-the-city-address-2026/73-81c99c36-a124-4fe8-adef-75acdbc9078a",
+    "published": "Wed, 22 Jul 2026 04:44:47 GMT",
+    "summary": "Mayor Mike Johnston introduced plans for a citywide listening tour and thousands of affordable housing units in his 2026 State of the City speech.",
+    "first_seen": "2026-07-22"
+  },
+  {
+    "id": "cb6d33d11e79",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Denver's no-cost grocery store helps feed city's historically low-income neighborhood",
+    "url": "https://www.9news.com/article/news/local/denver-no-cost-grocery-store-feeds-low-income-neighborhood/73-3f4c6699-dc0f-49b2-9b32-63df4865494f",
+    "published": "Wed, 22 Jul 2026 00:31:22 GMT",
+    "summary": "James Manning, once homeless with his sons, relies on a vital free grocery program in Denver's low-income Sun Valley neighborhood that addresses food insecurity.",
+    "first_seen": "2026-07-22"
+  },
+  {
+    "id": "6df5b106f527",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "78-year-old Georgia woman overdoses on fentanyl after alleged prescription mix-up at Publix pharmacy",
+    "url": "https://www.9news.com/article/news/nation-world/georgia-woman-overdose-fentanyl-alleged-prescription-mix-up-publix/507-59c3c6de-1dad-4c76-a0a9-35fb8e332266",
+    "published": "Tue, 21 Jul 2026 22:53:52 GMT",
+    "summary": "A Georgia woman said she unknowingly used fentanyl patches for weeks after being given someone else's prescription.",
+    "first_seen": "2026-07-22"
+  },
+  {
     "id": "d9fb84d45858",
     "stream": "news",
     "source": "cpr",
