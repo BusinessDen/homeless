@@ -1,5 +1,27 @@
 [
   {
+    "id": "8d12b26af846",
+    "stream": "news",
+    "source": "colorado_sun",
+    "source_name": "Colorado Sun",
+    "title": "\u201cWhat\u2019d I Miss?\u201d: Decriminalizing the homeless",
+    "url": "https://coloradosun.com/2026/07/24/whatd-i-miss-decriminalizing-the-homeless/",
+    "published": "Fri, 24 Jul 2026 08:05:00 +0000",
+    "summary": "<figure><img width=\"1024\" height=\"683\" src=\"https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/07/WIM-411-preview.png?fit=1024%2C683&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://i0.wp.com/newspack-",
+    "first_seen": "2026-07-24"
+  },
+  {
+    "id": "d701c0225d8d",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Fatal police shooting of man with knife roils Wisconsin capital",
+    "url": "https://www.9news.com/article/news/nation-world/fatal-police-shooting-madison-wisconsin/507-a45dbb19-d9c0-46f6-9657-dba253c78ef1",
+    "published": "Thu, 23 Jul 2026 21:37:24 GMT",
+    "summary": "Protesters interrupted a news conference Thursday in which Madison officials identified the man who was shot as a homeless resident.",
+    "first_seen": "2026-07-24"
+  },
+  {
     "id": "0b6704aee488",
     "stream": "news",
     "source": "denverite",

@@ -1,5 +1,45 @@
 [
   {
+    "id": "ocd-bill/2711d162-89a9-419a-a8fa-d88df3dac272",
+    "stream": "legislation",
+    "identifier": "HB 1358",
+    "title": "Reduce Academic Accelerator Grant Program Appropriation",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Education & School Finance (Pre & K-12)"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1358/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-07-24"
+  },
+  {
+    "id": "ocd-bill/c81ea4d1-4eaa-45c6-adc5-43ca957767a5",
+    "stream": "legislation",
+    "identifier": "HB 1353",
+    "title": "Student State Assessment in Social Studies",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Education & School Finance (Pre & K-12)"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1353/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-07-24"
+  },
+  {
     "id": "ocd-bill/1afbbde2-e55c-4bd1-b24c-9febf187d8e1",
     "stream": "legislation",
     "identifier": "HB 1101",
