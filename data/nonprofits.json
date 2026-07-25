@@ -9,9 +9,9 @@
     "ntee_code": "P850",
     "total_revenue": null,
     "total_assets": null,
-    "score": 146.3381,
-    "first_seen": "2026-07-24",
-    "last_updated": "2026-07-24"
+    "score": 146.289,
+    "first_seen": "2026-07-25",
+    "last_updated": "2026-07-25"
   },
   {
     "id": "np-846038762",
@@ -23,9 +23,9 @@
     "ntee_code": "P280",
     "total_revenue": null,
     "total_assets": null,
-    "score": 125.978615,
-    "first_seen": "2026-07-24",
-    "last_updated": "2026-07-24"
+    "score": 125.81636,
+    "first_seen": "2026-07-25",
+    "last_updated": "2026-07-25"
   },
   {
     "id": "np-841212246",
@@ -37,9 +37,9 @@
     "ntee_code": "L410",
     "total_revenue": null,
     "total_assets": null,
-    "score": 106.78595,
-    "first_seen": "2026-07-24",
-    "last_updated": "2026-07-24"
+    "score": 106.84465,
+    "first_seen": "2026-07-25",
+    "last_updated": "2026-07-25"
   },
   {
     "id": "np-201122039",
@@ -51,9 +51,9 @@
     "ntee_code": "L41",
     "total_revenue": null,
     "total_assets": null,
-    "score": 129.65654,
-    "first_seen": "2026-07-24",
-    "last_updated": "2026-07-24"
+    "score": 129.5939,
+    "first_seen": "2026-07-25",
+    "last_updated": "2026-07-25"
   },
   {
     "id": "np-820741818",
@@ -65,9 +65,9 @@
     "ntee_code": "L99",
     "total_revenue": null,
     "total_assets": null,
-    "score": 134.84424,
-    "first_seen": "2026-07-24",
-    "last_updated": "2026-07-24"
+    "score": 134.94527,
+    "first_seen": "2026-07-25",
+    "last_updated": "2026-07-25"
   },
   {
     "id": "np-840616970",
@@ -79,9 +79,9 @@
     "ntee_code": "J330",
     "total_revenue": null,
     "total_assets": null,
-    "score": 115.36106,
-    "first_seen": "2026-07-24",
-    "last_updated": "2026-07-24"
+    "score": 115.17815,
+    "first_seen": "2026-07-25",
+    "last_updated": "2026-07-25"
   },
   {
     "id": "np-841185856",
@@ -93,9 +93,9 @@
     "ntee_code": null,
     "total_revenue": null,
     "total_assets": null,
-    "score": 97.32338,
-    "first_seen": "2026-07-24",
-    "last_updated": "2026-07-24"
+    "score": 97.47037,
+    "first_seen": "2026-07-25",
+    "last_updated": "2026-07-25"
   },
   {
     "id": "np-742499946",
@@ -107,9 +107,23 @@
     "ntee_code": "F30Z",
     "total_revenue": null,
     "total_assets": null,
-    "score": 143.94882,
-    "first_seen": "2026-07-24",
-    "last_updated": "2026-07-24"
+    "score": 143.87943,
+    "first_seen": "2026-07-25",
+    "last_updated": "2026-07-25"
+  },
+  {
+    "id": "np-846037719",
+    "stream": "nonprofits",
+    "name": "American Federation Of State County & Municipal Employees",
+    "ein": 846037719,
+    "city": "Denver",
+    "state": "CO",
+    "ntee_code": null,
+    "total_revenue": null,
+    "total_assets": null,
+    "score": 27.42017,
+    "first_seen": "2026-07-25",
+    "last_updated": "2026-07-25"
   },
   {
     "id": "np-840430995",
@@ -121,8 +135,8 @@
     "ntee_code": null,
     "total_revenue": null,
     "total_assets": null,
-    "score": 100.288895,
-    "first_seen": "2026-07-24",
-    "last_updated": "2026-07-24"
+    "score": 100.21648,
+    "first_seen": "2026-07-25",
+    "last_updated": "2026-07-25"
   }
 ]

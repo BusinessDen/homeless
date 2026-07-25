@@ -1,5 +1,46 @@
 [
   {
+    "id": "ocd-bill/041f5b81-d968-4fbe-90c0-edaa7cd5f6f5",
+    "stream": "legislation",
+    "identifier": "HB 1408",
+    "title": "Processes to Determine State Budget Requests",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "State Government",
+      "State Revenue & Budget"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1408/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-07-25"
+  },
+  {
+    "id": "ocd-bill/83940640-a9ac-4e48-9ea6-2e313a78fce6",
+    "stream": "legislation",
+    "identifier": "HB 1347",
+    "title": "Federal Disability Benefits for Foster Care Youth",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Children & Domestic Matters"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1347/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-07-25"
+  },
+  {
     "id": "ocd-bill/2711d162-89a9-419a-a8fa-d88df3dac272",
     "stream": "legislation",
     "identifier": "HB 1358",
