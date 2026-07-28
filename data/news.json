@@ -1,5 +1,38 @@
 [
   {
+    "id": "84ad02962690",
+    "stream": "news",
+    "source": "denverite",
+    "source_name": "Denverite",
+    "title": "Childcare frustrations? Denver says it\u2019s ready to listen",
+    "url": "https://denverite.com/2026/07/27/denver-mayor-universal-childcare-plan/",
+    "published": "Mon, 27 Jul 2026 22:56:38 +0000",
+    "summary": "City to host listening sessions as Mayor Mike Johnston launches childcare plan.",
+    "first_seen": "2026-07-28"
+  },
+  {
+    "id": "68c4a0485535",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Longmont tiny home village for veterans reaches full capacity after community steps in to close funding gap",
+    "url": "https://www.9news.com/article/news/community/longmont-veterans-tiny-home-village-reaches-capacity-community-closes-funding-gap/73-679c3e9b-483f-425e-beaf-fb04b3629f9c",
+    "published": "Tue, 28 Jul 2026 00:48:26 GMT",
+    "summary": "Longmont's Veterans Community Project, a nonprofit providing transitional housing for veterans, reaches full capacity after community efforts close a funding gap.",
+    "first_seen": "2026-07-28"
+  },
+  {
+    "id": "36d98db1f52f",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Kelly Ripa absent from 'Live!' while recovering from gum surgery",
+    "url": "https://www.9news.com/article/news/nation-world/kelly-ripa-live-absence-recovering-from-surgery/507-5d3e9f6a-c059-450b-9c04-dec631f0d0aa",
+    "published": "Tue, 28 Jul 2026 00:29:15 GMT",
+    "summary": "Various celebrities will take Ripa's seat while she is away, co-host and husband Mark Consuelos said.",
+    "first_seen": "2026-07-28"
+  },
+  {
     "id": "8d12b26af846",
     "stream": "news",
     "source": "colorado_sun",
