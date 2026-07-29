@@ -1,5 +1,16 @@
 [
   {
+    "id": "886c12ff5343",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Death of man found inside Adams County overpass does not appear to be result of a criminal act",
+    "url": "https://www.9news.com/article/news/local/colorado-news/body-found-inside-adams-county-overpass-not-criminal-act/73-893158ad-1776-4266-aba2-d5e8726da887",
+    "published": "Tue, 28 Jul 2026 23:42:50 GMT",
+    "summary": "The body was found after authorities uncovered a second encampment inside bridge in a matter of days.",
+    "first_seen": "2026-07-29"
+  },
+  {
     "id": "84ad02962690",
     "stream": "news",
     "source": "denverite",
