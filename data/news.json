@@ -1,5 +1,16 @@
 [
   {
+    "id": "0a5f411e46e6",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Rufus the rescued dog finds new home with Ohio fire department",
+    "url": "https://www.9news.com/article/news/nation-world/rescued-dog-adopted-liberty-fire-department/507-cfaef1f0-c6c0-4e17-b346-3b4aec48c1af",
+    "published": "Thu, 30 Jul 2026 03:43:52 GMT",
+    "summary": "Rufus was rescued from unsafe living conditions and spent two years in the shelter. Now he has a new home and a new job.",
+    "first_seen": "2026-07-30"
+  },
+  {
     "id": "886c12ff5343",
     "stream": "news",
     "source": "9news",
