@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-04",
   "streams": {
-    "encampment_reports": 12015,
-    "encampment_visits": 781,
+    "encampment_reports": 4000,
+    "encampment_visits": 0,
     "encampment_closures": 1,
-    "encampment_disruptions": 9149,
+    "encampment_disruptions": 4056,
     "encampment_services": 5,
     "encampment_trash": 59,
-    "crime": 6413,
-    "shelters": 48,
+    "crime": 3827,
+    "shelters": 7,
     "housing": 536,
     "news": 66,
     "legislation": 436,
     "spending": 337,
     "nonprofits": 10
   },
-  "total_records": 29856
+  "total_records": 13340
 }

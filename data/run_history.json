@@ -1,5 +1,67 @@
 [
   {
+    "date": "2026-08-04",
+    "timestamp": "2026-08-04T11:47:28.586709+00:00",
+    "scrapers": {
+      "encampment_reports": {
+        "status": "ok",
+        "count": 4000
+      },
+      "encampment_visits": {
+        "status": "ok",
+        "count": 0
+      },
+      "encampment_closures": {
+        "status": "ok",
+        "count": 1
+      },
+      "encampment_disruptions": {
+        "status": "ok",
+        "count": 4056
+      },
+      "encampment_services": {
+        "status": "ok",
+        "count": 5
+      },
+      "encampment_trash": {
+        "status": "ok",
+        "count": 59
+      },
+      "crime": {
+        "status": "ok",
+        "count": 3827
+      },
+      "shelters": {
+        "status": "ok",
+        "count": 7
+      },
+      "housing": {
+        "status": "ok",
+        "count": 536
+      },
+      "news": {
+        "status": "ok",
+        "count": 66
+      },
+      "legislation": {
+        "status": "ok",
+        "count": 436
+      },
+      "spending": {
+        "status": "ok",
+        "count": 337
+      },
+      "nonprofits": {
+        "status": "ok",
+        "count": 10
+      }
+    },
+    "errors": [],
+    "total_scrapers": 13,
+    "successful": 13,
+    "failed": 0
+  },
+  {
     "date": "2026-08-02",
     "timestamp": "2026-08-02T11:30:20.741351+00:00",
     "scrapers": {
