@@ -1,5 +1,16 @@
 [
   {
+    "id": "002cdff4666b",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Denver's largest shelter hit every performance metric, but fewer people made it into permanent housing",
+    "url": "https://www.9news.com/article/news/local/local-politics/denver-largest-shelter-permanent-housing/73-0b367d1e-0a19-482d-b0b8-3a386cd7a45c",
+    "published": "Wed, 05 Aug 2026 01:25:59 GMT",
+    "summary": "The metrics are supposed to lead people into housing. Denver's largest shelter hit every one of them, but fewer people actually got housed.",
+    "first_seen": "2026-08-05"
+  },
+  {
     "id": "423cdbee087c",
     "stream": "news",
     "source": "9news",

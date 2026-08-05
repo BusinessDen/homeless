@@ -622,5 +622,13 @@
     "removed": 0,
     "changed": 1,
     "total": 4000
+  },
+  {
+    "date": "2026-08-05",
+    "stream": "encampment_reports",
+    "new": 0,
+    "removed": 0,
+    "changed": 1,
+    "total": 12015
   }
 ]
