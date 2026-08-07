@@ -1,5 +1,68 @@
 [
   {
+    "id": "ocd-bill/d01c4cfd-1367-4070-b865-34c12bec7a93",
+    "stream": "legislation",
+    "identifier": "HB 1398",
+    "title": "Retail Delivery Fee Revenue Allocation",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Fiscal Policy & Taxes",
+      "Transportation & Motor Vehicles"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1398/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-08-07"
+  },
+  {
+    "id": "ocd-bill/5afa3f6a-e563-439b-af57-4108a79185c9",
+    "stream": "legislation",
+    "identifier": "SB 10",
+    "title": "Agricultural Property Tax Definitions",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Agriculture",
+      "Fiscal Policy & Taxes"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/SB10/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-08-07"
+  },
+  {
+    "id": "ocd-bill/55b98e52-786a-425a-b502-e0c1ab114f3d",
+    "stream": "legislation",
+    "identifier": "HB 1270",
+    "title": "Ownership of Agricultural Data",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Agriculture",
+      "Financial Services & Commerce"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1270/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-08-07"
+  },
+  {
     "id": "ocd-bill/c035f1a1-73da-4c78-bbfb-d3530d953f7c",
     "stream": "legislation",
     "identifier": "HB 1355",
