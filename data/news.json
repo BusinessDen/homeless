@@ -1,5 +1,49 @@
 [
   {
+    "id": "bbbe6c2f2fa2",
+    "stream": "news",
+    "source": "denverite",
+    "source_name": "Denverite",
+    "title": "Denver Mayor Mike Johnston files to run for a second term",
+    "url": "https://denverite.com/2026/08/10/denver-mayor-mike-johnston-reelection-filed/",
+    "published": "Mon, 10 Aug 2026 20:51:43 +0000",
+    "summary": "He plans to continue to work on homelessness, public safety and a plan for universal childcare.",
+    "first_seen": "2026-08-11"
+  },
+  {
+    "id": "7a30e7f637b5",
+    "stream": "news",
+    "source": "cpr",
+    "source_name": "CPR News",
+    "title": "Listen: People struggling with fentanyl addiction have a new option in Denver",
+    "url": "https://www.cpr.org/2026/08/10/opioid-addiction-recovery-denver-wellpower-suboxone/",
+    "published": "Mon, 10 Aug 2026 16:35:48 +0000",
+    "summary": "\u201cYou\u2019ve got to want to change your life, and this is something that\u2019s life-changing for you,\u201d one recovering user said.",
+    "first_seen": "2026-08-11"
+  },
+  {
+    "id": "90892802ebf2",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Greeley woman remembers daughter killed in grass fire",
+    "url": "https://www.9news.com/article/news/local/greeley-woman-remembers-daughter-killed-in-grass-fire/73-bfcc2083-5570-4ae6-a580-52e24986628a",
+    "published": "Tue, 11 Aug 2026 03:52:41 GMT",
+    "summary": "Flames sparked near the Highway 34 and Highway 85 interchange Saturday. Tammy McKee said her daughter, Dizarae, and her boyfriend were living at an encampment there.",
+    "first_seen": "2026-08-11"
+  },
+  {
+    "id": "e26537c13f7c",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Former President Barack Obama launches his first podcast",
+    "url": "https://www.9news.com/article/news/nation-world/barack-obama-launches-podcast-audible-a-great-book/507-22694441-bc33-4084-88d1-21984636222b",
+    "published": "Mon, 10 Aug 2026 22:50:34 GMT",
+    "summary": "The former president will host a six-episode Audible podcast discussing six books that shaped his worldview.",
+    "first_seen": "2026-08-11"
+  },
+  {
     "id": "1b3dd2c3a9ec",
     "stream": "news",
     "source": "denverite",
