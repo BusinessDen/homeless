@@ -1,5 +1,16 @@
 [
   {
+    "id": "ed4cc9b661d7",
+    "stream": "news",
+    "source": "cpr",
+    "source_name": "CPR News",
+    "title": "Memorial shelter credited with protecting stranded cyclist on the Palisade Plunge trail",
+    "url": "https://www.cpr.org/2026/08/11/palisade-plunge-trail-heat-shelter/",
+    "published": "Wed, 12 Aug 2026 01:00:38 +0000",
+    "summary": "The shelter was erected by loved ones of a rider who succumbed to heat on the trail four years ago.",
+    "first_seen": "2026-08-12"
+  },
+  {
     "id": "bbbe6c2f2fa2",
     "stream": "news",
     "source": "denverite",
