@@ -1,5 +1,27 @@
 [
   {
+    "id": "78e58671dfb0",
+    "stream": "news",
+    "source": "denverite",
+    "source_name": "Denverite",
+    "title": "Urban Alchemy is beating goals at the embattled homeless shelter it runs",
+    "url": "https://denverite.com/2026/08/13/urban-alchemy-homeless-shelter-goals/",
+    "published": "Thu, 13 Aug 2026 10:00:00 +0000",
+    "summary": "But the Aspen's transition from the Salvation Army to Urban Alchemy hasn't been perfect.",
+    "first_seen": "2026-08-13"
+  },
+  {
+    "id": "cd0431a1e678",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "No charges filed after record number of fentanyl pills left behind in Douglas County storage unit",
+    "url": "https://www.9news.com/article/news/crime/douglas-county-colorado-fentanyl-seizure-record/73-e13a533b-97d1-4936-b30b-092e53e33808",
+    "published": "Wed, 12 Aug 2026 22:54:14 GMT",
+    "summary": "DEA: It's believed those responsible for the cache of drugs are facing charges for other crimes.",
+    "first_seen": "2026-08-13"
+  },
+  {
     "id": "ed4cc9b661d7",
     "stream": "news",
     "source": "cpr",
