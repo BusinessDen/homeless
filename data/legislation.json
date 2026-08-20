@@ -1,5 +1,45 @@
 [
   {
+    "id": "ocd-bill/7afed659-b5c3-4177-8dcb-7ce0a6c451ce",
+    "stream": "legislation",
+    "identifier": "HB 1299",
+    "title": "Reducing Regulatory Burden on Education Providers",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Education & School Finance (Pre & K-12)"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1299/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-08-20"
+  },
+  {
+    "id": "ocd-bill/b94f43be-af26-43e8-8638-406fd28f09f7",
+    "stream": "legislation",
+    "identifier": "HB 1348",
+    "title": "Changes to Broadband Infrastructure Cash Fund",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Crimes, Corrections, & Enforcement"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1348/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-08-20"
+  },
+  {
     "id": "ocd-bill/d01c4cfd-1367-4070-b865-34c12bec7a93",
     "stream": "legislation",
     "identifier": "HB 1398",
