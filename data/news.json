@@ -1,5 +1,27 @@
 [
   {
+    "id": "c92e826fac86",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Brian Hickerson's brother speaks out on Hayden Panettiere's death, recalls finding her unconscious",
+    "url": "https://www.9news.com/article/news/nation-world/hayden-panettiere-death-new-details-zack-hickerson-comments/507-5b5264ae-e819-42ba-96db-e64a94d964c0",
+    "published": "Sat, 22 Aug 2026 02:40:08 GMT",
+    "summary": "In a new interview, Zach Hickerson recalled that Panettiere's on-and-off again boyfriend administered Narcan after finding her unconscious.",
+    "first_seen": "2026-08-22"
+  },
+  {
+    "id": "87197f0c7b12",
+    "stream": "news",
+    "source": "9news",
+    "source_name": "9News",
+    "title": "Denver hopes to be contender to host a future NFL draft",
+    "url": "https://www.9news.com/article/sports/nfl/denver-broncos/denver-contender-host-nfl-draft/73-a2264e66-4afd-4074-99ed-ad50e64bf836",
+    "published": "Fri, 21 Aug 2026 22:37:10 GMT",
+    "summary": "Mayor Mike Johnston would like to see the NFL Draft in Denver, aiming to boost excitement in the city after Civic Center Park renovations are completed.",
+    "first_seen": "2026-08-22"
+  },
+  {
     "id": "cbf1c3309a60",
     "stream": "news",
     "source": "denverite",
