@@ -1,5 +1,67 @@
 [
   {
+    "date": "2026-08-23",
+    "timestamp": "2026-08-23T11:22:18.921507+00:00",
+    "scrapers": {
+      "encampment_reports": {
+        "status": "ok",
+        "count": 12015
+      },
+      "encampment_visits": {
+        "status": "ok",
+        "count": 781
+      },
+      "encampment_closures": {
+        "status": "ok",
+        "count": 1
+      },
+      "encampment_disruptions": {
+        "status": "ok",
+        "count": 9149
+      },
+      "encampment_services": {
+        "status": "ok",
+        "count": 5
+      },
+      "encampment_trash": {
+        "status": "ok",
+        "count": 59
+      },
+      "crime": {
+        "status": "ok",
+        "count": 6538
+      },
+      "shelters": {
+        "status": "ok",
+        "count": 48
+      },
+      "housing": {
+        "status": "ok",
+        "count": 536
+      },
+      "news": {
+        "status": "ok",
+        "count": 80
+      },
+      "legislation": {
+        "status": "ok",
+        "count": 441
+      },
+      "spending": {
+        "status": "ok",
+        "count": 337
+      },
+      "nonprofits": {
+        "status": "ok",
+        "count": 10
+      }
+    },
+    "errors": [],
+    "total_scrapers": 13,
+    "successful": 13,
+    "failed": 0
+  },
+  {
     "date": "2026-08-22",
     "timestamp": "2026-08-22T11:22:17.859735+00:00",
     "scrapers": {
@@ -5502,68 +5564,6 @@
       "legislation": {
         "status": "ok",
         "count": 187
-      },
-      "spending": {
-        "status": "ok",
-        "count": 337
-      },
-      "nonprofits": {
-        "status": "ok",
-        "count": 9
-      }
-    },
-    "errors": [],
-    "total_scrapers": 13,
-    "successful": 13,
-    "failed": 0
-  },
-  {
-    "date": "2026-04-15",
-    "timestamp": "2026-04-15T11:58:17.771311+00:00",
-    "scrapers": {
-      "encampment_reports": {
-        "status": "ok",
-        "count": 12015
-      },
-      "encampment_visits": {
-        "status": "ok",
-        "count": 781
-      },
-      "encampment_closures": {
-        "status": "ok",
-        "count": 1
-      },
-      "encampment_disruptions": {
-        "status": "ok",
-        "count": 9149
-      },
-      "encampment_services": {
-        "status": "ok",
-        "count": 5
-      },
-      "encampment_trash": {
-        "status": "ok",
-        "count": 59
-      },
-      "crime": {
-        "status": "ok",
-        "count": 5676
-      },
-      "shelters": {
-        "status": "ok",
-        "count": 48
-      },
-      "housing": {
-        "status": "ok",
-        "count": 536
-      },
-      "news": {
-        "status": "ok",
-        "count": 5
-      },
-      "legislation": {
-        "status": "ok",
-        "count": 182
       },
       "spending": {
         "status": "ok",
