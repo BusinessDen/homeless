@@ -1,5 +1,26 @@
 [
   {
+    "id": "ocd-bill/b84d1329-363a-447c-80af-c811f53f25e3",
+    "stream": "legislation",
+    "identifier": "HB 1205",
+    "title": "Colorado State Forest Service Good Neighbor Authority",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Natural Resources & Environment",
+      "State Government"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1205/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-08-25"
+  },
+  {
     "id": "ocd-bill/7afed659-b5c3-4177-8dcb-7ce0a6c451ce",
     "stream": "legislation",
     "identifier": "HB 1299",
