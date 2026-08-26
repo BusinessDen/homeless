@@ -1,5 +1,28 @@
 [
   {
+    "id": "ocd-bill/b341f1ca-1d59-43b4-944e-4c7b949279f4",
+    "stream": "legislation",
+    "identifier": "HB 1116",
+    "title": "Process for People with Behavioral Health Disorder",
+    "session": "2026A",
+    "classification": [
+      "bill"
+    ],
+    "subject": [
+      "Civil Law",
+      "Courts & Judicial",
+      "Health Care & Health Insurance",
+      "Human Services"
+    ],
+    "sponsors": [],
+    "latest_action": "",
+    "latest_action_date": "",
+    "openstates_url": "https://openstates.org/co/bills/2026A/HB1116/",
+    "sources": [],
+    "search_term": "supportive housing",
+    "first_seen": "2026-08-26"
+  },
+  {
     "id": "ocd-bill/b84d1329-363a-447c-80af-c811f53f25e3",
     "stream": "legislation",
     "identifier": "HB 1205",
